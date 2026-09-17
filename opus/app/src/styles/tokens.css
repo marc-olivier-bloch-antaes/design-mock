@@ -1,0 +1,523 @@
+/* ==========================================================================
+   SiL – Services industriels de Lausanne · Design tokens (POC refonte)
+   --------------------------------------------------------------------------
+   Compatible Tailwind CSS v4 ET navigateur sans build.
+
+   Architecture (même pattern que shadcn/ui) :
+   1. `@font-face`        Figtree (variable 300–900, OFL), auto-hébergée ./fonts
+   2. `:root`             SOURCE DE VÉRITÉ des valeurs, préfixe `--sil-*`.
+                          Utilisable partout : CSS modules, maquettes HTML,
+                          styles inline, Storybook.
+   3. `@theme inline`     Mappe les tokens vers les namespaces Tailwind
+                          (`--color-*`, `--text-*`, `--radius-*`, …) →
+                          génère `bg-action`, `text-h1`, `rounded-card`…
+                          Les navigateurs ignorent ce bloc (at-rule inconnue).
+   4. `@theme`            Valeurs statiques impossibles à passer par var()
+                          (breakpoints utilisés dans des media queries).
+
+   Import côté Vite/React :  @import "tailwindcss";  @import "./tokens.css";
+   Modifier une valeur = modifier UNIQUEMENT le bloc `:root`.
+   Contrastes WCAG 2.1 calculés : voir DESIGN.md § Couleurs.
+   ========================================================================== */
+
+/* 1. Typographie auto-hébergée ------------------------------------------- */
+@font-face {
+  font-family: "Figtree";
+  font-style: normal;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url("./fonts/figtree-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Figtree";
+  font-style: normal;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url("./fonts/figtree-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+    U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+    U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Figtree";
+  font-style: italic;
+  font-weight: 300 900;
+  font-display: swap;
+  src: url("./fonts/figtree-italic-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+    U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* 2. Tokens (source de vérité) ------------------------------------------- */
+:root {
+  /* ---- Vert SiL — couleur d'ACTION et d'identité de la section SiL ------
+     500 = vert historique #09a16d (barre de navigation / CTA du site actuel).
+     Blanc sur 500 = 3.32:1 → réservé aux grands aplats, icônes, filets.
+     700 = couleur des boutons et liens (blanc 5.90:1, sur blanc 5.90:1). */
+  --sil-green-50: #ecf8f2;
+  --sil-green-100: #d2efe2;
+  --sil-green-200: #a6dfc6;
+  --sil-green-300: #6fcaa5;
+  --sil-green-400: #36b485;
+  --sil-green-500: #09a16d; /* brand — décoratif / texte ≥ 24px */
+  --sil-green-600: #008a5c; /* décoratif (blanc 4.38:1 : pas de petit texte) */
+  --sil-green-700: #00734d; /* ACTION : boutons, liens, onglet actif */
+  --sil-green-800: #065c3f; /* hover */
+  --sil-green-900: #0a4a34; /* pressed · bandeaux sombres */
+  --sil-green-950: #062a1f;
+
+  /* ---- Rouge Lausanne — ACCENT de marque (point du « i », signatures) ---
+     500 = #e1313c (lausanne.ch) : 4.46:1 sur blanc → jamais pour du texte
+     courant. 600 pour texte/badges, 700 pour erreurs. */
+  --sil-red-50: #fdeeee;
+  --sil-red-100: #fbd6d8;
+  --sil-red-200: #f6adb1;
+  --sil-red-300: #ee7c83;
+  --sil-red-400: #e8535c;
+  --sil-red-500: #e1313c; /* brand — puces, pastilles, filets */
+  --sil-red-600: #c8202c; /* texte rouge / fond badge urgence (blanc 5.68:1) */
+  --sil-red-700: #a51d27; /* erreur, texte sur red-50 (6.65:1) */
+  --sil-red-800: #8d1e20;
+  --sil-red-900: #6f1a1d;
+  --sil-red-950: #3f0c0e;
+  --sil-logo-red: #e30613; /* couleur exacte du point du logo — logo uniquement */
+
+  /* ---- Neutres chauds dérivés du noir du logo (#1d1d1b) ---------------- */
+  --sil-neutral-0: #ffffff;
+  --sil-neutral-25: #fbfbfa;
+  --sil-neutral-50: #f6f6f4; /* fond de section alterné */
+  --sil-neutral-100: #eeeeeb; /* fond chips, hover léger */
+  --sil-neutral-200: #e0e0dc; /* bordures de cartes, séparateurs */
+  --sil-neutral-300: #c9c9c3; /* bordures appuyées */
+  --sil-neutral-400: #a3a39c; /* texte secondaire SUR FOND SOMBRE uniquement */
+  --sil-neutral-500: #7b7b74; /* bordure de champ (4.26:1), placeholder */
+  --sil-neutral-600: #5f5f59; /* texte secondaire sur clair (6.43:1) */
+  --sil-neutral-700: #474743;
+  --sil-neutral-800: #30302d;
+  --sil-neutral-900: #1d1d1b; /* texte principal (16.88:1) = noir du logo */
+  --sil-neutral-950: #111110; /* footer */
+
+  /* ---- Bleu interactif historique #0080bf → focus & info --------------- */
+  --sil-blue-50: #e6f3fa;
+  --sil-blue-100: #c6e3f3;
+  --sil-blue-300: #7fd3ff; /* focus sur fond sombre (10.18:1 sur neutral-900) */
+  --sil-blue-500: #0080bf; /* brand historique — décoratif */
+  --sil-blue-600: #006fa6; /* anneau de focus sur clair (5.49:1) */
+  --sil-blue-700: #005a87; /* texte info sur blue-50 (6.60:1) */
+
+  /* ---- Ambre historique #f69e01 → avertissement ------------------------ */
+  --sil-amber-50: #fff5e0;
+  --sil-amber-100: #ffe7b3;
+  --sil-amber-400: #ffb42e;
+  --sil-amber-500: #f69e01; /* décoratif ; texte ink dessus 7.89:1 */
+  --sil-amber-700: #9a5b00; /* texte sur amber-50 (5.01:1) */
+
+  /* ---- Accents d'univers (pictos, pastilles, filets) --------------------
+     Jamais porteurs de sens seuls : toujours accompagnés d'icône + libellé.
+     -accent : décoratif (filet, point) · -soft : fond de pastille
+     -ink    : icône/texte sur -soft ET sur blanc (≥ 5:1)                   */
+  --sil-univ-electricite: #f69e01;
+  --sil-univ-electricite-soft: #fff3d6;
+  --sil-univ-electricite-ink: #8a5200; /* 5.79:1 sur soft */
+  --sil-univ-chaleur: #e5542b;
+  --sil-univ-chaleur-soft: #fdebe4;
+  --sil-univ-chaleur-ink: #b03a16; /* 5.25:1 */
+  --sil-univ-gaz: #0080bf;
+  --sil-univ-gaz-soft: #e3f2fa;
+  --sil-univ-gaz-ink: #00628f; /* 5.84:1 */
+  --sil-univ-multimedia: #7a4fd8;
+  --sil-univ-multimedia-soft: #efe9fc;
+  --sil-univ-multimedia-ink: #5f37b8; /* 6.51:1 */
+  --sil-univ-mobilite: #13a3a3;
+  --sil-univ-mobilite-soft: #e0f5f4;
+  --sil-univ-mobilite-ink: #0b6f70; /* 5.26:1 */
+  --sil-univ-solaire: #f5c000;
+  --sil-univ-solaire-soft: #fff7d1;
+  --sil-univ-solaire-ink: #7a6000; /* 5.56:1 */
+
+  /* ---- Rôles sémantiques (à utiliser en priorité dans les composants) -- */
+  --sil-bg: var(--sil-neutral-0);
+  --sil-bg-subtle: var(--sil-neutral-50);
+  --sil-bg-muted: var(--sil-neutral-100);
+  --sil-bg-inverse: var(--sil-neutral-950);
+  --sil-bg-brand: var(--sil-green-900); /* bandeau CTA */
+  --sil-bg-brand-subtle: var(--sil-green-50);
+
+  --sil-text: var(--sil-neutral-900);
+  --sil-text-muted: var(--sil-neutral-600);
+  --sil-text-inverse: var(--sil-neutral-0);
+  --sil-text-inverse-muted: var(--sil-neutral-400);
+  --sil-text-link: var(--sil-green-700);
+  --sil-text-link-hover: var(--sil-green-800);
+
+  --sil-border: var(--sil-neutral-200);
+  --sil-border-strong: var(--sil-neutral-300);
+  --sil-border-input: var(--sil-neutral-500);
+  --sil-border-inverse: rgb(255 255 255 / 0.14);
+
+  --sil-action: var(--sil-green-700);
+  --sil-action-hover: var(--sil-green-800);
+  --sil-action-active: var(--sil-green-900);
+  --sil-action-subtle: var(--sil-green-50);
+  --sil-on-action: var(--sil-neutral-0);
+
+  --sil-accent: var(--sil-red-500);
+  --sil-focus: var(--sil-blue-600);
+  --sil-focus-inverse: var(--sil-blue-300);
+
+  --sil-success: var(--sil-green-700);
+  --sil-success-bg: var(--sil-green-50);
+  --sil-warning: var(--sil-amber-700);
+  --sil-warning-bg: var(--sil-amber-50);
+  --sil-danger: var(--sil-red-700);
+  --sil-danger-bg: var(--sil-red-50);
+  --sil-info: var(--sil-blue-700);
+  --sil-info-bg: var(--sil-blue-50);
+
+  /* Overlay photo : garantit ≥ 4.5:1 pour du texte blanc (≥ 60 % d'opacité
+     sous le texte, cas le plus défavorable = photo blanche → 4.95:1). */
+  --sil-overlay-photo: linear-gradient(
+    180deg,
+    rgb(17 17 16 / 0) 0%,
+    rgb(17 17 16 / 0.35) 40%,
+    rgb(17 17 16 / 0.82) 100%
+  );
+  --sil-overlay-scrim: rgb(17 17 16 / 0.48); /* derrière drawer / méga-menu */
+
+  /* ---- Typographie ------------------------------------------------------ */
+  --sil-font-sans: "Figtree", ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --sil-weight-regular: 400;
+  --sil-weight-medium: 500;
+  --sil-weight-semibold: 600;
+  --sil-weight-bold: 700;
+  --sil-weight-extrabold: 800;
+
+  /* Échelle fluide 390 px → 1440 px (clamp). [taille, interligne, approche] */
+  --sil-text-display: clamp(2.5rem, 1.95rem + 2.25vw, 4rem); /* 40 → 64 */
+  --sil-text-display-lh: 1.04;
+  --sil-text-display-ls: -0.03em;
+  --sil-text-h1: clamp(2.125rem, 1.72rem + 1.65vw, 3.25rem); /* 34 → 52 */
+  --sil-text-h1-lh: 1.08;
+  --sil-text-h1-ls: -0.025em;
+  --sil-text-h2: clamp(1.75rem, 1.47rem + 1.14vw, 2.5rem); /* 28 → 40 */
+  --sil-text-h2-lh: 1.15;
+  --sil-text-h2-ls: -0.02em;
+  --sil-text-h3: clamp(1.375rem, 1.24rem + 0.57vw, 1.75rem); /* 22 → 28 */
+  --sil-text-h3-lh: 1.25;
+  --sil-text-h3-ls: -0.01em;
+  --sil-text-h4: clamp(1.1875rem, 1.12rem + 0.29vw, 1.375rem); /* 19 → 22 */
+  --sil-text-h4-lh: 1.3;
+  --sil-text-h4-ls: -0.005em;
+  --sil-text-lead: clamp(1.125rem, 1.03rem + 0.38vw, 1.375rem); /* 18 → 22 */
+  --sil-text-lead-lh: 1.5;
+  --sil-text-body-lg: 1.125rem; /* 18 */
+  --sil-text-body-lg-lh: 1.6;
+  --sil-text-body: 1rem; /* 16 (jamais moins pour du texte courant) */
+  --sil-text-body-lh: 1.6;
+  --sil-text-sm: 0.875rem; /* 14 — métadonnées, fil d'Ariane, légendes */
+  --sil-text-sm-lh: 1.5;
+  --sil-text-xs: 0.8125rem; /* 13 — badges, surtitres (min absolu) */
+  --sil-text-xs-lh: 1.4;
+  --sil-text-figure: clamp(2.25rem, 1.8rem + 1.9vw, 3.5rem); /* chiffres clés */
+  --sil-text-figure-lh: 1;
+
+  --sil-tracking-eyebrow: 0.02em;
+  --sil-measure: 68ch; /* longueur de ligne max du texte courant */
+
+  /* ---- Espacements (base 4 px = --spacing Tailwind) --------------------- */
+  --sil-space-unit: 0.25rem;
+  --sil-gutter: clamp(1rem, 0.5rem + 2vw, 2rem); /* 16 → 32 : marges latérales */
+  --sil-grid-gap: clamp(1rem, 0.75rem + 1vw, 2rem); /* 16 → 32 */
+  --sil-section-y: clamp(3.5rem, 2.5rem + 4vw, 6.5rem); /* 56 → 104 */
+  --sil-section-y-sm: clamp(2.5rem, 2rem + 2vw, 4rem); /* 40 → 64 */
+  --sil-stack-heading: clamp(1.5rem, 1.2rem + 1.2vw, 2.5rem); /* titre → contenu */
+
+  /* ---- Largeurs de conteneur ------------------------------------------- */
+  --sil-container: 80rem; /* 1280 px — conteneur de page (gouttières incluses) */
+  --sil-container-wide: 90rem; /* 1440 px — hero pleine largeur */
+  --sil-container-prose: 45rem; /* 720 px — colonne de lecture */
+  --sil-container-narrow: 36rem; /* 576 px */
+
+  /* ---- Hauteurs de chrome ---------------------------------------------- */
+  --sil-utility-bar-h: 2.25rem; /* 36 */
+  --sil-header-h: 4rem; /* 64 mobile */
+  --sil-header-h-lg: 5rem; /* 80 ≥ lg */
+  --sil-tabs-h: 3.5rem; /* 56 */
+  --sil-touch-min: 2.75rem; /* 44 — cible tactile minimale */
+
+  /* ---- Rayons (écho des terminaisons arrondies du logo) ----------------- */
+  --sil-radius-xs: 0.25rem; /* 4  — badges de format */
+  --sil-radius-sm: 0.5rem; /* 8  — champs, petites vignettes */
+  --sil-radius-md: 0.75rem; /* 12 — pastilles d'icône, tuiles */
+  --sil-radius-lg: 1rem; /* 16 — cartes, accordéon, tableaux */
+  --sil-radius-xl: 1.5rem; /* 24 — images de hero, bandeaux */
+  --sil-radius-2xl: 2rem; /* 32 — hero d'accueil ≥ lg */
+  --sil-radius-full: 9999px; /* boutons, chips, onglets mobiles */
+
+  /* ---- Ombres (teintées neutral-900, très douces) ----------------------- */
+  --sil-shadow-xs: 0 1px 2px rgb(29 29 27 / 0.06);
+  --sil-shadow-sm: 0 1px 3px rgb(29 29 27 / 0.08), 0 1px 2px rgb(29 29 27 / 0.04);
+  --sil-shadow-md: 0 6px 16px -4px rgb(29 29 27 / 0.1), 0 2px 4px -2px rgb(29 29 27 / 0.06);
+  --sil-shadow-lg: 0 16px 40px -12px rgb(29 29 27 / 0.18), 0 4px 10px -4px rgb(29 29 27 / 0.06);
+  --sil-shadow-xl: 0 28px 64px -16px rgb(29 29 27 / 0.28);
+
+  /* ---- Élévation (z-index) --------------------------------------------- */
+  --sil-z-sticky-tabs: 30;
+  --sil-z-header: 40;
+  --sil-z-scrim: 50;
+  --sil-z-megamenu: 60;
+  --sil-z-drawer: 70;
+  --sil-z-skiplink: 100;
+
+  /* ---- Motion ----------------------------------------------------------- */
+  --sil-duration-instant: 80ms; /* feedback press */
+  --sil-duration-fast: 150ms; /* hover, couleurs */
+  --sil-duration-base: 220ms; /* accordéon, onglets, méga-menu */
+  --sil-duration-slow: 320ms; /* drawer, carrousel */
+  --sil-duration-slower: 480ms; /* apparition de section */
+  --sil-ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --sil-ease-out: cubic-bezier(0.05, 0.7, 0.1, 1); /* entrées */
+  --sil-ease-in: cubic-bezier(0.3, 0, 0.8, 0.15); /* sorties */
+}
+
+/* Accessibilité : mouvement réduit → transitions quasi instantanées,
+   aucune translation/zoom (gérer côté composant : pas de transform). */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --sil-duration-instant: 1ms;
+    --sil-duration-fast: 1ms;
+    --sil-duration-base: 1ms;
+    --sil-duration-slow: 1ms;
+    --sil-duration-slower: 1ms;
+  }
+}
+
+/* 3. Mapping Tailwind v4 (ignoré par les navigateurs) --------------------- */
+@theme inline {
+  /* Palette fermée : on retire les couleurs Tailwind par défaut pour
+     empêcher les teintes hors charte (bg-sky-500, etc.). */
+  --color-*: initial;
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  --color-green-50: var(--sil-green-50);
+  --color-green-100: var(--sil-green-100);
+  --color-green-200: var(--sil-green-200);
+  --color-green-300: var(--sil-green-300);
+  --color-green-400: var(--sil-green-400);
+  --color-green-500: var(--sil-green-500);
+  --color-green-600: var(--sil-green-600);
+  --color-green-700: var(--sil-green-700);
+  --color-green-800: var(--sil-green-800);
+  --color-green-900: var(--sil-green-900);
+  --color-green-950: var(--sil-green-950);
+
+  --color-red-50: var(--sil-red-50);
+  --color-red-100: var(--sil-red-100);
+  --color-red-200: var(--sil-red-200);
+  --color-red-300: var(--sil-red-300);
+  --color-red-400: var(--sil-red-400);
+  --color-red-500: var(--sil-red-500);
+  --color-red-600: var(--sil-red-600);
+  --color-red-700: var(--sil-red-700);
+  --color-red-800: var(--sil-red-800);
+  --color-red-900: var(--sil-red-900);
+  --color-red-950: var(--sil-red-950);
+  --color-logo-red: var(--sil-logo-red);
+
+  --color-neutral-0: var(--sil-neutral-0);
+  --color-neutral-25: var(--sil-neutral-25);
+  --color-neutral-50: var(--sil-neutral-50);
+  --color-neutral-100: var(--sil-neutral-100);
+  --color-neutral-200: var(--sil-neutral-200);
+  --color-neutral-300: var(--sil-neutral-300);
+  --color-neutral-400: var(--sil-neutral-400);
+  --color-neutral-500: var(--sil-neutral-500);
+  --color-neutral-600: var(--sil-neutral-600);
+  --color-neutral-700: var(--sil-neutral-700);
+  --color-neutral-800: var(--sil-neutral-800);
+  --color-neutral-900: var(--sil-neutral-900);
+  --color-neutral-950: var(--sil-neutral-950);
+
+  --color-blue-50: var(--sil-blue-50);
+  --color-blue-100: var(--sil-blue-100);
+  --color-blue-300: var(--sil-blue-300);
+  --color-blue-500: var(--sil-blue-500);
+  --color-blue-600: var(--sil-blue-600);
+  --color-blue-700: var(--sil-blue-700);
+
+  --color-amber-50: var(--sil-amber-50);
+  --color-amber-100: var(--sil-amber-100);
+  --color-amber-400: var(--sil-amber-400);
+  --color-amber-500: var(--sil-amber-500);
+  --color-amber-700: var(--sil-amber-700);
+
+  --color-univ-electricite: var(--sil-univ-electricite);
+  --color-univ-electricite-soft: var(--sil-univ-electricite-soft);
+  --color-univ-electricite-ink: var(--sil-univ-electricite-ink);
+  --color-univ-chaleur: var(--sil-univ-chaleur);
+  --color-univ-chaleur-soft: var(--sil-univ-chaleur-soft);
+  --color-univ-chaleur-ink: var(--sil-univ-chaleur-ink);
+  --color-univ-gaz: var(--sil-univ-gaz);
+  --color-univ-gaz-soft: var(--sil-univ-gaz-soft);
+  --color-univ-gaz-ink: var(--sil-univ-gaz-ink);
+  --color-univ-multimedia: var(--sil-univ-multimedia);
+  --color-univ-multimedia-soft: var(--sil-univ-multimedia-soft);
+  --color-univ-multimedia-ink: var(--sil-univ-multimedia-ink);
+  --color-univ-mobilite: var(--sil-univ-mobilite);
+  --color-univ-mobilite-soft: var(--sil-univ-mobilite-soft);
+  --color-univ-mobilite-ink: var(--sil-univ-mobilite-ink);
+  --color-univ-solaire: var(--sil-univ-solaire);
+  --color-univ-solaire-soft: var(--sil-univ-solaire-soft);
+  --color-univ-solaire-ink: var(--sil-univ-solaire-ink);
+
+  /* Sémantiques → bg-surface, text-muted, border-default, bg-action… */
+  --color-surface: var(--sil-bg);
+  --color-surface-subtle: var(--sil-bg-subtle);
+  --color-surface-muted: var(--sil-bg-muted);
+  --color-surface-inverse: var(--sil-bg-inverse);
+  --color-surface-brand: var(--sil-bg-brand);
+  --color-surface-brand-subtle: var(--sil-bg-brand-subtle);
+  --color-ink: var(--sil-text);
+  --color-muted: var(--sil-text-muted);
+  --color-inverse: var(--sil-text-inverse);
+  --color-inverse-muted: var(--sil-text-inverse-muted);
+  --color-link: var(--sil-text-link);
+  --color-link-hover: var(--sil-text-link-hover);
+  --color-border-default: var(--sil-border);
+  --color-border-strong: var(--sil-border-strong);
+  --color-border-input: var(--sil-border-input);
+  --color-action: var(--sil-action);
+  --color-action-hover: var(--sil-action-hover);
+  --color-action-active: var(--sil-action-active);
+  --color-action-subtle: var(--sil-action-subtle);
+  --color-on-action: var(--sil-on-action);
+  --color-accent: var(--sil-accent);
+  --color-focus: var(--sil-focus);
+  --color-focus-inverse: var(--sil-focus-inverse);
+  --color-success: var(--sil-success);
+  --color-success-bg: var(--sil-success-bg);
+  --color-warning: var(--sil-warning);
+  --color-warning-bg: var(--sil-warning-bg);
+  --color-danger: var(--sil-danger);
+  --color-danger-bg: var(--sil-danger-bg);
+  --color-info: var(--sil-info);
+  --color-info-bg: var(--sil-info-bg);
+
+  /* Police */
+  --font-sans: var(--sil-font-sans);
+  --font-weight-regular: var(--sil-weight-regular);
+  --font-weight-medium: var(--sil-weight-medium);
+  --font-weight-semibold: var(--sil-weight-semibold);
+  --font-weight-bold: var(--sil-weight-bold);
+  --font-weight-extrabold: var(--sil-weight-extrabold);
+
+  /* Échelle typographique → text-display, text-h1 … text-xs */
+  --text-display: var(--sil-text-display);
+  --text-display--line-height: var(--sil-text-display-lh);
+  --text-display--letter-spacing: var(--sil-text-display-ls);
+  --text-display--font-weight: 750;
+  --text-h1: var(--sil-text-h1);
+  --text-h1--line-height: var(--sil-text-h1-lh);
+  --text-h1--letter-spacing: var(--sil-text-h1-ls);
+  --text-h1--font-weight: 750;
+  --text-h2: var(--sil-text-h2);
+  --text-h2--line-height: var(--sil-text-h2-lh);
+  --text-h2--letter-spacing: var(--sil-text-h2-ls);
+  --text-h2--font-weight: 700;
+  --text-h3: var(--sil-text-h3);
+  --text-h3--line-height: var(--sil-text-h3-lh);
+  --text-h3--letter-spacing: var(--sil-text-h3-ls);
+  --text-h3--font-weight: 700;
+  --text-h4: var(--sil-text-h4);
+  --text-h4--line-height: var(--sil-text-h4-lh);
+  --text-h4--letter-spacing: var(--sil-text-h4-ls);
+  --text-h4--font-weight: 650;
+  --text-lead: var(--sil-text-lead);
+  --text-lead--line-height: var(--sil-text-lead-lh);
+  --text-body-lg: var(--sil-text-body-lg);
+  --text-body-lg--line-height: var(--sil-text-body-lg-lh);
+  --text-body: var(--sil-text-body);
+  --text-body--line-height: var(--sil-text-body-lh);
+  --text-sm: var(--sil-text-sm);
+  --text-sm--line-height: var(--sil-text-sm-lh);
+  --text-xs: var(--sil-text-xs);
+  --text-xs--line-height: var(--sil-text-xs-lh);
+  --text-figure: var(--sil-text-figure);
+  --text-figure--line-height: var(--sil-text-figure-lh);
+
+  /* Espacement : base 4 px (p-4 = 16 px). Tokens nommés : py-section… */
+  --spacing: var(--sil-space-unit);
+  --spacing-gutter: var(--sil-gutter);
+  --spacing-grid: var(--sil-grid-gap);
+  --spacing-section: var(--sil-section-y);
+  --spacing-section-sm: var(--sil-section-y-sm);
+  --spacing-stack: var(--sil-stack-heading);
+  --spacing-header: var(--sil-header-h);
+  --spacing-header-lg: var(--sil-header-h-lg);
+  --spacing-touch: var(--sil-touch-min);
+
+  /* Conteneurs → max-w-page, max-w-prose … */
+  --container-page: var(--sil-container);
+  --container-wide: var(--sil-container-wide);
+  --container-prose: var(--sil-container-prose);
+  --container-narrow: var(--sil-container-narrow);
+
+  /* Rayons → rounded-card, rounded-pill … (+ échelle xs → 2xl) */
+  --radius-xs: var(--sil-radius-xs);
+  --radius-sm: var(--sil-radius-sm);
+  --radius-md: var(--sil-radius-md);
+  --radius-lg: var(--sil-radius-lg);
+  --radius-xl: var(--sil-radius-xl);
+  --radius-2xl: var(--sil-radius-2xl);
+  --radius-card: var(--sil-radius-lg);
+  --radius-media: var(--sil-radius-xl);
+  --radius-pill: var(--sil-radius-full);
+
+  /* Ombres */
+  --shadow-xs: var(--sil-shadow-xs);
+  --shadow-sm: var(--sil-shadow-sm);
+  --shadow-md: var(--sil-shadow-md);
+  --shadow-lg: var(--sil-shadow-lg);
+  --shadow-xl: var(--sil-shadow-xl);
+
+  /* Motion → ease-standard, duration-* restent en utilitaires arbitraires */
+  --ease-standard: var(--sil-ease-standard);
+  --ease-out: var(--sil-ease-out);
+  --ease-in: var(--sil-ease-in);
+
+  --animate-fade-in: sil-fade-in var(--sil-duration-base) var(--sil-ease-out) both;
+  --animate-slide-in-right: sil-slide-in-right var(--sil-duration-slow) var(--sil-ease-out) both;
+  --animate-dropdown: sil-dropdown var(--sil-duration-base) var(--sil-ease-out) both;
+
+  @keyframes sil-fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes sil-slide-in-right {
+    from { transform: translateX(100%); }
+    to { transform: translateX(0); }
+  }
+  @keyframes sil-dropdown {
+    from { opacity: 0; transform: translateY(-8px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+}
+
+/* 4. Breakpoints (valeurs littérales : utilisées dans des media queries) ---
+   Mobile-first. Identiques aux défauts Tailwind + `xs` pour les grands
+   smartphones. Méga-menu desktop à partir de `lg`. */
+@theme {
+  --breakpoint-xs: 24rem; /*  384 px — grands smartphones */
+  --breakpoint-sm: 40rem; /*  640 px — phablettes / petites tablettes */
+  --breakpoint-md: 48rem; /*  768 px — tablettes portrait */
+  --breakpoint-lg: 64rem; /* 1024 px — tablettes paysage / laptop : nav desktop */
+  --breakpoint-xl: 80rem; /* 1280 px — desktop */
+  --breakpoint-2xl: 90rem; /* 1440 px — grand desktop */
+}

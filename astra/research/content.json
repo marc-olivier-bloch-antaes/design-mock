@@ -1,0 +1,1453 @@
+{
+  "generatedAt": "2026-09-16",
+  "sourceRoot": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+  "notes": "Inventaire éditorial destiné au prototype. Les libellés et textes proviennent des pages publiques SiL sauvegardées dans research/sources.",
+  "pages": [
+    {
+      "slug": "/",
+      "title": "Services industriels de Lausanne",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "intro": "Bienvenue dans le monde de l'énergie des Services industriels de Lausanne! Electricité, chaleur, gaz et télécommunications, nous sommes à votre écoute et avons à cœur de vous offrir des services et des produits innovants qui correspondent à vos besoins, quel que soit votre profil.",
+      "sections": [
+        {
+          "heading": "6 mois offerts sur nos abonnements Mobile",
+          "body": [
+            "MobiGo, MobiSwiss ou MobiEuro: choisissez l’abonnement qui vous correspond et profitez-en jusqu’au 12 octobre."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Tarifs de l'électricité 2027: infos en ligne",
+          "body": [
+            "Découvrez les nouveaux tarifs des SiL dès 2027. Infos et FAQ à votre disposition"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Sur la piste des SiL",
+          "body": [
+            "Les SiL fêtent leurs 130 ans et vous offrent un jeu de piste gratuit à travers Lausanne. Participez et gagnez de nombreux prix."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Produisez votre électricité depuis votre balcon!",
+          "body": [
+            "Découvrez notre nouvelle subvention pour l’installation de panneaux solaires de balcon"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Le soleil, une énergie inépuisable",
+          "body": [
+            "Découvrez le nouveau cadastre solaire des toits lausannois"
+          ],
+          "links": []
+        },
+        {
+          "heading": "La mobilité électrique à Lausanne",
+          "body": [
+            "Toutes nos solutions pour recharger vos batteries."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Une rénovation en vue?",
+          "body": [
+            "Demandez un rendez-vous gratuit"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Electricité",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Chaleur",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Gaz",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Multimédia",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Mobilité",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "6 mois offerts sur nos abonnements Mobile MobiGo, MobiSwiss ou MobiEuro: choisissez l’abonnement qui vous correspond et profitez-en jusqu’au 12 octobre.",
+          "url": "https://sil-bliblablo.ch/promo/6moismobile26/?utm_source=Lausanne_ch_sil&utm_medium=partenaire&utm_content=001FR&utm_campaign=6moismolbile-26"
+        },
+        {
+          "label": "Tarifs de l'électricité 2027: infos en ligne Découvrez les nouveaux tarifs des SiL dès 2027. Infos et FAQ à votre disposition",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite?tab=tarifs"
+        },
+        {
+          "label": "Sur la piste des SiL Les SiL fêtent leurs 130 ans et vous offrent un jeu de piste gratuit à travers Lausanne. Participez et gagnez de nombreux prix.",
+          "url": "https://www.lausanne.ch/sil130"
+        },
+        {
+          "label": "Produisez votre électricité depuis votre balcon! Découvrez notre nouvelle subvention pour l’installation de panneaux solaires de balcon",
+          "url": "https://www.equiwatt.ch/subvention-pour-linstallation-de-panneaux-solaires-photovoltaiques-pour-balcon/?utm_source=lausanne.ch_sil&utm_medium=carrousel&utm_campaign=solaire_balcon"
+        },
+        {
+          "label": "Le soleil, une énergie inépuisable Découvrez le nouveau cadastre solaire des toits lausannois",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/production/solaire.html"
+        },
+        {
+          "label": "La mobilité électrique à Lausanne Toutes nos solutions pour recharger vos batteries.",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html?map=true&mode="
+        },
+        {
+          "label": "Une rénovation en vue? Demandez un rendez-vous gratuit",
+          "url": "https://www.equiwatt-lausanne.ch/conseils-immo"
+        },
+        {
+          "label": "Electricité Electricité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html"
+        },
+        {
+          "label": "Chauffage à distance Chaleur",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html"
+        },
+        {
+          "label": "Gaz Gaz",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html"
+        },
+        {
+          "label": "Multimédia Multimédia",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html"
+        },
+        {
+          "label": "Mobilité Mobilité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html"
+        }
+      ]
+    },
+    {
+      "slug": "/electricite",
+      "title": "Electricité - Produits",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html",
+      "intro": "nativa , l'électricité d'origine 100% renouvelable des SiL, contribue au développement des énergies renouvelables dans votre région. Choisissez le produit qui correspond le mieux à vos critères économiques et environnementaux.",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=30"
+        },
+        {
+          "label": "Produits",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=produits"
+        },
+        {
+          "label": "Tarifs",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=tarifs"
+        },
+        {
+          "label": "Raccordement",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=raccordement"
+        },
+        {
+          "label": "Sécurité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=securite"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=faq"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /electricite",
+          "url": "https://www.lausanne.ch/electricite"
+        }
+      ]
+    },
+    {
+      "slug": "/chaleur",
+      "title": "Chaleur - Solutions",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+      "intro": "Optez pour une solution de chauffage durable, locale et tournée vers l'avenir.",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=energie&concerne=512"
+        },
+        {
+          "label": "Solutions",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=solutions"
+        },
+        {
+          "label": "Simulateur thermique",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=simulateur-thermique"
+        },
+        {
+          "label": "Pompe à chaleur",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=pompe-a-chaleur"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=faq"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /chaleur",
+          "url": "https://www.lausanne.ch/chaleur"
+        }
+      ]
+    },
+    {
+      "slug": "/gaz-naturel",
+      "title": "Gaz naturel-biogaz - Solutions",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html",
+      "intro": "Qu’il s’agisse de chauffage, d’eau chaude ou de cuisson, le gaz naturel est une énergie de transition qui s’adapte aux besoins de chacun et se combine facilement avec les énergies renouvelables.",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=31"
+        },
+        {
+          "label": "Solutions",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=solutions"
+        },
+        {
+          "label": "Gaz-solaire",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=gaz-solaire"
+        },
+        {
+          "label": "Tarifs",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=tarifs"
+        },
+        {
+          "label": "Raccordement",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=raccordement"
+        },
+        {
+          "label": "Sécurité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=securite"
+        },
+        {
+          "label": "FAQ",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=faq"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /gaz",
+          "url": "https://www.lausanne.ch/gaz"
+        },
+        {
+          "label": "www.lausanne.ch /biogaz",
+          "url": "https://www.lausanne.ch/biogaz"
+        }
+      ]
+    },
+    {
+      "slug": "/multimedia",
+      "title": "bli bla blo, le multimédia d'ici",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+      "intro": "Avec à nos offres sur mesure, profitez du meilleur de la TV, de l'internet et de la téléphonie fixe et mobile. En tant que fournisseur multimédia des Lausannoises et des Lausannois, nous améliorons constamment nos solutions pour répondre à vos besoins et vous garantir un service de qualité et de proximité.",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [
+            "Surfez jusqu’à 1Gbit/s, téléphonez sans limite sur les réseaux fixes suisses, restez connectés grâce à nos offres mobiles et profitez du meilleur de la TV et des fonctions telles que le Replay et l’Enregistrement. Pour des formules adaptées à vos besoins, nos offres combinées bli bla blo proposent le meilleur du multimédia."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Offres Combo",
+          "body": [
+            "Adaptez la vitesse Internet, le style de télévision, l’abo mobile ainsi que de nombreux autres services tout en profitant des avantages Combo. Vous profitez ainsi d’une expérience multimédia enrichie et personnalisée au plus proche de vos besoins. Simplifiez-vous la vie et profitez de tarifs plus avantageux en réunissant le tout dans un seul abonnement avec les offres combinées bli bla blo."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Télévision",
+          "body": [
+            "Regardez la télévision d’un autre œil grâce à la TV interactive! La box vous offre plusieurs fonctions avancées pour une meilleure expérience. Enregistrez, mettez sur Pause quand vous le souhaitez, regardez une émission jusqu’à 7 jours en arrière, et bien plus encore! Avec notre application net+ TV Mobile , regardez la TV quand et où vous voulez. Pour ne jamais rien manquer."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Téléphone mobile",
+          "body": [
+            "Vous ne pouvez plus vous passer de votre smartphone? Quelles que soient vos habitudes, nous avons l'abonnement qui vous convient! Du MobiLiker pour les utilisateurs occasionnels au MobiLover illimité pour les plus connectés, vous avez le choix.",
+            "Contact clients Service commercial",
+            "Place Chauderon 23 Case postale 7416 1001 Lausanne"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "En savoir plus",
+          "url": "https://sil-bliblablo.ch/pack"
+        },
+        {
+          "label": "En savoir plus",
+          "url": "https://sil-bliblablo.ch/tv/"
+        },
+        {
+          "label": "En savoir plus",
+          "url": "https://sil-bliblablo.ch/mobile/"
+        },
+        {
+          "label": "Situer sur le plan",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /multimedia",
+          "url": "https://www.lausanne.ch/multimedia"
+        }
+      ]
+    },
+    {
+      "slug": "/mobilite",
+      "title": "Mobilité",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html",
+      "intro": "Roulez à l’électricité permet de diminuer les émissions de CO2. Les SiL développent le réseau de bornes de recharge et proposent différentes subventions lorsque vous achetez un vélo électrique ou un scooter électrique.",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [
+            "Contact clients Service commercial",
+            "Place Chauderon 23 Case postale 7416 1001 Lausanne"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "effacer les filtres",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html"
+        },
+        {
+          "label": "Situer sur le plan",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /mobilite-sil",
+          "url": "https://www.lausanne.ch/mobilite-sil"
+        }
+      ]
+    },
+    {
+      "slug": "/produire-mon-energie",
+      "title": "Je produis mon énergie",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie.html",
+      "intro": "Devenez acteur de la transition énergétique et produisez de l’énergie renouvelable ! Les Services industriels de Lausanne vous conseillent et vous accompagnent dans vos démarches. Vous bénéficiez aussi d’ aides financières .",
+      "sections": [],
+      "usefulLinks": [
+        {
+          "label": "effacer les filtres",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie.html"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /solaire",
+          "url": "https://www.lausanne.ch/solaire"
+        }
+      ]
+    },
+    {
+      "slug": "/solaire-photovoltaique",
+      "title": "Solaire photovoltaïque - Solutions",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html",
+      "intro": "Produisez du courant solaire sur votre toit et soutenez le développement des énergies renouvelables!",
+      "sections": [
+        {
+          "heading": "L’essentiel",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=36"
+        },
+        {
+          "label": "Solutions",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html?tab=solutions"
+        },
+        {
+          "label": "Calculateur",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html?tab=calculateur"
+        },
+        {
+          "label": "Conditions",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html?tab=conditions"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        }
+      ]
+    },
+    {
+      "slug": "/renovation",
+      "title": "Rénovation de mon bien immobilier",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html",
+      "intro": "Vous envisagez de rénover votre logement? Contactez nos experts accrédités pour vous aider dans vos démarches et obtenez le certificat énergétique cantonal des bâtiments CECB ® valable 10 ans ou mieux encore, des conseils étayés avec CECB ® Plus.",
+      "sections": [
+        {
+          "heading": "Les avantages",
+          "body": [
+            "Les bâtiments contribuent pour une part importante aux émissions de CO2 en Suisse. A Lausanne, ce secteur représente 58% des émissions directes de CO2.",
+            "Rénover sa propriété permet d'améliorer sa performance énergétique et de participer activement aux objectifs de la Stratégie énergétique 2050 du Conseil fédéral et du plan climat de Lausanne..",
+            "Mais par quoi commencer? - Faites appel à nos spécialistes!",
+            "Vous bénéficiez ainsi de nombreux avantages:",
+            "Vous obtenez un avis professionnel et personnalisé sur les travaux à réaliser",
+            "Vous situez en détail votre consommation énergétique et savez où agir",
+            "Vous bénéficiez d’ aides financières",
+            "Vous valorisez votre bien immobilier"
+          ],
+          "links": []
+        },
+        {
+          "heading": "CECB ® , l'étiquette énergie officielle",
+          "body": [
+            "Le CECB ® évalue la consommation énergétique d’une propriété (chauffage, eau chaude sanitaire et électricité) lors d’une utilisation standard. Il permet une comparaison avec d’autres constructions et propose des mesures d’optimisation .",
+            "Le CECB ® définit l’étiquette énergétique du bâtiment, soit la classe énergétique (de A à G) de l’enveloppe et des installations techniques du bâtiment.",
+            "Le CECB ® est obligatoire lors de la vente d’un bâtiment d’habitation et lors du remplacement d’un système de chauffage par une installation fonctionnant aux énergies fossiles (mazout, gaz ou charbon).",
+            "Prestations:",
+            "Visite du bâtiment par un expert CECB ®",
+            "Calcul de l’étiquette énergie du bâtiment",
+            "Données de base sur le potentiel d’amélioration énergétique de l’enveloppe et de la technique"
+          ],
+          "links": []
+        },
+        {
+          "heading": "CECB ® PLUS, l'assainissement détaillé",
+          "body": [
+            "Le CECB ® Plus (rapport de conseil établi par l’expert CECB ® ) propose des mesures concrètes pour l’optimisation énergétique d’un bâtiment. Ce module est recommandé si vous prévoyez des rénovations. Dans le cadre du Programme Bâtiments , vous bénéficiez d’une subvention allant de CHF 1000.– à 1500.– si votre propriété a été construite avant l’an 2000.",
+            "Prestations en plus du CECB ®",
+            "Liste concrète de mesures d’amélioration de l’efficacité énergétique",
+            "Priorisation des mesures, allant du paquet minimal jusqu’à une modernisation correspondant aux standards Minergie ®",
+            "Jusqu’à trois variantes de réalisation de rénovation",
+            "Possibilité d’inclure les extensions futures de la construction au calcul",
+            "Evaluation de l’investissement nécessaire et des coûts d’entretien",
+            "Estimation de l’économie réalisée"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "aides financières",
+          "url": "http://www.vd.ch/subventions-energie"
+        },
+        {
+          "label": "Programme Bâtiments",
+          "url": "http://www.vd.ch/themes/environnement/energie/subventions-programme-batiments/"
+        },
+        {
+          "label": "demande de subvention au Programme bâtiments",
+          "url": "https://www.vd.ch/prestation-detail/prestation/02-demander-une-subvention-pour-lisolation-thermique"
+        },
+        {
+          "label": "www.cecb.ch",
+          "url": "http://www.cecb.ch"
+        },
+        {
+          "label": "Conditions Générales - Services d’audit énergétique SiL",
+          "url": "https://www.lausanne.ch/dam/jcr:da91769c-6748-4fac-a81b-c319b2d1378a/conditions-generales-services-audit-energetique-sil.pdf"
+        },
+        {
+          "label": "Situer sur le plan",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /conseils-energetiques",
+          "url": "https://www.lausanne.ch/conseils-energetiques"
+        }
+      ]
+    },
+    {
+      "slug": "/demenagement",
+      "title": "Déménagement",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html",
+      "intro": "Toute annonce de changement d'adresse doit être réalisée au minimum 15 jours ouvrables à l'avance afin que tout soit en ordre à votre arrivée.",
+      "sections": [
+        {
+          "heading": "Particuliers",
+          "body": [
+            "Informez-nous de votre changement de domicile en utilisant le service en ligne."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Nouvel arrivant",
+          "body": [
+            "J'emménage dans la région lausannoise: je suis un nouveau client des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Client SIL",
+          "body": [
+            "Je change de domicile dans la région lausannoise: je reste client des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Départ",
+          "body": [
+            "Je déménage en dehors du réseau lausannois: je ne serai pas client des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Entreprises",
+          "body": [
+            "Remplissez le formulaire correspondant, puis imprimez-le et signez-le avant de nous le renvoyer à l'adresse en bas de page."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Emménagement",
+          "body": [
+            "Vous vous implantez dans la région lausannoise et devenez ainsi client des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Changement de locaux",
+          "body": [
+            "Vous changez de locaux tout en restant sur le réseau des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Déménagement",
+          "body": [
+            "Vous vous implantez ailleurs et quittez ainsi le réseau des SiL."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Notre réseau SiL",
+          "body": [
+            "Cette démarche concerne tous les départs ou arrivées de notre réseau SiL, ainsi que les changements de domicile au sein de ce même réseau."
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Nouvel arrivant J'emménage dans la région lausannoise: je suis un nouveau client des SiL.",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement/nouvel-arrivant.html"
+        },
+        {
+          "label": "Emménagement Vous vous implantez dans la région lausannoise et devenez ainsi client des SiL.",
+          "url": "https://www.lausanne.ch/dam/jcr:af684af7-6f2b-4459-bbb2-5b6c868fb0c1/sil-formulaire-emmenagement-entreprises.pdf"
+        },
+        {
+          "label": "Changement de locaux Vous changez de locaux tout en restant sur le réseau des SiL.",
+          "url": "https://www.lausanne.ch/dam/jcr:7bb9c239-af59-4b81-9cca-1e9666c32010/sil-formulaire-changement-de-locaux-entreprises.pdf"
+        },
+        {
+          "label": "Déménagement Vous vous implantez ailleurs et quittez ainsi le réseau des SiL.",
+          "url": "https://www.lausanne.ch/dam/jcr:302a9cb0-501b-4d1b-abc5-c5e541359dfb/sil-formulaire-demenagement-entreprises.pdf"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /demenagement",
+          "url": "https://www.lausanne.ch/demenagement"
+        }
+      ]
+    },
+    {
+      "slug": "/contact",
+      "title": "Contacter les Services industriels de Lausanne",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html",
+      "intro": "Vous avez une question? Formulaire, guichet ou téléphone, nos spécialistes sont à votre disposition!",
+      "sections": [
+        {
+          "heading": "Foire aux questions",
+          "body": [
+            "Vous trouvez ici les réponses aux questions les plus souvent posées: facture, électricité, solaire...",
+            "Les questions les plus courantes"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Dois-je annoncer mon changement de domicile aux SiL?",
+          "body": [
+            "Oui. Toute annonce de changement d'adresse doit être effectuée au minimum 15 jours ouvrables à l'avance, afin que tout soit en ordre à votre arrivée.",
+            "Annoncez votre changement de domicile sur www.lausanne.ch/demenagement ."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Puis-je obtenir un duplicata d'une facture?",
+          "body": [
+            "Oui. Les duplicatas envoyés par courrier sont facturés CHF 5.- (hors TVA).",
+            "Mais vous pouvez obtenir un duplicata gratuitement au format PDF en passant par notre portail www.lausanne.ch/silfacture .",
+            "Consulter toutes nos questions les plus fréquemment posées (FAQ)"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Au guichet et par téléphone",
+          "body": [
+            "Pour toute demande ou question (emménagement, déménagement, facturation, tarifs, produits et services, questions techniques et urgences ou pannes), appelez-nous ou passez au guichet!"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Espace clients",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Tél. 021 315 88 88 *",
+          "body": [
+            "* L’appel de ce numéro peut faire l’objet d’un enregistrement pour des raisons de qualité, de formation, de traitement de votre commande et afin d’assurer un service après-vente compétent. Les enregistrements ne sont pas transmis à des tiers. En outre, le droit d’accès des personnes concernées est garanti."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Nous écrire",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Professionnels",
+          "body": [],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "www.lausanne.ch/demenagement",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html"
+        },
+        {
+          "label": "facturés",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/frais-administratifs.html"
+        },
+        {
+          "label": "Consulter toutes nos questions les plus fréquemment posées (FAQ)",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq.html"
+        },
+        {
+          "label": "Place Chauderon 23",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /silcontact",
+          "url": "https://www.lausanne.ch/silcontact"
+        }
+      ]
+    },
+    {
+      "slug": "/a-propos",
+      "title": "A propos des SiL",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html",
+      "intro": "Hier le gaz, demain le solaire, les sources d'énergie changent mais les besoins persistent. Créés le 4 janvier 1896, les Services industriels de Lausanne s'efforcent depuis toujours d'accompagner les évolutions technologiques dans le domaine de l'énergie, de la mobilité et des télécommunications pour fournir les prestations les plus adaptées à leurs clients.",
+      "sections": [
+        {
+          "heading": "Nos activités",
+          "body": [
+            "Nos activités",
+            "Electricité",
+            "Chauffage à distance",
+            "Eclairage public",
+            "Multimédia",
+            "Règlements"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Centre de formation des SiL",
+          "body": [
+            "Centre de formation des SiL",
+            "Présentation",
+            "Nos métiers",
+            "Postuler pour un apprentissage au C-for",
+            "Partenariats"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Notre engagement",
+          "body": [
+            "Notre engagement",
+            "Politique",
+            "Efficacité énergétique",
+            "Energies renouvelables",
+            "Evénements et sponsoring"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Notre portrait",
+          "body": [
+            "Notre portrait",
+            "Valeurs",
+            "Histoire",
+            "Organigramme",
+            "Publications"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Previous",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html#carousel-example-full-width"
+        },
+        {
+          "label": "Next",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html#carousel-example-full-width"
+        },
+        {
+          "label": "Electricité Nos activités",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html"
+        },
+        {
+          "label": "Nos activités",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html"
+        },
+        {
+          "label": "Electricité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite.html"
+        },
+        {
+          "label": "Chauffage à distance",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/chauffage-a-distance.html"
+        },
+        {
+          "label": "Eclairage public",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/eclairage-public.html"
+        },
+        {
+          "label": "Multimédia",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/multimedia.html"
+        },
+        {
+          "label": "Règlements",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html"
+        },
+        {
+          "label": "Electricité Centre de formation des SiL",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html"
+        },
+        {
+          "label": "Centre de formation des SiL",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html"
+        },
+        {
+          "label": "Présentation",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for/presentation-c-for.html"
+        }
+      ]
+    },
+    {
+      "slug": "/nos-activites",
+      "title": "Nos activités",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html",
+      "intro": "Les Services industriels de Lausanne (SiL) alimentent l'agglomération lausannoise en électricité, gaz, énergie thermique et prestations multimédia.",
+      "sections": [
+        {
+          "heading": "Electricité",
+          "body": [
+            "Electricité",
+            "Le réseau de distribution",
+            "Production",
+            "Provenance de l’électricité",
+            "Compteurs intelligents",
+            "Armoires électriques",
+            "Poste de Romanel-sur-Lausanne"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Chauffage à distance",
+          "body": [
+            "Chauffage à distance",
+            "Production d'énergie renouvelable",
+            "Réseau de chauffage à distance",
+            "Mix énergétique"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Eclairage public",
+          "body": [
+            "Eclairage public",
+            "Plan lumière",
+            "Eclairage des parcs",
+            "Eclairage des zones foraines",
+            "Eclairage de la cathédrale",
+            "Illuminations de fin d'année",
+            "Eclairage urbain",
+            "Extinction pour voir les Perséides"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Multimédia",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Règlements",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Quelle est l'origine de votre électricité?",
+          "body": [
+            "Plus de 90% de l’énergie fournie provient de sources renouvelables d’origine suisse"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Illumination de Pierre-de-Plan",
+          "body": [
+            "En raison du risque de pénurie, la cheminée de Pierre-de-Plan restera éteinte jusqu'à nouvel ordre."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Mutlimédia",
+          "body": [
+            "Le réseau multimédia des SiL, s’étend sur 14 communes de la région lausannoise"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Previous",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html#carousel-example-full-width"
+        },
+        {
+          "label": "Next",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html#carousel-example-full-width"
+        },
+        {
+          "label": "Electricité Electricité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite.html"
+        },
+        {
+          "label": "Electricité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite.html"
+        },
+        {
+          "label": "Le réseau de distribution",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/reseau-distribution-electricite.html"
+        },
+        {
+          "label": "Production",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/production.html"
+        },
+        {
+          "label": "Provenance de l’électricité",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/provenance.html"
+        },
+        {
+          "label": "Compteurs intelligents",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/compteurs-intelligents.html"
+        },
+        {
+          "label": "Armoires électriques",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/armoires-electriques.html"
+        },
+        {
+          "label": "Poste de Romanel-sur-Lausanne",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/poste-de-romanel-sur-lausanne.html"
+        },
+        {
+          "label": "Chauffage à distance Chauffage à distance",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/chauffage-a-distance.html"
+        },
+        {
+          "label": "Chauffage à distance",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/chauffage-a-distance.html"
+        }
+      ]
+    },
+    {
+      "slug": "/production-solaire",
+      "title": "Solaire",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/production/solaire.html",
+      "intro": "Le solaire joue un rôle important dans le Plan climat de la Ville de Lausanne. Chaque mois, une vingtaine de nouvelles installations photovoltaïques - toutes rétributions confondues - se raccordent à notre réseau d'électricité.",
+      "sections": [
+        {
+          "heading": "Vous souhaitez connaître le potentiel solaire de votre toit?",
+          "body": [
+            "Pour aider les propriétaires de villas ou de bâtiments à connaître leur potentiel solaire, les SiL ont mis en ligne un cadastre solaire des toits lausannois.",
+            "Le cadastre solaire du guichet cartographique vous donne des informations pertinentes telles que",
+            "une classification qui va de faible à excellent",
+            "la surface votre toit en m2",
+            "l'inclinaison",
+            "la production attendue",
+            "les possibilités de végétalisation de la toiture",
+            "la zone ISOS (Inventaire fédéral des sites construits d’importance nationale à protéger en Suisse)"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Vous possédez une toiture de moyenne ou grande taille?",
+          "body": [
+            "SI-REN investit pour vous!",
+            "Créée en 2009, la société SI-REN SA, propriété de la Ville de Lausanne, a pour objectif de produire 30 GWh/an grâce à des centrales solaires photovoltaïques.",
+            "Si vous disposez d'un bâtiment (immeuble ou entrepôt) doté d'un toit de 100 m2 ou plus, SI-REN SA réalise à ses frais une installation photovoltaïque. Vous consommez ainsi votre propre courant renouvelable produit sur votre toit.",
+            "Contactez SI-REN",
+            "Direction Services industriels",
+            "Place Chauderon 23 Rez-de-chaussée Case postale 7416 1001 Lausanne"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "cadastre solaire du guichet cartographique",
+          "url": "https://map.lausanne.ch/?lang=fr&tree_groups=energie_grp%2Cperimetres_grp%2Camenagement_grp%2Cmobilite_grp%2Cbdcad_grp&tree_group_layers_perimetres_grp=perimetres_lim_com_msgroup&tree_group_layers_amenagement_grp=&tree_group_layers_mobilite_grp=&tree_group_layers_bdcad_grp=bdcad_projets_msgroup&baselayer_ref=fonds_geo_osm_bdcad_couleur&baselayer_opacity=0&tree_enable_energie_solaire_toitures=true&map_x=2536791&map_y=1153184&map_zoom=3"
+        },
+        {
+          "label": "Contactez-nous!",
+          "url": "https://www.lausanne.ch/solaire"
+        },
+        {
+          "label": "SI-REN",
+          "url": "https://www.si-ren.ch"
+        },
+        {
+          "label": "Contactez SI-REN",
+          "url": "https://www.si-ren.ch/solaire"
+        },
+        {
+          "label": "SI-REN SA",
+          "url": "https://www.si-ren.ch/"
+        },
+        {
+          "label": "Je produis mon énergie",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html"
+        },
+        {
+          "label": "Cadastre solaire",
+          "url": "https://map.lausanne.ch/?lang=fr&tree_group_layers_perimetres_grp=perimetres_lim_com_msgroup&tree_group_layers_amenagement_grp=&tree_group_layers_mobilite_grp=&tree_group_layers_bdcad_grp=bdcad_projets_msgroup&baselayer_ref=fonds_geo_osm_bdcad_couleur&baselayer_opacity=0&tree_enable_energie_solaire_toitures=true&map_x=2536791&map_y=1153184&map_zoom=3&tree_groups=energie_grp%2Cperimetres_grp%2Camenagement_grp%2Cmobilite_grp%2Cbdcad_grp&tree_enable_energie_cad_bati=false&tree_enable_energie_cad_reseau_existant=false&tree_enable_energie_cad_reseau_extensions=false"
+        },
+        {
+          "label": "Lire nos articles sur le solaire à Lausanne",
+          "url": "https://www.lausanne-energies.ch/issue/bienvenue-dans-le-monde-des-energies-a-lausanne/3?tag=9"
+        },
+        {
+          "label": "Situer sur le plan",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/production/solaire.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "www.lausanne.ch /production-solaire",
+          "url": "https://www.lausanne.ch/production-solaire"
+        }
+      ]
+    },
+    {
+      "slug": "/reglements",
+      "title": "Règlements",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html",
+      "intro": "Retrouvez dans cette section l'accès aux différents règlements, conditions générales et formulaires propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relative aux branchements concernés.",
+      "sections": [
+        {
+          "heading": "Electricité",
+          "body": [
+            "Règlements et conditions tarifaires relatives à la fourniture d'énergie électrique par les Services industriels de Lausanne & tarifs particuliers.",
+            "PDIE dispositions particulières SiL Du 1 er avril 2026",
+            "PDIE de l’Association des entreprises électriques suisses (AES) De 2025",
+            "Conditions de raccordement au réseau de distribution d’électricité, d'utilisation du réseau et de fourniture d'énergie électrique de substitution des Services industriels de Lausanne (C-RU) Du 12 juin 2025",
+            "Conditions de raccordement en moyenne tension (MT) au réseau électrique des Services industriels de Lausanne (C-MT) Du 12 juin 2025",
+            "Prescriptions pour les raccordements provisoires de chantiers Du 20 octobre 2022",
+            "Prescriptions pour les raccordements en Basse Tension Du 10 mars 2023",
+            "Conditions tarifaires relatives à la fourniture d’énergie électrique par les Services industriels de Lausanne & tarifs particuliers Du 12 juin 2025"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Gaz naturel-biogaz",
+          "body": [
+            "Conditions de raccordement, d'utilisation du réseau et de fourniture de gaz et règlement tarifaire. Prescriptions pour les nouvelles constructions et transformations sur les branchements du gaz.",
+            "Conditions de raccordement, utilisation du réseau et de fourniture de gaz des Services industriels de Lausanne.",
+            "Règlement tarifaire relatif à la fourniture de gaz naturel & tarifs particuliers.",
+            "Prescriptions pour les nouvelles constructions, transformations sur les branchements et installations intérieures gaz.",
+            "Nouvelle installation Demande d'autorisation",
+            "Demande d'autorisation",
+            "Remplacement de chaudière et/ou autres appareils Demande d'autorisation",
+            "Protocole d'essai de pression"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Chauffage à distance",
+          "body": [
+            "Conditions et prescriptions pour le raccordement au réseau de distribution du chauffage à distance.",
+            "Conditions de raccordement au réseau de distribution du chauffage à distance et à la fourniture de chaleur Valable dès le 1 er janvier 2026",
+            "Prescriptions pour les réseaux de chauffage à distance CAD LAUSANNE et CAD OUEST. Août 2022"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Prestations de services énergétiques",
+          "body": [
+            "Conditions Générales Prestations de services énergétiques Du 3 mai 2010"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Multimédia – accès réseau",
+          "body": [
+            "Conditions générales pour le raccordement et l'utilisation de l'accès réseau de Lausanne.",
+            "Accès réseau Conditions générales",
+            "Conditions générales",
+            "L’internet, le téléphone et les données Conditions générales",
+            "Prix des frais administratif, technique et matériel Liste de prix des services",
+            "Liste de prix des services",
+            "Traitement et protection des données",
+            "Direction Services industriels"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "PDIE dispositions particulières SiL",
+          "url": "https://www.lausanne.ch/dam/jcr:338c7499-356a-4bcc-b5c3-2a9ee65c24d2/PDIE_dispositions_particulieres_SiL.pdf"
+        },
+        {
+          "label": "PDIE de l’Association des entreprises électriques suisses (AES)",
+          "url": "https://www.strom.ch/fr/media/13359/download"
+        },
+        {
+          "label": "Conditions de raccordement au réseau de distribution d’électricité, d'utilisation du réseau et de fourniture d'énergie électrique de substitution des Services industriels de Lausanne (C-RU)",
+          "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=269&kind=recueil"
+        },
+        {
+          "label": "Conditions de raccordement en moyenne tension (MT) au réseau électrique des Services industriels de Lausanne (C-MT)",
+          "url": "https://www.lausanne.ch/dam/jcr:b677ecdc-0deb-4570-817a-63e64e8ad537/conditions-raccordement-reseau-electricite-moyenne-tension-c-mt-2026.pdf"
+        },
+        {
+          "label": "Prescriptions pour les raccordements provisoires de chantiers",
+          "url": "https://www.lausanne.ch/dam/jcr:215c0fb6-ef1e-44bb-a3cd-e665bb5c51ec/Prescriptions_raccordement_electrique_installation_provisoire_chantier.pdf"
+        },
+        {
+          "label": "Prescriptions pour les raccordements en Basse Tension",
+          "url": "https://www.lausanne.ch/dam/jcr:e77c5442-bc29-41a1-81c5-b6d03c1eb05c/prescriptions_raccordement_bt.pdf"
+        },
+        {
+          "label": "Conditions tarifaires relatives à la fourniture d’énergie électrique par les Services industriels de Lausanne & tarifs particuliers",
+          "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=271&kind=recueil"
+        },
+        {
+          "label": "Conditions des Services industriels de Lausanne pour la fourniture d'énergie électrique aux usagers captifs",
+          "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=270&kind=recueil"
+        },
+        {
+          "label": "Conditions particulières relatives au raccordement des installations de production d'énergie (IPE) au réseau de distribution d'électricité des Services industriels de Lausanne ainsi que de la reprise d'énergie produite (C-IPE)",
+          "url": "https://www.lausanne.ch/dam/jcr:5a28c32d-8cb7-46d4-afcb-f0cfc12da4f8/conditions-raccordement-production-ipe-et-reprise-c-ipe-2026.pdf"
+        },
+        {
+          "label": "Conditions particulières des Services industriels de Lausanne relatives à la consommation propre (C-CP)",
+          "url": "https://www.lausanne.ch/dam/jcr:bf0139a5-f94b-416a-9e70-a92a1c5bf091/conditions-consommation-propre-c-cp-2026.pdf"
+        },
+        {
+          "label": "Conditions particulières des Services industriels de Lausanne relatives aux communautés d'autoconsommation (C-CA)",
+          "url": "https://www.lausanne.ch/dam/jcr:6bc60e82-5b5c-49d2-a0ad-bbf842ddb931/conditions-autoconsommation-c-ca-2026.pdf"
+        },
+        {
+          "label": "Conditions de raccordement, utilisation du réseau et de fourniture de gaz des Services industriels de Lausanne.",
+          "url": "https://www.lausanne.ch/dam/jcr:fb6186b9-5742-4fb6-afc5-9ac4c37bbcac/conditions-raccordement-utilisation-reseau-fourniture-gaz-services-industriels-lausanne.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "/publications",
+      "title": "Publications",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications.html",
+      "intro": "Lausanne Energies, notre nouveau magazine online, vous permet de découvrir le monde des énergies et les coulisses des SiL. Retrouvez-nous également tous les 15 jours dans le Journal communal.",
+      "sections": [
+        {
+          "heading": "Les SiL en 2021 et 2022",
+          "body": [
+            "L’année 2021 a eu une saveur particulière, tant pour les Services industriels de Lausanne (SiL) que pour la Municipalité. En effet, la nouvelle législature 2021-2026 a marqué le départ à la retraite de Jean-Yves Pidoux, après quinze années dévouées aux SiL, à la Ville de Lausanne et au monde énergétique romand dans son ensemble.",
+            "Consulter la publication",
+            "Vous souhaitez obtenir le rapport imprimé? Merci d'envoyer un message à sil.communication@lausanne.ch et nous nous ferons un plaisir de vous l'envoyer."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Lausanne Energies",
+          "body": [
+            "Ce webzine vous informe de toutes les nouveautés des SiL et vous fait découvrir le monde des énergies à Lausanne.",
+            "www.lausanne-energies.ch"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Journal communal",
+          "body": [
+            "Le Journal vous propose, toutes les deux semaines dans Lausanne Cités et sur internet, une fenêtre sur l’actualité de la Commune ainsi que des informations pratiques.",
+            "Découvrir les derniers numéros",
+            "Direction Services industriels",
+            "Place Chauderon 23 Rez-de-chaussée Case postale 7416 1001 Lausanne"
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Consulter la publication",
+          "url": "https://heyzine.com/flip-book/b22743e7d6.html"
+        },
+        {
+          "label": "www.lausanne-energies.ch",
+          "url": "https://www.lausanne-energies.ch"
+        },
+        {
+          "label": "Découvrir les derniers numéros",
+          "url": "https://www.lausanne.ch/agenda-et-actualites/journal.html"
+        },
+        {
+          "label": "Situer sur le plan",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "Rapport d'activité 2020",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/02/websitedownload/12183_SIL_Rapport_activite_2020_WEB.2022-07-05-12-49-30.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2019",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/011/websitedownload/SiL_Rapport activité_2019.2022-07-05-12-49-09.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2018",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/03/websitedownload/SiL_Rapport activité_2018.2022-05-02-09-03-20.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2017",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/04/websitedownload/SiL_Rapport activité_2017.2022-05-02-09-03-45.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2016",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/05/websitedownload/SiL_Rapport activité_2016.2022-05-02-09-04-04.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2015",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/06/websitedownload/SiL_Rapport activité_2015.2022-05-02-09-04-33.pdf"
+        },
+        {
+          "label": "Rapport d'activité 2014",
+          "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications/contentAutogenerated/autogeneratedContainer/col2/en-relation-autogenerated/en-relationList/07/websitedownload/SiL_Rapport activité_2014.2022-05-02-09-04-51.pdf"
+        }
+      ]
+    },
+    {
+      "slug": "/c-for",
+      "title": "C-FOR! - Centre de formation des SiL",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+      "intro": "Le centre de compétences pour la formation technique des SiL forme près de 60 jeunes dans des métiers d'avenir. Postule pour un stage ou un apprentissage!",
+      "sections": [
+        {
+          "heading": "Après l'école, on fait quoi?",
+          "body": [
+            "Une campagne de sensibilisation pour faciliter la transition école-métier des élèves en fin de scolarité obligatoire."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Bienvenue au",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Le centre de compétences pour la formation technique des SiL forme près de 60 jeunes dans des métiers d'avenir.",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Postule pour un stage ou un apprentissage!",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Recrutement en cours",
+          "body": [
+            "Le recrutement 2025 est ouvert et toute nos places sont disponibles ici"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Besoin de travaux sur mesure?",
+          "body": [
+            "Les apprenties et apprentis du C-FOR! sont à votre disposition pour tout travail sur mesure."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Nos métiers",
+          "body": [
+            "Le C-FOR! vous offre des perspectives professionnelles intéressantes.",
+            "En quelques chiffres..."
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Après l'école, on fait quoi? Une campagne de sensibilisation pour faciliter la transition école-métier des élèves en fin de scolarité obligatoire.",
+          "url": "https://www.lausanne.ch/vie-pratique/enfance-jeunesse-famille/sante-prevention/prevention-enfants-jeunes/education/apres-ecole-on-fait-quoi.html"
+        },
+        {
+          "label": "ici",
+          "url": "https://www.lausanne.ch/officiel/travailler-a-la-ville/apprentissage/liste-places-apprentissage.html?sort=publication"
+        },
+        {
+          "label": "Chemin de l' Usine-à-Gaz 19",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html"
+        },
+        {
+          "label": "S'y rendre en transports publics",
+          "url": "https://www.t-l.ch/"
+        },
+        {
+          "label": "Site officiel",
+          "url": "https://www.lausanne.ch/c-for"
+        },
+        {
+          "label": "www.lausanne.ch /c-for",
+          "url": "https://www.lausanne.ch/c-for"
+        }
+      ]
+    },
+    {
+      "slug": "/professionnels",
+      "title": "Compte Pro",
+      "sourceUrl": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/compte-pro.html",
+      "intro": "L'ensemble de vos lieux de consommation réunis en un seul accès.",
+      "sections": [
+        {
+          "heading": "Nos références",
+          "body": [
+            "Nos références",
+            "Partenaires commerciaux"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Lieu de consommation",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Factures",
+          "body": [
+            "Factures",
+            "Modes de paiement",
+            "Frais administratifs et main d'œuvre"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Consommation",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "Déménagement",
+          "body": [],
+          "links": []
+        },
+        {
+          "heading": "E-Profil",
+          "body": [
+            "La liaison entre votre numéro de partenaire commercial SiL et votre compte portail peut-être activé et accessible à l'aide d'un code unique. Vous possédez plus de cinq références? Demandez votre accès !"
+          ],
+          "links": []
+        },
+        {
+          "heading": "Demander un accès",
+          "body": [
+            "Accéder à l'ensemble de vos lieux de consommation à l'aide d'un code unique."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Activer un accès",
+          "body": [
+            "Ajouter un code unique reçu par les SiL à votre compte Pro. Il sera actif une année."
+          ],
+          "links": []
+        },
+        {
+          "heading": "Renouveler un accès",
+          "body": [
+            "Demander le renouvellement d'un accès si celui-ci est échu ou arrive à échéance."
+          ],
+          "links": []
+        }
+      ],
+      "usefulLinks": [
+        {
+          "label": "Modes de paiement",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/modes-de-paiements.html"
+        },
+        {
+          "label": "Frais administratifs et main d'œuvre",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/frais-administratifs.html"
+        },
+        {
+          "label": "Déménagement Déménagement",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html"
+        },
+        {
+          "label": "www.lausanne.ch /compte-pro",
+          "url": "https://www.lausanne.ch/compte-pro"
+        }
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "file": "/assets/brand/logo-sil.svg",
+      "sourceUrl": "https://www.lausanne.ch/dam/jcr:9130c40a-f8c2-41d8-b1fc-b7fcba2041b2/Logo_SiL(2).svg",
+      "alt": "Services industriels (SiL)",
+      "credit": "Services industriels de Lausanne",
+      "usedBy": [
+        "all"
+      ]
+    },
+    {
+      "file": "/assets/images/hero-lausanne-sil.jpg",
+      "sourceUrl": "https://www.lausanne.ch/.imaging/mte/lausanne/original/website/lausanne/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/importSocial/SIL-A-propos.2024-10-16-08-31-16.jpg",
+      "alt": "Services industriels de Lausanne",
+      "credit": "Source: page officielle SiL «A propos des SiL»",
+      "usedBy": [
+        "home",
+        "a-propos"
+      ]
+    },
+    {
+      "file": "/assets/images/solaire-photovoltaique.jpg",
+      "sourceUrl": "https://www.lausanne.ch/.imaging/mte/lausanne/original/website/lausanne/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique/importSocial/Solaire-photovoltaique-AdobeStock-1024x576.2026-05-27-14-59-13.jpg",
+      "alt": "Installation solaire photovoltaïque",
+      "credit": "Adobe Stock (crédit indiqué par la source SiL)",
+      "usedBy": [
+        "solaire-photovoltaique",
+        "produire-energie"
+      ]
+    },
+    {
+      "file": "/assets/images/chaleur.jpg",
+      "sourceUrl": "https://www.lausanne.ch/.imaging/mte/lausanne/530x/website/lausanne/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur/importSocial/Chaleur-1024x576.2025-08-28-11-09-03.jpg",
+      "alt": "Solution de chaleur des SiL",
+      "credit": "Source: page officielle SiL «Chaleur»",
+      "usedBy": [
+        "chaleur"
+      ]
+    },
+    {
+      "file": "/assets/images/mobilite.jpg",
+      "sourceUrl": "https://www.lausanne.ch/.imaging/mte/lausanne/original/website/lausanne/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite/importSocial/Mobilite-Unsplash-1024x576.2026-06-19-12-45-51.jpg",
+      "alt": "Mobilité électrique",
+      "credit": "Unsplash (crédit indiqué par la source SiL)",
+      "usedBy": [
+        "mobilite"
+      ]
+    }
+  ]
+}

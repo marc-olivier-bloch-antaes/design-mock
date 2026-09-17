@@ -1,0 +1,133 @@
+{
+  "slug": "a-propos-c-for",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+  "path": "/a-propos-sil/c-for",
+  "title": "C-FOR",
+  "sourceTitle": "C-FOR",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+      "external": false,
+      "slug": "a-propos-c-for",
+      "label": "C-FOR"
+    }
+  ],
+  "lead": "Le centre de compétences pour la formation technique des SiL forme près de 60 jeunes dans des métiers d'avenir. Postule pour un stage ou un apprentissage!",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "carousel",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/enfance-jeunesse-famille/sante-prevention/prevention-enfants-jeunes/education/apres-ecole-on-fait-quoi.html",
+          "external": false,
+          "title": "Après l'école, on fait quoi?",
+          "text": "Une campagne de sensibilisation pour faciliter la transition école-métier des élèves en fin de scolarité obligatoire.",
+          "image": "guide-fond-metro-2025-01-30-11-58-33"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "constr-app-indust-2024-09-06-09-38-33",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Recrutement en cours"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le recrutement 2025 est ouvert et toute nos places sont disponibles <a href=\"https://www.lausanne.ch/officiel/travailler-a-la-ville/apprentissage/liste-places-apprentissage.html?sort=publication\">ici</a>"
+    },
+    {
+      "type": "image",
+      "src": "c-for-web-partenariat-2023-12-07-12-36-35",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Besoin de travaux sur mesure?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les apprenties et apprentis du C-FOR! sont à votre disposition pour tout travail sur mesure."
+    },
+    {
+      "type": "image",
+      "src": "c-for-web-metiers-2023-04-12-16-45-33",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Nos métiers"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le C-FOR! vous offre des perspectives professionnelles intéressantes."
+    },
+    {
+      "type": "keyfigures",
+      "title": "En quelques chiffres...",
+      "items": [
+        {
+          "value": "+ 200",
+          "label": "CFC délivrés depuis 1998"
+        },
+        {
+          "value": "7",
+          "label": "métiers enseignés"
+        },
+        {
+          "value": "20",
+          "label": "places d'apprentissage pour 2025"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Centre de formation SiL (C-FOR!)",
+      "lines": [
+        "Secrétariat général de la Direction SiL",
+        "Chemin de l' Usine-à-Gaz 19 1020 Renens"
+      ],
+      "logo": "logo-c-for",
+      "links": [
+        {
+          "url": "mailto:sil.cfor@lausanne.ch",
+          "external": false,
+          "label": "Écrivez-nous"
+        },
+        {
+          "url": "tel:+41213159573",
+          "external": false,
+          "label": "+41 21 315 95 73"
+        },
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/c-for",
+          "external": false,
+          "label": "Site officiel"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "slug": "a-propos-c-for",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+  "path": "/a-propos-sil/c-for",
+  "title": "C-FOR",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "label": "Centre de formation des SiL",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+      "slug": "a-propos-c-for"
+    }
+  ],
+  "lead": "Le centre de compétences pour la formation technique des SiL forme près de 60 jeunes dans des métiers d'avenir. Postule pour un stage ou un apprentissage!",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "carousel",
+      "items": [
+        {
+          "title": "Après l'école, on fait quoi?",
+          "text": "Une campagne de sensibilisation pour faciliter la transition école-métier des élèves en fin de scolarité obligatoire.",
+          "url": "https://www.lausanne.ch/vie-pratique/enfance-jeunesse-famille/sante-prevention/prevention-enfants-jeunes/education/apres-ecole-on-fait-quoi.html",
+          "image": "assets/images/guide_fond_metro.2025-01-30-11-58-33.png",
+          "external": false
+        },
+        {
+          "title": "Après l'école, on fait quoi?",
+          "text": "Une campagne de sensibilisation pour faciliter la transition école-métier des élèves en fin de scolarité obligatoire.",
+          "url": "https://www.lausanne.ch/vie-pratique/enfance-jeunesse-famille/sante-prevention/prevention-enfants-jeunes/education/apres-ecole-on-fait-quoi.html",
+          "image": "assets/images/guide_fond_metro.2025-01-30-11-58-33.png",
+          "external": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "assets/images/constr.app.indust.2024-09-06-09-38-33.jpg",
+      "alt": "© Ville de Lausanne",
+      "caption": null
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Recrutement en cours"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le recrutement 2025 est ouvert et toute nos places sont disponibles <a href=\"https://www.lausanne.ch/officiel/travailler-a-la-ville/apprentissage/liste-places-apprentissage.html?sort=publication\">ici</a>"
+    },
+    {
+      "type": "image",
+      "src": "assets/images/c-for-web-partenariat.2023-12-07-12-36-35.jpg",
+      "alt": "© Ville de Lausanne",
+      "caption": null
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Besoin de travaux sur mesure?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les apprenties et apprentis du C-FOR! sont à votre disposition pour tout travail sur mesure."
+    },
+    {
+      "type": "image",
+      "src": "assets/images/c-for-web-metiers.2023-04-12-16-45-33.jpg",
+      "alt": "© Ville de Lausanne",
+      "caption": null
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Nos métiers"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le C-FOR! vous offre des perspectives professionnelles intéressantes."
+    },
+    {
+      "type": "keyfigures",
+      "title": "En quelques chiffres...",
+      "items": [
+        {
+          "value": "+ 200",
+          "label": "CFC délivrés depuis 1998"
+        },
+        {
+          "value": "7",
+          "label": "métiers enseignés"
+        },
+        {
+          "value": "20",
+          "label": "places d'apprentissage pour 2025"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Centre de formation SiL (C-FOR!)",
+      "lines": [
+        "Centre de formation SiL (C-FOR!)",
+        "Secrétariat général de la Direction SiL",
+        "Chemin de l' Usine-à-Gaz 19 1020 Renens",
+        "Ecrivez-nous Tél. +41 21 315 95 73"
+      ],
+      "logo": "assets/images/Logo-C-For.svg",
+      "links": [
+        {
+          "label": "Ecrivez-nous",
+          "url": "mailto:sil.cfor@lausanne.ch",
+          "external": false
+        },
+        {
+          "label": "+41 21 315 95 73",
+          "url": "tel:+41213159573",
+          "external": false
+        },
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Site officiel",
+          "url": "https://www.lausanne.ch/c-for",
+          "external": false
+        }
+      ]
+    }
+  ]
+}

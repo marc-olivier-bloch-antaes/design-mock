@@ -1,0 +1,136 @@
+{
+  "slug": "a-propos-notre-portrait",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait.html",
+  "path": "/a-propos-sil/notre-portrait",
+  "title": "Notre portrait",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "label": "Services industriels (SiL)",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "slug": "accueil"
+    },
+    {
+      "label": "A propos des SiL",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html"
+    },
+    {
+      "label": "Notre portrait",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait.html",
+      "slug": "a-propos-notre-portrait"
+    }
+  ],
+  "lead": "Les Services industriels de Lausanne (SiL) alimentent l'agglomération lausannoise en électricité, gaz, chaleur et prestations multimédia et s'engagent pour le développement durable, la formation, la qualité et le bien public. A votre écoute et toujours en recherche de solutions innovantes, nous avons le produit ou le service adapté à vos besoins!",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "gallery",
+      "title": null,
+      "items": [
+        {
+          "src": "assets/images/Panneaux-solaires-sur-toit.2019-08-16-11-34-29.jpg",
+          "alt": "Cellules photovoltaïques sur le toit d'un bâtiment des SiL",
+          "caption": "© SiL"
+        },
+        {
+          "src": "assets/images/SiL-Chauderon.2019-08-16-11-01-56.jpg",
+          "alt": "Les Services industriels de Lausanne à la place Chauderon 2",
+          "caption": "© EMO-Photo"
+        },
+        {
+          "src": "assets/images/Bornes-recharge-tunnel.2019-08-16-11-02-37.jpg",
+          "alt": "Borne de recharge pour voiture électrique",
+          "caption": "© Ville de Lausanne – Marino Trotta"
+        },
+        {
+          "src": "assets/images/Barrage-Lavey.2019-08-16-11-03-12.jpg",
+          "alt": "Barrage hydroélectrique de Lavey",
+          "caption": "© EMO-Photo"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": null,
+      "variant": "icon-nav",
+      "items": [
+        {
+          "label": "Valeurs",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/valeurs.html"
+        },
+        {
+          "label": "Histoire",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/histoire.html"
+        },
+        {
+          "label": "Organigramme",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/organigramme.html"
+        },
+        {
+          "label": "Publications",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait/publications.html"
+        }
+      ]
+    },
+    {
+      "type": "keyfigures",
+      "title": "Les SiL, ce sont...",
+      "items": [
+        {
+          "value": "+ de 125 ans",
+          "label": "d'activité"
+        },
+        {
+          "value": "+ de 650",
+          "label": "collaborateurs"
+        },
+        {
+          "value": "53",
+          "label": "apprentis formés en 2021"
+        },
+        {
+          "value": "94,3%",
+          "label": "de production d'énergie renouvelable"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Direction Services industriels",
+      "lines": [
+        "Direction Services industriels",
+        "Place Chauderon 23 Rez-de-chaussée Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "assets/images/logo-sil2.svg",
+      "links": [
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true
+        },
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/86236415",
+          "external": true
+        }
+      ]
+    }
+  ]
+}

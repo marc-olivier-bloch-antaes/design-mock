@@ -1,0 +1,204 @@
+{
+  "slug": "particuliers-economies-energie",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/economies-d-energie-particuliers.html",
+  "path": "/particuliers/j-optimise-ma-consommation/economies-d-energie-particuliers",
+  "title": "Économies d'énergie - Particuliers",
+  "sourceTitle": "Economies d'énergie - Particuliers",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation.html",
+      "external": false,
+      "route": "/particuliers/j-optimise-ma-consommation",
+      "label": "J'optimise ma consommation"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/economies-d-energie-particuliers.html",
+      "external": false,
+      "slug": "particuliers-economies-energie",
+      "label": "Économies d'énergie - Particuliers"
+    }
+  ],
+  "lead": "Équiwatt, le programme d’efficacité énergétique de Lausanne, recommande aux ménages d’appliquer les gestes suivants.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "image",
+      "src": "radiateur-2022-09-15-11-30-41",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Chauffage"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Dans les logements, abaisser de 1 ou 2 degrés ou régler les radiateurs pour obtenir"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "20°C dans les pièces à vivre (vanne sur 3)",
+        "18°C dans les chambres à coucher (vanne sur 2 voire 1)"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vérifier la température avec un thermomètre d’ambiance (disponible dans le kit équiwatt)",
+        "Fermer les stores et les volets durant la nuit pour réduire les déperditions thermiques",
+        "Ne pas laisser de meubles ou de rideaux devant les radiateurs afin que la chaleur puisse se diffuser correctement",
+        "Éviter les radiateurs électriques d’appoint",
+        "Éviter de laisser les fenêtres ouvertes en imposte car le taux de renouvellement d’air est faible mais le refroidissement est important",
+        "Aérer en ouvrant en grand les fenêtres durant 5 minutes, 2 à 3 fois par jour"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "ampoule-2022-09-15-10-45-43",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Électricité"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Éteindre systématiquement et complètement (ne pas les laisser en veille) tous les équipements lorsqu’ils ne sont pas nécessaires: éclairage, TV et box, wifi, appareils informatiques, etc. par exemple au moyen d’une multiprise à interrupteur ou d’une prise à interrupteur déporté (dans le kit équiwatt)",
+        "Remplacer par du LED toutes les sources lumineuses qui fonctionnent avec une autre technologie (ampoule LED dans le kit équiwatt)",
+        "Utiliser les sèche-linge avec parcimonie et sécher autant que possible son linge à l’air libre.",
+        "Gérer au mieux les réfrigérateurs et les congélateurs:"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": true,
+      "items": [
+        "Régler les températures de manière adéquate: 5°C pour le réfrigérateur, -18°C pour le congélateur (thermomètre de froid dans le kit équiwatt)",
+        "Dégivrer régulièrement le congélateur (selon le taux de givre, entre une à quatre fois par an)",
+        "S’il y a plusieurs appareils de froid dans le ménage et qu’ils ne sont pas pleins, regrouper les aliments dans un seul appareil et éteindre l’un des deux"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Remplacer les appareils électroménagers (congélateur, réfrigérateur, lave-linge, sèche-linge, lave-vaisselle) de plus de 8 ans par des appareils de classe énergétique A et bénéficier de la subvention équiwatt pour l’électroménager"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "eau-2022-09-15-10-49-06",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Eau chaude"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Équiper tous les robinets de brise-jet et munir ses douches de pommeaux de douche économiques (dans le kit équiwatt)",
+        "Prendre des douches au lieu de bains",
+        "Laver son linge à basse température (30/40°C) et en mode éco"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "kit-2022-09-15-10-50-21",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Kit équiwatt"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les particuliers peuvent obtenir un kit équiwatt au prix de 10 francs. D’une valeur de 90 francs, il contient un pommeau de douche économique, une ampoule LED, un thermomètre d’ambiance, un thermomètre de frigo, un économiseur d’eau pour le robinet (brise-jet) et une prise à interrupteur déporté. Il est livré avec un mode d’emploi et des conseils d’utilisation. Disponible pour les habitants de Lausanne, Jouxtens-Mézery, Le Mont-sur-Lausanne, Epalinges, Prilly et Saint-Sulpice. Inscriptions sur <a href=\"https://www.equiwatt.ch/kit\">www.equiwatt.ch/kit</a>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Écogestes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Et si vous voulez connaître toutes nos astuces pour économiser l'énergie sans effort et sans perte de confort, rendez-vous sur <a href=\"https://www.equiwatt-lausanne.ch\">www.equiwatt-lausanne.ch</a>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Petits gestes, grands effets !"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce programme est financé par le <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement/politique/fonds-efficacite-energetique.html\">Fonds lausannois pour l'efficacité énergétique</a> (FEE) et comprend plus d’une dizaine de plans d’actions différents."
+    },
+    {
+      "type": "contact",
+      "title": "Coordonnées",
+      "lines": [
+        "Contact équiwatt Secrétariat général de la Direction SiL",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "tel:+41213158383",
+          "external": false,
+          "label": "+41 21 315 83 83"
+        },
+        {
+          "url": "mailto:equiwatt@lausanne.ch",
+          "external": false,
+          "label": "Écrivez-nous"
+        },
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "S'y rendre en transports publics"
+        },
+        {
+          "url": "https://www.equiwatt-lausanne.ch/",
+          "external": true,
+          "label": "Site officiel"
+        }
+      ]
+    }
+  ]
+}

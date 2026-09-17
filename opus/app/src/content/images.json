@@ -1,0 +1,2106 @@
+{
+  "adobestock-130665463-900x600": {
+    "width": 640,
+    "height": 426,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-130665463-900x600-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-130665463-900x600-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-130665463-900x600-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-130665463-900x600-640.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-130665463-900x600-640.webp"
+  },
+  "adobestock-205887682-2023-06-27-14-32-21": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-205887682-2023-06-27-14-32-21-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/adobestock-205887682-2023-06-27-14-32-21-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-205887682-2023-06-27-14-32-21-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/adobestock-205887682-2023-06-27-14-32-21-970.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-205887682-2023-06-27-14-32-21-970.webp"
+  },
+  "adobestock-227727671-2026-09-10-09-30-28": {
+    "width": 640,
+    "height": 480,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-640.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-227727671-2026-09-10-09-30-28-640.webp"
+  },
+  "adobestock-227727671-2026-09-10-09-30-28-2": {
+    "width": 1920,
+    "height": 1280,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-227727671-2026-09-10-09-30-28-2-1920.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-227727671-2026-09-10-09-30-28-2-1920.webp"
+  },
+  "adobestock-253954483-2023-06-16-08-41-12": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/adobestock-253954483-2023-06-16-08-41-12-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/adobestock-253954483-2023-06-16-08-41-12-310.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-253954483-2023-06-16-08-41-12-310.webp"
+  },
+  "adobestock-278552879-2026-04-23-16-52-27": {
+    "width": 640,
+    "height": 480,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-640.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-278552879-2026-04-23-16-52-27-640.webp"
+  },
+  "adobestock-278552879-2026-04-23-16-52-27-2": {
+    "width": 1920,
+    "height": 1281,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-278552879-2026-04-23-16-52-27-2-1920.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-278552879-2026-04-23-16-52-27-2-1920.webp"
+  },
+  "adobestock-292432742-2022-03-07-15-47-25": {
+    "width": 970,
+    "height": 646,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-292432742-2022-03-07-15-47-25-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/adobestock-292432742-2022-03-07-15-47-25-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-292432742-2022-03-07-15-47-25-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/adobestock-292432742-2022-03-07-15-47-25-970.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-292432742-2022-03-07-15-47-25-970.webp"
+  },
+  "adobestock-2k-130665463-2026-06-19-15-09-29": {
+    "width": 1920,
+    "height": 1075,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-1920.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-2k-130665463-2026-06-19-15-09-29-1920.webp"
+  },
+  "adobestock-426014708-2023-06-16-08-41-34": {
+    "width": 475,
+    "height": 317,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 475,
+        "src": "/images/adobestock-426014708-2023-06-16-08-41-34-475.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 475,
+        "src": "/images/adobestock-426014708-2023-06-16-08-41-34-475.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-426014708-2023-06-16-08-41-34-475.webp"
+  },
+  "adobestock-594667015-2023-06-16-08-41-34": {
+    "width": 640,
+    "height": 335,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-594667015-2023-06-16-08-41-34-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-594667015-2023-06-16-08-41-34-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/adobestock-594667015-2023-06-16-08-41-34-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/adobestock-594667015-2023-06-16-08-41-34-640.webp"
+      }
+    ],
+    "fallback": "/images/adobestock-594667015-2023-06-16-08-41-34-640.webp"
+  },
+  "ampoule-2022-09-15-10-45-43": {
+    "width": 310,
+    "height": 262,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/ampoule-2022-09-15-10-45-43-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/ampoule-2022-09-15-10-45-43-310.webp"
+      }
+    ],
+    "fallback": "/images/ampoule-2022-09-15-10-45-43-310.webp"
+  },
+  "back-business-2000x1334-2025-12-16-11-50-29": {
+    "width": 1920,
+    "height": 1281,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/back-business-2000x1334-2025-12-16-11-50-29-1920.webp"
+      }
+    ],
+    "fallback": "/images/back-business-2000x1334-2025-12-16-11-50-29-1920.webp"
+  },
+  "back-priv-2000x1334-2026-05-27-14-59-13": {
+    "width": 1920,
+    "height": 1281,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/back-priv-2000x1334-2026-05-27-14-59-13-1920.webp"
+      }
+    ],
+    "fallback": "/images/back-priv-2000x1334-2026-05-27-14-59-13-1920.webp"
+  },
+  "barlav-2019-12-15-09-02-31": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/barlav-2019-12-15-09-02-31-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/barlav-2019-12-15-09-02-31-310.webp"
+      }
+    ],
+    "fallback": "/images/barlav-2019-12-15-09-02-31-310.webp"
+  },
+  "barrage-lavey-2019-08-16-11-03-12": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/barrage-lavey-2019-08-16-11-03-12-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/barrage-lavey-2019-08-16-11-03-12-310.webp"
+      }
+    ],
+    "fallback": "/images/barrage-lavey-2019-08-16-11-03-12-310.webp"
+  },
+  "biogaz-1940x746-2023-08-24-15-17-19": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/biogaz-1940x746-2023-08-24-15-17-19-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/biogaz-1940x746-2023-08-24-15-17-19-310.webp"
+      }
+    ],
+    "fallback": "/images/biogaz-1940x746-2023-08-24-15-17-19-310.webp"
+  },
+  "bornes-recharge-tunnel-2019-08-16-11-02-37": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/bornes-recharge-tunnel-2019-08-16-11-02-37-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/bornes-recharge-tunnel-2019-08-16-11-02-37-310.webp"
+      }
+    ],
+    "fallback": "/images/bornes-recharge-tunnel-2019-08-16-11-02-37-310.webp"
+  },
+  "c-for-web-metiers-2023-04-12-16-45-33": {
+    "width": 310,
+    "height": 184,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/c-for-web-metiers-2023-04-12-16-45-33-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/c-for-web-metiers-2023-04-12-16-45-33-310.webp"
+      }
+    ],
+    "fallback": "/images/c-for-web-metiers-2023-04-12-16-45-33-310.webp"
+  },
+  "c-for-web-partenariat-2023-12-07-12-36-35": {
+    "width": 310,
+    "height": 184,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/c-for-web-partenariat-2023-12-07-12-36-35-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/c-for-web-partenariat-2023-12-07-12-36-35-310.webp"
+      }
+    ],
+    "fallback": "/images/c-for-web-partenariat-2023-12-07-12-36-35-310.webp"
+  },
+  "caf-carri-re-internet-2025-08-15-11-53-47": {
+    "width": 450,
+    "height": 450,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 450,
+        "src": "/images/caf-carri-re-internet-2025-08-15-11-53-47-450.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 450,
+        "src": "/images/caf-carri-re-internet-2025-08-15-11-53-47-450.webp"
+      }
+    ],
+    "fallback": "/images/caf-carri-re-internet-2025-08-15-11-53-47-450.webp"
+  },
+  "calculateur-gaz-2023-04-20-15-48-04": {
+    "width": 300,
+    "height": 250,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 300,
+        "src": "/images/calculateur-gaz-2023-04-20-15-48-04-300.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 300,
+        "src": "/images/calculateur-gaz-2023-04-20-15-48-04-300.webp"
+      }
+    ],
+    "fallback": "/images/calculateur-gaz-2023-04-20-15-48-04-300.webp"
+  },
+  "carrousel-sur-sil-500x375-2026-06-09-16-24-50": {
+    "width": 500,
+    "height": 375,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 500,
+        "src": "/images/carrousel-sur-sil-500x375-2026-06-09-16-24-50-500.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 500,
+        "src": "/images/carrousel-sur-sil-500x375-2026-06-09-16-24-50-500.webp"
+      }
+    ],
+    "fallback": "/images/carrousel-sur-sil-500x375-2026-06-09-16-24-50-500.webp"
+  },
+  "carte-500x375-2024-09-05-12-24-26": {
+    "width": 500,
+    "height": 375,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 500,
+        "src": "/images/carte-500x375-2024-09-05-12-24-26-500.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 500,
+        "src": "/images/carte-500x375-2024-09-05-12-24-26-500.webp"
+      }
+    ],
+    "fallback": "/images/carte-500x375-2024-09-05-12-24-26-500.webp"
+  },
+  "cecb-2019-10-17-09-56-48-2022-03-07-15-49-01": {
+    "width": 310,
+    "height": 152,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/cecb-2019-10-17-09-56-48-2022-03-07-15-49-01-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/cecb-2019-10-17-09-56-48-2022-03-07-15-49-01-310.webp"
+      }
+    ],
+    "fallback": "/images/cecb-2019-10-17-09-56-48-2022-03-07-15-49-01-310.webp"
+  },
+  "citycable-2023-10-24-07-43-04": {
+    "width": 310,
+    "height": 310,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/citycable-2023-10-24-07-43-04-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/citycable-2023-10-24-07-43-04-310.webp"
+      }
+    ],
+    "fallback": "/images/citycable-2023-10-24-07-43-04-310.webp"
+  },
+  "communaute-640x427-2024-02-05-08-52-44": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/communaute-640x427-2024-02-05-08-52-44-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/communaute-640x427-2024-02-05-08-52-44-310.webp"
+      }
+    ],
+    "fallback": "/images/communaute-640x427-2024-02-05-08-52-44-310.webp"
+  },
+  "constr-app-indust-2024-09-06-09-38-33": {
+    "width": 310,
+    "height": 184,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/constr-app-indust-2024-09-06-09-38-33-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/constr-app-indust-2024-09-06-09-38-33-310.webp"
+      }
+    ],
+    "fallback": "/images/constr-app-indust-2024-09-06-09-38-33-310.webp"
+  },
+  "contracting-640x427-2024-02-05-08-52-44": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/contracting-640x427-2024-02-05-08-52-44-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/contracting-640x427-2024-02-05-08-52-44-310.webp"
+      }
+    ],
+    "fallback": "/images/contracting-640x427-2024-02-05-08-52-44-310.webp"
+  },
+  "design-sans-titre-1-2026-09-15-14-54-03": {
+    "width": 620,
+    "height": 462,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/design-sans-titre-1-2026-09-15-14-54-03-480.avif"
+      },
+      {
+        "width": 620,
+        "src": "/images/design-sans-titre-1-2026-09-15-14-54-03-620.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/design-sans-titre-1-2026-09-15-14-54-03-480.webp"
+      },
+      {
+        "width": 620,
+        "src": "/images/design-sans-titre-1-2026-09-15-14-54-03-620.webp"
+      }
+    ],
+    "fallback": "/images/design-sans-titre-1-2026-09-15-14-54-03-620.webp"
+  },
+  "detection-fuite-systeme-infrarouge-2023-07-26-09-31-38": {
+    "width": 158,
+    "height": 222,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 158,
+        "src": "/images/detection-fuite-systeme-infrarouge-2023-07-26-09-31-38-158.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 158,
+        "src": "/images/detection-fuite-systeme-infrarouge-2023-07-26-09-31-38-158.webp"
+      }
+    ],
+    "fallback": "/images/detection-fuite-systeme-infrarouge-2023-07-26-09-31-38-158.webp"
+  },
+  "diagnostic-elec-fotolia-69766771-2019-12-12-12-22-42": {
+    "width": 247,
+    "height": 247,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 247,
+        "src": "/images/diagnostic-elec-fotolia-69766771-2019-12-12-12-22-42-247.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 247,
+        "src": "/images/diagnostic-elec-fotolia-69766771-2019-12-12-12-22-42-247.webp"
+      }
+    ],
+    "fallback": "/images/diagnostic-elec-fotolia-69766771-2019-12-12-12-22-42-247.webp"
+  },
+  "diagnostic-elec-fotolia-69766771-2019-12-13-11-49-27": {
+    "width": 247,
+    "height": 247,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 247,
+        "src": "/images/diagnostic-elec-fotolia-69766771-2019-12-13-11-49-27-247.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 247,
+        "src": "/images/diagnostic-elec-fotolia-69766771-2019-12-13-11-49-27-247.webp"
+      }
+    ],
+    "fallback": "/images/diagnostic-elec-fotolia-69766771-2019-12-13-11-49-27-247.webp"
+  },
+  "eau-2022-09-15-10-49-06": {
+    "width": 310,
+    "height": 263,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/eau-2022-09-15-10-49-06-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/eau-2022-09-15-10-49-06-310.webp"
+      }
+    ],
+    "fallback": "/images/eau-2022-09-15-10-49-06-310.webp"
+  },
+  "elec-1940x746-2023-08-24-15-35-42": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/elec-1940x746-2023-08-24-15-35-42-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/elec-1940x746-2023-08-24-15-35-42-310.webp"
+      }
+    ],
+    "fallback": "/images/elec-1940x746-2023-08-24-15-35-42-310.webp"
+  },
+  "electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19": {
+    "width": 1920,
+    "height": 1281,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-1920.webp"
+      }
+    ],
+    "fallback": "/images/electricite-professionnels-adobestock-201844325-2026-09-10-09-31-19-1920.webp"
+  },
+  "emmenagement-demenagement-adobestock-164972444-2020-01-15-13-35-14": {
+    "width": 310,
+    "height": 310,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/emmenagement-demenagement-adobestock-164972444-2020-01-15-13-35-14-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/emmenagement-demenagement-adobestock-164972444-2020-01-15-13-35-14-310.webp"
+      }
+    ],
+    "fallback": "/images/emmenagement-demenagement-adobestock-164972444-2020-01-15-13-35-14-310.webp"
+  },
+  "focus-vdl-130ans-2026-09-09-12-21-34": {
+    "width": 620,
+    "height": 462,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/focus-vdl-130ans-2026-09-09-12-21-34-480.avif"
+      },
+      {
+        "width": 620,
+        "src": "/images/focus-vdl-130ans-2026-09-09-12-21-34-620.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/focus-vdl-130ans-2026-09-09-12-21-34-480.webp"
+      },
+      {
+        "width": 620,
+        "src": "/images/focus-vdl-130ans-2026-09-09-12-21-34-620.webp"
+      }
+    ],
+    "fallback": "/images/focus-vdl-130ans-2026-09-09-12-21-34-620.webp"
+  },
+  "gaz-gettyimages-818568844-2023-06-16-08-41-12": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-12-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-12-310.webp"
+      }
+    ],
+    "fallback": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-12-310.webp"
+  },
+  "gaz-gettyimages-818568844-2023-06-16-08-41-34": {
+    "width": 640,
+    "height": 427,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-34-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-34-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-34-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-34-640.webp"
+      }
+    ],
+    "fallback": "/images/gaz-gettyimages-818568844-2023-06-16-08-41-34-640.webp"
+  },
+  "guide-fond-metro-2025-01-30-11-58-33": {
+    "width": 620,
+    "height": 620,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/guide-fond-metro-2025-01-30-11-58-33-480.avif"
+      },
+      {
+        "width": 620,
+        "src": "/images/guide-fond-metro-2025-01-30-11-58-33-620.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/guide-fond-metro-2025-01-30-11-58-33-480.webp"
+      },
+      {
+        "width": 620,
+        "src": "/images/guide-fond-metro-2025-01-30-11-58-33-620.webp"
+      }
+    ],
+    "fallback": "/images/guide-fond-metro-2025-01-30-11-58-33-620.webp"
+  },
+  "halle-sud-beaulieu-ville-de-lausanne-640x320-2024-03-25-14-32-37": {
+    "width": 310,
+    "height": 155,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/halle-sud-beaulieu-ville-de-lausanne-640x320-2024-03-25-14-32-37-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/halle-sud-beaulieu-ville-de-lausanne-640x320-2024-03-25-14-32-37-310.webp"
+      }
+    ],
+    "fallback": "/images/halle-sud-beaulieu-ville-de-lausanne-640x320-2024-03-25-14-32-37-310.webp"
+  },
+  "home-calculateur-970x440-2024-02-05-08-46-46": {
+    "width": 970,
+    "height": 440,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/home-calculateur-970x440-2024-02-05-08-46-46-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-calculateur-970x440-2024-02-05-08-46-46-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/home-calculateur-970x440-2024-02-05-08-46-46-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-calculateur-970x440-2024-02-05-08-46-46-970.webp"
+      }
+    ],
+    "fallback": "/images/home-calculateur-970x440-2024-02-05-08-46-46-970.webp"
+  },
+  "home-solaire-970x440-2024-02-05-08-44-50": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/home-solaire-970x440-2024-02-05-08-44-50-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-solaire-970x440-2024-02-05-08-44-50-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/home-solaire-970x440-2024-02-05-08-44-50-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-solaire-970x440-2024-02-05-08-44-50-970.webp"
+      }
+    ],
+    "fallback": "/images/home-solaire-970x440-2024-02-05-08-44-50-970.webp"
+  },
+  "home-solaire-970x440-2024-02-05-09-52-22": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/home-solaire-970x440-2024-02-05-09-52-22-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-solaire-970x440-2024-02-05-09-52-22-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/home-solaire-970x440-2024-02-05-09-52-22-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/home-solaire-970x440-2024-02-05-09-52-22-970.webp"
+      }
+    ],
+    "fallback": "/images/home-solaire-970x440-2024-02-05-09-52-22-970.webp"
+  },
+  "home-solaire-communautes-670x427-2024-02-05-08-44-50": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/home-solaire-communautes-670x427-2024-02-05-08-44-50-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/home-solaire-communautes-670x427-2024-02-05-08-44-50-310.webp"
+      }
+    ],
+    "fallback": "/images/home-solaire-communautes-670x427-2024-02-05-08-44-50-310.webp"
+  },
+  "home-solaire-installation-670x427-2024-02-05-08-44-50": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/home-solaire-installation-670x427-2024-02-05-08-44-50-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/home-solaire-installation-670x427-2024-02-05-08-44-50-310.webp"
+      }
+    ],
+    "fallback": "/images/home-solaire-installation-670x427-2024-02-05-08-44-50-310.webp"
+  },
+  "horscampagne-2026-04-21-08-25-49": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/horscampagne-2026-04-21-08-25-49-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/horscampagne-2026-04-21-08-25-49-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/horscampagne-2026-04-21-08-25-49-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/horscampagne-2026-04-21-08-25-49-970.webp"
+      }
+    ],
+    "fallback": "/images/horscampagne-2026-04-21-08-25-49-970.webp"
+  },
+  "kit-2022-09-15-10-50-21": {
+    "width": 310,
+    "height": 263,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/kit-2022-09-15-10-50-21-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/kit-2022-09-15-10-50-21-310.webp"
+      }
+    ],
+    "fallback": "/images/kit-2022-09-15-10-50-21-310.webp"
+  },
+  "la-sallaz-2023-08-21-09-06-43": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/la-sallaz-2023-08-21-09-06-43-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/la-sallaz-2023-08-21-09-06-43-310.webp"
+      }
+    ],
+    "fallback": "/images/la-sallaz-2023-08-21-09-06-43-310.webp"
+  },
+  "lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21": {
+    "width": 620,
+    "height": 462,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21-480.avif"
+      },
+      {
+        "width": 620,
+        "src": "/images/lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21-620.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21-480.webp"
+      },
+      {
+        "width": 620,
+        "src": "/images/lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21-620.webp"
+      }
+    ],
+    "fallback": "/images/lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21-620.webp"
+  },
+  "lavey-pano-1940x746-2019-12-15-09-02-39": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/lavey-pano-1940x746-2019-12-15-09-02-39-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/lavey-pano-1940x746-2019-12-15-09-02-39-310.webp"
+      }
+    ],
+    "fallback": "/images/lavey-pano-1940x746-2019-12-15-09-02-39-310.webp"
+  },
+  "lavey-pano-1940x746-2023-08-21-09-06-43": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/lavey-pano-1940x746-2023-08-21-09-06-43-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/lavey-pano-1940x746-2023-08-21-09-06-43-310.webp"
+      }
+    ],
+    "fallback": "/images/lavey-pano-1940x746-2023-08-21-09-06-43-310.webp"
+  },
+  "logo-c-for": {
+    "width": 105,
+    "height": 30,
+    "fit": "contain",
+    "fallback": "/images/logo-c-for.svg"
+  },
+  "logo-sil2": {
+    "width": 107,
+    "height": 30,
+    "fit": "contain",
+    "fallback": "/images/logo-sil2.svg"
+  },
+  "mcba-1940x746-2023-08-24-15-30-34": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/mcba-1940x746-2023-08-24-15-30-34-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/mcba-1940x746-2023-08-24-15-30-34-310.webp"
+      }
+    ],
+    "fallback": "/images/mcba-1940x746-2023-08-24-15-30-34-310.webp"
+  },
+  "mobilite-subventions-voitures-electriques-gnc-velo-2026-06-19-12-45-51": {
+    "width": 372,
+    "height": 280,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 372,
+        "src": "/images/mobilite-subventions-voitures-electriques-gnc-velo-2026-06-19-12-45-51-372.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 372,
+        "src": "/images/mobilite-subventions-voitures-electriques-gnc-velo-2026-06-19-12-45-51-372.webp"
+      }
+    ],
+    "fallback": "/images/mobilite-subventions-voitures-electriques-gnc-velo-2026-06-19-12-45-51-372.webp"
+  },
+  "modele1-2026-01-23-09-56-43": {
+    "width": 1493,
+    "height": 930,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/modele1-2026-01-23-09-56-43-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele1-2026-01-23-09-56-43-960.avif"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele1-2026-01-23-09-56-43-1493.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/modele1-2026-01-23-09-56-43-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele1-2026-01-23-09-56-43-960.webp"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele1-2026-01-23-09-56-43-1493.webp"
+      }
+    ],
+    "fallback": "/images/modele1-2026-01-23-09-56-43-1493.webp"
+  },
+  "modele2-2026-01-23-09-57-32": {
+    "width": 1493,
+    "height": 930,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/modele2-2026-01-23-09-57-32-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele2-2026-01-23-09-57-32-960.avif"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele2-2026-01-23-09-57-32-1493.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/modele2-2026-01-23-09-57-32-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele2-2026-01-23-09-57-32-960.webp"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele2-2026-01-23-09-57-32-1493.webp"
+      }
+    ],
+    "fallback": "/images/modele2-2026-01-23-09-57-32-1493.webp"
+  },
+  "modele3-2026-01-23-09-57-57": {
+    "width": 1493,
+    "height": 930,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/modele3-2026-01-23-09-57-57-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele3-2026-01-23-09-57-57-960.avif"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele3-2026-01-23-09-57-57-1493.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/modele3-2026-01-23-09-57-57-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/modele3-2026-01-23-09-57-57-960.webp"
+      },
+      {
+        "width": 1493,
+        "src": "/images/modele3-2026-01-23-09-57-57-1493.webp"
+      }
+    ],
+    "fallback": "/images/modele3-2026-01-23-09-57-57-1493.webp"
+  },
+  "origine-electricite-2019-12-13-10-57-59": {
+    "width": 310,
+    "height": 310,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/origine-electricite-2019-12-13-10-57-59-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/origine-electricite-2019-12-13-10-57-59-310.webp"
+      }
+    ],
+    "fallback": "/images/origine-electricite-2019-12-13-10-57-59-310.webp"
+  },
+  "pac-dessin-2023-06-16-08-43-28": {
+    "width": 1920,
+    "height": 1117,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/pac-dessin-2023-06-16-08-43-28-1920.webp"
+      }
+    ],
+    "fallback": "/images/pac-dessin-2023-06-16-08-43-28-1920.webp"
+  },
+  "panneaux-solaires-sur-toit-2019-08-16-11-34-29": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/panneaux-solaires-sur-toit-2019-08-16-11-34-29-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/panneaux-solaires-sur-toit-2019-08-16-11-34-29-310.webp"
+      }
+    ],
+    "fallback": "/images/panneaux-solaires-sur-toit-2019-08-16-11-34-29-310.webp"
+  },
+  "picto-avantages": {
+    "width": 51,
+    "height": 45,
+    "fit": "contain",
+    "fallback": "/images/picto-avantages.svg"
+  },
+  "picto-durabilite": {
+    "width": 54,
+    "height": 45,
+    "fit": "contain",
+    "fallback": "/images/picto-durabilite.svg"
+  },
+  "picto-pompeachaleur": {
+    "width": 50,
+    "height": 45,
+    "fit": "contain",
+    "fallback": "/images/picto-pompeachaleur.svg"
+  },
+  "picto-tarifs": {
+    "width": 35,
+    "height": 45,
+    "fit": "contain",
+    "fallback": "/images/picto-tarifs.svg"
+  },
+  "pierre-de-plan-2023-08-21-09-06-43": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/pierre-de-plan-2023-08-21-09-06-43-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/pierre-de-plan-2023-08-21-09-06-43-310.webp"
+      }
+    ],
+    "fallback": "/images/pierre-de-plan-2023-08-21-09-06-43-310.webp"
+  },
+  "radiateur-2022-09-15-11-30-41": {
+    "width": 310,
+    "height": 263,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/radiateur-2022-09-15-11-30-41-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/radiateur-2022-09-15-11-30-41-310.webp"
+      }
+    ],
+    "fallback": "/images/radiateur-2022-09-15-11-30-41-310.webp"
+  },
+  "schema1-2023-03-15-16-22-19": {
+    "width": 1616,
+    "height": 1055,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schema1-2023-03-15-16-22-19-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema1-2023-03-15-16-22-19-960.avif"
+      },
+      {
+        "width": 1616,
+        "src": "/images/schema1-2023-03-15-16-22-19-1616.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schema1-2023-03-15-16-22-19-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema1-2023-03-15-16-22-19-960.webp"
+      },
+      {
+        "width": 1616,
+        "src": "/images/schema1-2023-03-15-16-22-19-1616.webp"
+      }
+    ],
+    "fallback": "/images/schema1-2023-03-15-16-22-19-1616.webp"
+  },
+  "schema2-2025-12-17-12-10-26": {
+    "width": 1920,
+    "height": 738,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schema2-2025-12-17-12-10-26-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema2-2025-12-17-12-10-26-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schema2-2025-12-17-12-10-26-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schema2-2025-12-17-12-10-26-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schema2-2025-12-17-12-10-26-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema2-2025-12-17-12-10-26-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schema2-2025-12-17-12-10-26-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schema2-2025-12-17-12-10-26-1920.webp"
+      }
+    ],
+    "fallback": "/images/schema2-2025-12-17-12-10-26-1920.webp"
+  },
+  "schema2-2025-12-17-12-17-36": {
+    "width": 1920,
+    "height": 738,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schema2-2025-12-17-12-17-36-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema2-2025-12-17-12-17-36-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schema2-2025-12-17-12-17-36-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schema2-2025-12-17-12-17-36-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schema2-2025-12-17-12-17-36-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema2-2025-12-17-12-17-36-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schema2-2025-12-17-12-17-36-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schema2-2025-12-17-12-17-36-1920.webp"
+      }
+    ],
+    "fallback": "/images/schema2-2025-12-17-12-17-36-1920.webp"
+  },
+  "schema3-2025-12-17-12-10-26": {
+    "width": 1674,
+    "height": 1096,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schema3-2025-12-17-12-10-26-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema3-2025-12-17-12-10-26-960.avif"
+      },
+      {
+        "width": 1674,
+        "src": "/images/schema3-2025-12-17-12-10-26-1674.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schema3-2025-12-17-12-10-26-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schema3-2025-12-17-12-10-26-960.webp"
+      },
+      {
+        "width": 1674,
+        "src": "/images/schema3-2025-12-17-12-10-26-1674.webp"
+      }
+    ],
+    "fallback": "/images/schema3-2025-12-17-12-10-26-1674.webp"
+  },
+  "schemas-04-2024-12-17-11-38-21": {
+    "width": 1920,
+    "height": 1196,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schemas-04-2024-12-17-11-38-21-1920.webp"
+      }
+    ],
+    "fallback": "/images/schemas-04-2024-12-17-11-38-21-1920.webp"
+  },
+  "schemas-05-2024-12-17-11-38-43": {
+    "width": 1920,
+    "height": 1195,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/schemas-05-2024-12-17-11-38-43-1920.webp"
+      }
+    ],
+    "fallback": "/images/schemas-05-2024-12-17-11-38-43-1920.webp"
+  },
+  "sil-bornes-rechrge-liseron-web-focus-2024-09-05-12-23-14": {
+    "width": 500,
+    "height": 375,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 500,
+        "src": "/images/sil-bornes-rechrge-liseron-web-focus-2024-09-05-12-23-14-500.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 500,
+        "src": "/images/sil-bornes-rechrge-liseron-web-focus-2024-09-05-12-23-14-500.webp"
+      }
+    ],
+    "fallback": "/images/sil-bornes-rechrge-liseron-web-focus-2024-09-05-12-23-14-500.webp"
+  },
+  "sil-chauderon-2019-08-16-11-01-56": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/sil-chauderon-2019-08-16-11-01-56-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/sil-chauderon-2019-08-16-11-01-56-310.webp"
+      }
+    ],
+    "fallback": "/images/sil-chauderon-2019-08-16-11-01-56-310.webp"
+  },
+  "sil-pagecarriere-francesco-2025-09-05-07-01-37": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/sil-pagecarriere-francesco-2025-09-05-07-01-37-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/sil-pagecarriere-francesco-2025-09-05-07-01-37-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/sil-pagecarriere-francesco-2025-09-05-07-01-37-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/sil-pagecarriere-francesco-2025-09-05-07-01-37-970.webp"
+      }
+    ],
+    "fallback": "/images/sil-pagecarriere-francesco-2025-09-05-07-01-37-970.webp"
+  },
+  "silpdp14-072-2025-08-28-11-09-03": {
+    "width": 640,
+    "height": 480,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-480.avif"
+      },
+      {
+        "width": 640,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-640.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-480.webp"
+      },
+      {
+        "width": 640,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-640.webp"
+      }
+    ],
+    "fallback": "/images/silpdp14-072-2025-08-28-11-09-03-640.webp"
+  },
+  "silpdp14-072-2025-08-28-11-09-03-2": {
+    "width": 1920,
+    "height": 1280,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-480.avif"
+      },
+      {
+        "width": 960,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-960.avif"
+      },
+      {
+        "width": 1440,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-1440.avif"
+      },
+      {
+        "width": 1920,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-1920.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-480.webp"
+      },
+      {
+        "width": 960,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-960.webp"
+      },
+      {
+        "width": 1440,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-1440.webp"
+      },
+      {
+        "width": 1920,
+        "src": "/images/silpdp14-072-2025-08-28-11-09-03-2-1920.webp"
+      }
+    ],
+    "fallback": "/images/silpdp14-072-2025-08-28-11-09-03-2-1920.webp"
+  },
+  "simulateur-thermique-970x440-2025-04-01-08-56-49": {
+    "width": 970,
+    "height": 440,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/simulateur-thermique-970x440-2025-04-01-08-56-49-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/simulateur-thermique-970x440-2025-04-01-08-56-49-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/simulateur-thermique-970x440-2025-04-01-08-56-49-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/simulateur-thermique-970x440-2025-04-01-08-56-49-970.webp"
+      }
+    ],
+    "fallback": "/images/simulateur-thermique-970x440-2025-04-01-08-56-49-970.webp"
+  },
+  "site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07": {
+    "width": 970,
+    "height": 401,
+    "fit": "contain",
+    "avif": [
+      {
+        "width": 480,
+        "src": "/images/site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07-480.avif"
+      },
+      {
+        "width": 970,
+        "src": "/images/site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07-970.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 480,
+        "src": "/images/site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07-480.webp"
+      },
+      {
+        "width": 970,
+        "src": "/images/site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07-970.webp"
+      }
+    ],
+    "fallback": "/images/site-sil-gaz-schema-biogaz-1200-v1-2021-02-02-07-50-07-970.webp"
+  },
+  "site-sil-multimedia-310x232-v1-2026-04-21-08-25-49": {
+    "width": 310,
+    "height": 232,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-310x232-v1-2026-04-21-08-25-49-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-310x232-v1-2026-04-21-08-25-49-310.webp"
+      }
+    ],
+    "fallback": "/images/site-sil-multimedia-310x232-v1-2026-04-21-08-25-49-310.webp"
+  },
+  "site-sil-multimedia-combo-310x232-juillet-2024-v1-2024-07-04-14-19-42": {
+    "width": 310,
+    "height": 232,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-combo-310x232-juillet-2024-v1-2024-07-04-14-19-42-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-combo-310x232-juillet-2024-v1-2024-07-04-14-19-42-310.webp"
+      }
+    ],
+    "fallback": "/images/site-sil-multimedia-combo-310x232-juillet-2024-v1-2024-07-04-14-19-42-310.webp"
+  },
+  "site-sil-multimedia-mobile-310x232-juillet-2024-v1-2024-07-04-14-20-10": {
+    "width": 310,
+    "height": 232,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-mobile-310x232-juillet-2024-v1-2024-07-04-14-20-10-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-mobile-310x232-juillet-2024-v1-2024-07-04-14-20-10-310.webp"
+      }
+    ],
+    "fallback": "/images/site-sil-multimedia-mobile-310x232-juillet-2024-v1-2024-07-04-14-20-10-310.webp"
+  },
+  "site-sil-multimedia-tv-310x232-juillet-2024-v1-2024-07-04-14-19-57": {
+    "width": 310,
+    "height": 232,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-tv-310x232-juillet-2024-v1-2024-07-04-14-19-57-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/site-sil-multimedia-tv-310x232-juillet-2024-v1-2024-07-04-14-19-57-310.webp"
+      }
+    ],
+    "fallback": "/images/site-sil-multimedia-tv-310x232-juillet-2024-v1-2024-07-04-14-19-57-310.webp"
+  },
+  "sol-cle-main-640x427-2024-02-05-08-52-44": {
+    "width": 310,
+    "height": 206,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/sol-cle-main-640x427-2024-02-05-08-52-44-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/sol-cle-main-640x427-2024-02-05-08-52-44-310.webp"
+      }
+    ],
+    "fallback": "/images/sol-cle-main-640x427-2024-02-05-08-52-44-310.webp"
+  },
+  "solaire-ouchy-1940x746-2023-08-21-09-06-43": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/solaire-ouchy-1940x746-2023-08-21-09-06-43-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/solaire-ouchy-1940x746-2023-08-21-09-06-43-310.webp"
+      }
+    ],
+    "fallback": "/images/solaire-ouchy-1940x746-2023-08-21-09-06-43-310.webp"
+  },
+  "vallee-de-la-jeunesse1940x746-2023-08-24-15-03-34": {
+    "width": 310,
+    "height": 119,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/vallee-de-la-jeunesse1940x746-2023-08-24-15-03-34-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/vallee-de-la-jeunesse1940x746-2023-08-24-15-03-34-310.webp"
+      }
+    ],
+    "fallback": "/images/vallee-de-la-jeunesse1940x746-2023-08-24-15-03-34-310.webp"
+  },
+  "vanne-chauffage-1000x1000-2024-03-26-15-57-38": {
+    "width": 310,
+    "height": 310,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/vanne-chauffage-1000x1000-2024-03-26-15-57-38-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/vanne-chauffage-1000x1000-2024-03-26-15-57-38-310.webp"
+      }
+    ],
+    "fallback": "/images/vanne-chauffage-1000x1000-2024-03-26-15-57-38-310.webp"
+  },
+  "velo-en-ville-1000x1000-2024-09-02-15-46-57": {
+    "width": 310,
+    "height": 310,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 310,
+        "src": "/images/velo-en-ville-1000x1000-2024-09-02-15-46-57-310.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 310,
+        "src": "/images/velo-en-ville-1000x1000-2024-09-02-15-46-57-310.webp"
+      }
+    ],
+    "fallback": "/images/velo-en-ville-1000x1000-2024-09-02-15-46-57-310.webp"
+  },
+  "visuel-conseil-r-novation-2024-09-02-15-44-28": {
+    "width": 500,
+    "height": 375,
+    "fit": "cover",
+    "avif": [
+      {
+        "width": 500,
+        "src": "/images/visuel-conseil-r-novation-2024-09-02-15-44-28-500.avif"
+      }
+    ],
+    "webp": [
+      {
+        "width": 500,
+        "src": "/images/visuel-conseil-r-novation-2024-09-02-15-44-28-500.webp"
+      }
+    ],
+    "fallback": "/images/visuel-conseil-r-novation-2024-09-02-15-44-28-500.webp"
+  }
+}

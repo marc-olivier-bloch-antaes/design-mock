@@ -1,0 +1,120 @@
+/*
+ * Point d'entrée CSS de l'app.
+ * - tokens.css est COPIÉ depuis ../design par `npm run import-content` : ne pas l'éditer ici
+ *   (modifier design/tokens.css puis relancer l'import).
+ * - Les composants utilisent les utilitaires Tailwind générés par les tokens
+ *   (bg-action, text-muted, rounded-card, py-section, max-w-page…). Jamais de couleur en dur.
+ * - Ce fichier ne contient que la base globale et quelques utilitaires transverses.
+ */
+@import "tailwindcss";
+@import "./tokens.css";
+
+/* Variante « sur fond sombre » : ajouter la classe `on-dark` au conteneur (footer, bandeau CTA). */
+@custom-variant on-dark (&:where(.on-dark, .on-dark *));
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    scroll-behavior: smooth;
+    /* Ancres et focus : ne jamais finir sous le header collant (+ barre d'onglets). */
+    scroll-padding-top: calc(var(--sil-header-h) + var(--sil-tabs-h) + 16px);
+  }
+  @media (min-width: 64rem) {
+    html {
+      scroll-padding-top: calc(var(--sil-header-h-lg) + var(--sil-tabs-h) + 16px);
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 1ms !important;
+      transition-duration: 1ms !important;
+    }
+  }
+
+  body {
+    font-family: var(--sil-font-sans);
+    font-size: var(--sil-text-body);
+    line-height: var(--sil-text-body-lh);
+    color: var(--sil-text);
+    background: var(--sil-bg);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Drawer ouvert : pas de défilement de la page derrière. */
+  html:has(dialog[data-drawer][open]) {
+    overflow: hidden;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--sil-focus);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  .on-dark :focus-visible {
+    outline-color: var(--sil-focus-inverse);
+  }
+
+  /* Titre ciblé par programmation après navigation : pas d'anneau (il n'est pas interactif). */
+  [data-route-focus]:focus {
+    outline: none;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+}
+
+/* Texte riche issu du CMS (paragraphes, listes, cellules) — DESIGN.md § 11.16 « Liens dans le texte ». */
+@utility prose-sil {
+  max-width: var(--sil-measure);
+  & a {
+    color: var(--sil-text-link);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    font-weight: 550;
+    transition: color var(--sil-duration-fast) var(--sil-ease-standard);
+  }
+  & a:hover {
+    color: var(--sil-text-link-hover);
+    text-decoration-thickness: 2px;
+  }
+  & strong {
+    font-weight: 700;
+  }
+  & sup,
+  & sub {
+    line-height: 0;
+  }
+}
+
+/* Pile verticale de blocs : espacement régulier, plus d'air avant les titres. */
+@utility block-flow {
+  & > * + * {
+    margin-top: 1.25rem;
+  }
+  & > * + :is(h2, [data-block="heading-2"]) {
+    margin-top: 3rem;
+  }
+  & > * + :is(h3, [data-block="heading-3"]) {
+    margin-top: 2.25rem;
+  }
+  & > :is(h2, h3, h4) + * {
+    margin-top: 0.75rem;
+  }
+}
+
+/* Masque la barre de défilement horizontale (carrousels, onglets mobiles) sans bloquer le défilement. */
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

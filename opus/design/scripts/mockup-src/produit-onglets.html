@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fr-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Électricité – Particuliers · SiL · Maquette</title>
+  <meta name="description" content="nativa, l'électricité d'origine 100% renouvelable des SiL.">
+  <link rel="icon" href="../../crawl/assets/brand/favicon.png">
+  <link rel="preload" href="../fonts/figtree-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../tokens.css">
+  <link rel="stylesheet" href="mockups.css">
+</head>
+<body>
+{{sprite}}
+{{header}}
+
+<main id="contenu">
+  <!-- HERO DE PAGE INTÉRIEURE (produit) -->
+  <section class="page-hero u-electricite" aria-labelledby="page-title">
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Fil d'Ariane">
+        <a class="breadcrumb__back" href="#"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-arrow-left"/></svg>Je choisis mon offre</a>
+        <ol role="list">
+          <li><a href="accueil.html">Accueil</a></li>
+          <li><a href="#">Particuliers</a></li>
+          <li><a href="#">Je choisis mon offre</a></li>
+          <li><span aria-current="page">Électricité</span></li>
+        </ol>
+      </nav>
+      <div class="page-hero__grid">
+        <div>
+          <p class="page-hero__tag"><span><svg class="icon" aria-hidden="true"><use href="#i-zap"/></svg></span>Particuliers</p>
+          <h1 class="t-h1" id="page-title">Électricité</h1>
+          <p class="t-lead">{{lead}}</p>
+          <div class="btn-group btn-group--fluid">
+            <a class="btn btn--primary btn--lg" href="#">{{cta}} <svg class="icon icon--move" aria-hidden="true"><use href="#i-arrow-right"/></svg></a>
+            <a class="btn btn--secondary btn--lg" href="?tab=tarifs" data-goto-tab="tarifs"><svg class="icon" aria-hidden="true"><use href="#i-receipt-text"/></svg>Tarifs 2027</a>
+          </div>
+        </div>
+        <div class="page-hero__media">
+          <img src="{{hero}}" alt="Ampoule allumée et jeune pousse tenues dans des mains" fetchpriority="high">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {{tabs}}
+</main>
+
+{{footer}}
+<script src="mockups.js"></script>
+</body>
+</html>

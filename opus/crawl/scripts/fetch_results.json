@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "accueil",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-je-choisis-mon-offre",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-electricite",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=faq",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-chaleur",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=faq",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-gaz-naturel",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=faq",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-multimedia",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-je-produis-mon-energie",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie.html",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-solaire-photovoltaique",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html?tab=conditions",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-renovation-bien-immobilier",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html",
+    "ok": true
+  },
+  {
+    "slug": "particuliers-contact",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html",
+    "ok": true
+  },
+  {
+    "slug": "professionnels-les-offres",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres.html",
+    "ok": true
+  },
+  {
+    "slug": "professionnels-electricite",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres/electricite.html?tab=faq",
+    "ok": true
+  },
+  {
+    "slug": "professionnels-telegestion",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation/telegestion.html",
+    "ok": true
+  },
+  {
+    "slug": "partenaires-raccordements",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html?tab=assainissement",
+    "ok": true
+  },
+  {
+    "slug": "partenaires-reglements",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html",
+    "ok": true
+  },
+  {
+    "slug": "a-propos-notre-portrait",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait.html",
+    "ok": true
+  },
+  {
+    "slug": "a-propos-c-for",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html",
+    "ok": true
+  },
+  {
+    "slug": "a-propos-nos-activites",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html",
+    "ok": true
+  },
+  {
+    "slug": "a-propos-notre-engagement",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement.html",
+    "ok": true
+  },
+  {
+    "slug": "carrieres-nos-metiers",
+    "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/carrieres/nos-metiers.html",
+    "ok": true
+  }
+]

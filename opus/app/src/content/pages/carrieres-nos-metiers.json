@@ -1,0 +1,164 @@
+{
+  "slug": "carrieres-nos-metiers",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/carrieres/nos-metiers.html",
+  "path": "/carrieres/nos-metiers",
+  "title": "Nos métiers",
+  "sourceTitle": "Nos métiers",
+  "section": "carrieres",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/carrieres.html",
+      "external": false,
+      "route": "/carrieres",
+      "label": "Carrières"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/carrieres/nos-metiers.html",
+      "external": false,
+      "slug": "carrieres-nos-metiers",
+      "label": "Nos métiers"
+    }
+  ],
+  "lead": "Les missions des collaboratrices et collaborateurs des SiL sont variées: production, distribution et services transversaux. Chacune et chaucun contribue au fonctionnement et au développement de l’énergie à Lausanne.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "image",
+      "src": "sil-pagecarriere-francesco-2025-09-05-07-01-37",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Nos métiers: diversité et innovation au cœur de l’énergie lausannoise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec plus de 600 collaboratrices et collaborateurs, les SiL rassemblent des expertises variées au service de la transition énergétique et numérique de Lausanne."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Nos domaines d’activité</strong>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Électricité – production, distribution, raccordements et exploitation des réseaux.",
+        "Thermique – production, conception, extension et exploitation des réseaux.",
+        "Télécommunications – fibre, internet et solutions numériques.",
+        "Mobilité électrique – infrastructures de recharge",
+        "Efficacité énergétique – optimisation des usages."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Nos métiers</strong>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Techniques &amp; Ingénierie"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Terrain, maintenance &amp; installation – exploitation, interventions, travaux réseaux.",
+        "Ingénierie &amp; projets – conception, modélisation, mise en service, pilotage de chantiers.",
+        "Numérique &amp; data – développement, systèmes, cybersécurité."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Transverses &amp; support"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Marketing &amp; communication – marque, contenus, campagnes, relation publique, digital.",
+        "Service client &amp; ventes – conseil, offres, accompagnement B2C/B2B.",
+        "Finance &amp; comptabilité – controlling, compta générale/analytique, achats de marché.",
+        "Juridique &amp; conformité – contrats, droit public/énergie, protection des données.",
+        "Ressources humaines &amp; formation – recrutement, développement, culture &amp; inclusion.",
+        "Achats &amp; logistique – sourcing responsable, supply chain, magasin &amp; stocks.",
+        "Qualité, sécurité &amp; environnement – santé &amp; sécurité au travail, certifications.",
+        "Gestion de projets – portefeuille, méthodes, amélioration continu"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "caf-carri-re-internet-2025-08-15-11-53-47",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Un engagement fort pour la diversité et l'inclusion"
+    },
+    {
+      "type": "paragraph",
+      "html": "Aux SiL, nous valorisons les différences et croyons que la diversité est une source d’enrichissement pour chacune et chacun et pour l’ensemble de notre organisation. C’est pourquoi nous mettons en place des actions concrètes pour favoriser l’égalité des chances, soutenir le développement de nos collaboratrices et collaborateurs et lutter contre toutes formes de discrimination."
+    },
+    {
+      "type": "paragraph",
+      "html": "Notre engagement se traduit par des initiatives variées: programmes de sensibilisation, recrutement équitable, accompagnement des carrières et création d’un environnement de travail respectueux et inclusif. Nous veillons à ce que chaque collaboratrice et collaborateur se sente reconnu, écouté et encouragé à apporter sa singularité au service de nos projets."
+    },
+    {
+      "type": "paragraph",
+      "html": "Aux SiL, promouvoir la diversité et l’inclusion n’est pas seulement une valeur: c’est un moteur d’innovation, de performance et de cohésion, qui nous permet de construire ensemble un avenir plus juste et durable."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Rejoindre les SiL, c’est bien plus qu’un métier: c’est participer à des projets innovants qui façonnent l’énergie de demain, relever chaque jour des défis techniques et humains et mettre ses compétences au service d’une mission à fort impact.</strong>"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Ensemble, construisons un avenir durable… et changeons le monde !</strong>"
+    },
+    {
+      "type": "contact",
+      "title": "Direction Services industriels",
+      "lines": [
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        }
+      ]
+    }
+  ]
+}

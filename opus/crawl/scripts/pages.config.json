@@ -1,0 +1,22 @@
+[
+  { "slug": "accueil", "path": "/vie-pratique/energies-et-eau/services-industriels.html", "section": "accueil" },
+  { "slug": "particuliers-je-choisis-mon-offre", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html", "section": "particuliers" },
+  { "slug": "particuliers-electricite", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html", "section": "particuliers" },
+  { "slug": "particuliers-chaleur", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html", "section": "particuliers" },
+  { "slug": "particuliers-gaz-naturel", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html", "section": "particuliers" },
+  { "slug": "particuliers-multimedia", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html", "section": "particuliers" },
+  { "slug": "particuliers-economies-energie", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/economies-d-energie-particuliers.html", "section": "particuliers" },
+  { "slug": "particuliers-solaire-photovoltaique", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html", "section": "particuliers" },
+  { "slug": "particuliers-renovation-bien-immobilier", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html", "section": "particuliers" },
+  { "slug": "particuliers-contact", "path": "/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html", "section": "particuliers" },
+  { "slug": "professionnels-solaire-photovoltaique", "path": "/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique.html", "section": "professionnels" },
+  { "slug": "professionnels-electricite", "path": "/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres/electricite.html", "section": "professionnels" },
+  { "slug": "professionnels-telegestion", "path": "/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation/telegestion.html", "section": "professionnels" },
+  { "slug": "partenaires-raccordements", "path": "/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html", "section": "partenaires" },
+  { "slug": "a-propos-reglements", "path": "/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html", "section": "a-propos" },
+  { "slug": "a-propos-notre-portrait", "path": "/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-portrait.html", "section": "a-propos" },
+  { "slug": "a-propos-c-for", "path": "/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/c-for.html", "section": "a-propos" },
+  { "slug": "a-propos-nos-activites", "path": "/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html", "section": "a-propos" },
+  { "slug": "a-propos-notre-engagement", "path": "/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement.html", "section": "a-propos" },
+  { "slug": "carrieres-nos-metiers", "path": "/vie-pratique/energies-et-eau/services-industriels/carrieres/nos-metiers.html", "section": "carrieres" }
+]

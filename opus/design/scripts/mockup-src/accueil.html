@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="fr-CH">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Services industriels de Lausanne (SiL) – Accueil · Maquette</title>
+  <meta name="description" content="Électricité, chaleur, gaz et télécommunications : les Services industriels de Lausanne.">
+  <link rel="icon" href="../../crawl/assets/brand/favicon.png">
+  <link rel="preload" href="../fonts/figtree-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="../tokens.css">
+  <link rel="stylesheet" href="mockups.css">
+</head>
+<body>
+{{sprite}}
+{{header}}
+
+<main id="contenu">
+
+  <!-- HERO D'ACCUEIL -->
+  <section class="home-hero" aria-labelledby="hero-title">
+    <div class="container home-hero__grid">
+      <div class="home-hero__text">
+        <p class="eyebrow">Services industriels de Lausanne</p>
+        <h1 class="t-display" id="hero-title">Bienvenue dans le monde de l'énergie<span class="brand-dot">.</span></h1>
+        <p class="t-lead">Électricité, chaleur, gaz et télécommunications, nous sommes à votre écoute et avons à cœur de vous offrir <strong>des services et des produits innovants</strong> qui correspondent à vos besoins, quel que soit votre profil.</p>
+        <div class="btn-group btn-group--fluid home-hero__cta">
+          <a class="btn btn--primary btn--lg" href="#offres">Je choisis mon offre <svg class="icon icon--move" aria-hidden="true"><use href="#i-arrow-right"/></svg></a>
+          <a class="btn btn--secondary btn--lg" href="#">Nous contacter</a>
+        </div>
+      </div>
+      <div class="home-hero__profiles">
+          <p id="profils">Vous êtes&nbsp;:</p>
+          <ul class="chip-row" role="list" aria-labelledby="profils">
+            <li><a class="chip" href="#"><svg class="icon" aria-hidden="true"><use href="#i-house"/></svg>Particulier</a></li>
+            <li><a class="chip" href="#"><svg class="icon" aria-hidden="true"><use href="#i-building-2"/></svg>Professionnel</a></li>
+            <li><a class="chip" href="#"><svg class="icon" aria-hidden="true"><use href="#i-handshake"/></svg>Partenaire</a></li>
+          </ul>
+      </div>
+      <div class="home-hero__media">
+        <img class="home-hero__img" src="../../crawl/assets/images/back-business-2000x1334.2025-12-16-11-50-29.png" alt="Panneaux solaires photovoltaïques sous un ciel bleu" fetchpriority="high">
+        <a class="feature-pill" href="produit-onglets.html?tab=tarifs">
+          <img src="../../crawl/assets/images/Design-sans-titre-1-.2026-09-15-14-54-03.jpg" alt="">
+          <span class="feature-pill__text"><span>À la une</span><strong>Tarifs de l'électricité 2027&nbsp;: infos en ligne</strong></span>
+          <svg class="icon" aria-hidden="true"><use href="#i-arrow-right"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- GRILLE D'UNIVERS -->
+  <section class="section--sm" id="offres" aria-labelledby="offres-title" style="padding-top:0">
+    <div class="container">
+      <div class="section-head" style="margin-bottom:24px">
+        <div class="section-head__text"><h2 class="t-h3" id="offres-title">Je choisis mon offre</h2></div>
+        <a class="arrow-link" href="#">Toutes nos offres <svg class="icon" aria-hidden="true"><use href="#i-arrow-right"/></svg></a>
+      </div>
+      <nav aria-labelledby="offres-title"><div class="universe-grid">{{tiles}}</div></nav>
+    </div>
+  </section>
+
+  <!-- À LA UNE (carrousel) -->
+  <section class="section section--subtle section--clip" aria-labelledby="une-title">
+    <div class="container">
+      <div class="section-head">
+        <div class="section-head__text"><p class="eyebrow">Actualités et offres</p><h2 class="t-h2" id="une-title">À la une</h2></div>
+        <div class="carousel__controls">
+          <button class="icon-btn icon-btn--outline" type="button" aria-label="Précédent" data-carousel-prev disabled><svg class="icon" aria-hidden="true"><use href="#i-arrow-left"/></svg></button>
+          <button class="icon-btn icon-btn--outline" type="button" aria-label="Suivant" data-carousel-next><svg class="icon" aria-hidden="true"><use href="#i-arrow-right"/></svg></button>
+        </div>
+      </div>
+      <div class="carousel" data-carousel>
+        <ul class="carousel__track" role="list" aria-label="À la une, 7 éléments">{{cards}}</ul>
+        <div class="carousel__progress" aria-hidden="true"><span data-carousel-progress></span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ACCROCHES -->
+  <section class="section" aria-labelledby="projets-title">
+    <div class="container">
+      <div class="section-head">
+        <div class="section-head__text"><p class="eyebrow">Vos projets</p><h2 class="t-h2" id="projets-title">Nous vous accompagnons</h2></div>
+      </div>
+      <div class="prompt-grid">{{prompts}}</div>
+    </div>
+  </section>
+
+  <!-- ACTUALITÉS + CHIFFRES CLÉS -->
+  <section class="section section--subtle" aria-labelledby="news-title">
+    <div class="container news-split">
+      <div>
+        <div class="section-head" style="margin-bottom:24px">
+          <div class="section-head__text"><h2 class="t-h2" id="news-title">Quoi de neuf&nbsp;?</h2></div>
+          <a class="arrow-link" href="#">Toutes les actualités <svg class="icon" aria-hidden="true"><use href="#i-arrow-right"/></svg></a>
+        </div>
+        <ul class="news-list" role="list">{{news}}</ul>
+      </div>
+      <aside class="keyfigures on-dark" aria-labelledby="kf-title">
+        <div class="keyfigures__deco">{{deco}}</div>
+        <p class="eyebrow">Notre portrait</p>
+        <h2 class="keyfigures__title" id="kf-title">{{kf_title}}</h2>
+        <dl class="keyfigures__grid">{{figs}}</dl>
+        <p class="keyfigures__source"><a class="arrow-link" style="color:#fff" href="#">Découvrir les SiL <svg class="icon" aria-hidden="true"><use href="#i-arrow-right"/></svg></a></p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- BANDEAU CTA -->
+  <section class="cta-band on-dark" aria-labelledby="cta-title">
+    <div class="cta-band__deco">{{deco}}</div>
+    <div class="container cta-band__inner">
+      <div>
+        <h2 class="t-h2" id="cta-title">Vous avez une question&nbsp;?</h2>
+        <p>Formulaire, guichet ou téléphone, nos spécialistes sont à votre disposition&nbsp;!</p>
+        <p class="cta-band__note"><svg class="icon icon--sm" aria-hidden="true"><use href="#i-triangle-alert"/></svg><span>Urgences ou pannes&nbsp;: 7j/7, 24h/24 au 021 315 88 88 (menu vocal, tapez 4)</span></p>
+      </div>
+      <div class="btn-group">
+        <a class="btn btn--inverse btn--lg" href="#">Nous contacter <svg class="icon icon--move" aria-hidden="true"><use href="#i-arrow-right"/></svg></a>
+        <a class="btn btn--outline-inverse btn--lg" href="#"><svg class="icon" aria-hidden="true"><use href="#i-phone"/></svg>021 315 88 88</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+{{footer}}
+<script src="mockups.js"></script>
+</body>
+</html>

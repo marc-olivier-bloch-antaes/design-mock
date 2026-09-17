@@ -1,0 +1,1609 @@
+{
+  "slug": "particuliers-electricite",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html",
+  "path": "/particuliers/je-choisis-mon-offre/electricite",
+  "title": "Électricité",
+  "sourceTitle": "Electricité - Produits",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+      "external": false,
+      "slug": "particuliers-je-choisis-mon-offre",
+      "label": "Je choisis mon offre"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html",
+      "external": false,
+      "slug": "particuliers-electricite",
+      "label": "Électricité"
+    }
+  ],
+  "lead": "<strong>nativa</strong>, l'électricité d'origine <strong>100% renouvelable </strong>des SiL, contribue au développement des énergies renouvelables dans votre région. Choisissez le produit qui correspond le mieux à vos critères économiques et environnementaux.",
+  "heroImage": "adobestock-227727671-2026-09-10-09-30-28-2",
+  "cta": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=30",
+      "external": false,
+      "slug": "particuliers-contact",
+      "label": "Nous contacter"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "produits",
+      "label": "Produits",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "nativaplus – 100% écologique pour plus d'engagement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Disponible sur simple demande, l’éco-courant <strong>nativaplus</strong> est composé exclusivement d’<strong>énergies locales et régionales: solaire photovoltaïque, éolienne et turbinage d'eau potable</strong>. Cet éco-courant est certifié <a href=\"https://www.naturemade.ch\">naturemade star</a><strong>,</strong> le label écologique le plus exigeant d’Europe."
+        },
+        {
+          "type": "video",
+          "url": "https://datawrapper.dwcdn.net/pmtaO/4/",
+          "provider": "datawrapper"
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=28",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Je choisis l'origine de mon électricité"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "nativa – 100% renouvelable, 100% régionale"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous bénéficiez, par défaut, de notre produit <strong>nativa</strong>, l'énergie de référence des SiL. Cette électricité d'origine <strong>100% renouvelable et 100% régionale </strong>(provenant du canton de Vaud et du Bas-Valais) garantit une énergie de qualité à un tarif modéré. Elle est composée d’un mix d’énergies solaire photovoltaïque, éolienne, hydraulique et d'électricité renouvelable issue de déchets urbains, exclusivement produit dans la région, dont 10% sont labellisés <a href=\"https://www.naturemade.ch\">naturemade</a>."
+        },
+        {
+          "type": "video",
+          "url": "https://datawrapper.dwcdn.net/4eAWj/5/",
+          "provider": "datawrapper"
+        },
+        {
+          "type": "paragraph",
+          "html": "* En 2025, composé de minimum 13% de nouvelles énergies renouvelables naturemade star de la région (Vaud et Bas-Valais), notamment du solaire photovoltaïque produit dans l'agglomération lausannoise (VD), et d'hydroélectricité naturemade basic produite à Lavey (VD) pour le solde."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=28",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Je choisis l'origine de mon électricité"
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Tarifs",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Les SiL vous offrent une électricité 100% suisse et renouvelable, dont 10% est labellisé naturemade. Pour s'engager davantage, vous pouvez souscrire à nativaplus."
+        },
+        {
+          "type": "paragraph",
+          "html": "La tarification s’effectue selon le profil SIMPLE ou le profil DUO qui diffère selon les heures pleines et creuses. Le profil SIMPLE est appliqué par défaut et constitue le tarif de base au sens de la législation. Les clients au bénéfice du profil DUO peuvent en tout temps choisir de passer au profil SIMPLE."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Tarifs 2027"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Quel est le prix de l'électricité aux SiL?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Conformément à l’ordonnance sur l’approvisionnement en électricité (OApEl), nous publions les tarifs applicables au 1er janvier 2027. Ces tarifs, valables pour toute l’année 2027, tiennent compte des nouvelles dispositions légales issues de la réforme énergétique approuvée par le peuple suisse en 2024."
+        },
+        {
+          "type": "paragraph",
+          "html": "Le prix de l'électricité se compose des éléments suivants:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Le tarif de l'énergie: C'est le coût de la production d'électricité, qu'elle soit hydraulique, solaire, ou achetée sur le marché. Ce tarif inclut aussi les frais de gestion des clients et une marge fixée par l'autorité régulatrice.",
+            "Le tarif d'utilisation du réseau et autres contributions: C'est le coût pour utiliser les réseaux de transport et de distribution de l'électricité. Cela couvre la construction, l'entretien, et la gestion du réseau, ainsi que des services pour maintenir sa stabilité.",
+            "Les redevances et taxes: Ce sont des montants versés à l'État et aux communes pour l'utilisation de l'espace public, ainsi qu'une taxe fédérale pour soutenir la production d'électricité renouvelable.",
+            "Le tarif de la mesure: C’est le coût pour l’installation des compteurs et le relevé de la consommation (dès 2026)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Comment évoluera votre facture d’électricité en 2027? Retrouvez ci-dessous la communication adressée à nos clientes et clients."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Communications et fiches tarifaires"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Communications aux clients",
+              "url": "https://www.lausanne.ch/dam/jcr:dd75382a-6c2c-4f4e-b827-4210ca5c782f/modification-tarifs-elec-2027.pdf",
+              "format": "PDF",
+              "size": "286 Ko",
+              "date": null
+            },
+            {
+              "label": "Communiqué de presse du 31 août 2026",
+              "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=18002",
+              "format": "LINK",
+              "size": null,
+              "date": null
+            },
+            {
+              "label": "Fiches tarifaires 2027",
+              "url": "https://www.lausanne.ch/dam/jcr:1fb8b4b1-cc5c-4ea5-ad94-ec3c978dd9dc/tarifs-electricite-particuliers-et-professionnels-2027.pdf",
+              "format": "PDF",
+              "size": "3 Mo",
+              "date": null
+            },
+            {
+              "label": "Fiches tarifaires lisibles par machine",
+              "url": "https://www.lausanne.ch/dam/jcr:635b5ccf-81bb-486f-bc83-ff97949d8b30/sil-tarifs-elec.json",
+              "format": "JSON",
+              "size": "159 Ko",
+              "date": null
+            },
+            {
+              "label": "Fiche tarifaire 2027 - Reprise de l'énergie",
+              "url": "https://www.lausanne.ch/dam/jcr:aa8d6b43-0b2f-4dab-b15e-acbb02c9b0f3/fiche-tarifaire-reprise-2027.pdf",
+              "format": "PDF",
+              "size": "430 Ko",
+              "date": null
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Tarifs 2026"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Communications et fiches tarifaires"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Communications aux clients",
+              "url": "https://www.lausanne.ch/dam/jcr:deebdae9-0ad6-4a7b-9360-b5d25ea73ecf/modification-tarifs-elec-2026.pdf",
+              "format": "PDF",
+              "size": "284 Ko",
+              "date": null
+            },
+            {
+              "label": "Communiqué de presse du 29 août 2025",
+              "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=16636",
+              "format": "LINK",
+              "size": null,
+              "date": null
+            },
+            {
+              "label": "Fiches tarifaires 2026",
+              "url": "https://www.lausanne.ch/dam/jcr:407bb55b-498b-41b1-a0d2-c22c3acd2695/tarifs-electricite-particuliers-et-professionnels-2026.pdf",
+              "format": "PDF",
+              "size": "1 Mo",
+              "date": null
+            },
+            {
+              "label": "Fiches tarifaires lisibles par machine",
+              "url": "https://www.lausanne.ch/dam/jcr:635b5ccf-81bb-486f-bc83-ff97949d8b30/sil-tarifs-elec.json",
+              "format": "JSON",
+              "size": "159 Ko",
+              "date": null
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Reprise de l'énergie 2026"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Communiqué de presse du 2 décembre 2025",
+              "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=85390",
+              "format": "LINK",
+              "size": null,
+              "date": null
+            },
+            {
+              "label": "Fiche tarifaire 2026 - Reprise de l'énergie",
+              "url": "https://www.lausanne.ch/dam/jcr:fbbb831a-dfde-4502-ad6a-358bc342ea5f/fiche-tarifaire-reprise-2026.pdf",
+              "format": "PDF",
+              "size": "747 Ko",
+              "date": null
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Archives des fiches tarifaires et des redevances",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "sourceLevel": 4,
+                  "text": "Tarifs 2025"
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Communication aux clients",
+                      "url": "https://www.lausanne.ch/dam/jcr:c725702a-7cd2-4664-8a01-e14ccfacb7d8/modification-tarifs-elec-2025.pdf",
+                      "format": "PDF",
+                      "size": "331 Ko",
+                      "date": null
+                    },
+                    {
+                      "label": "Fiche tarifaire à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:db6a1f59-fdfb-4b0d-96ff-6833baf8611d/tarifs-electricite-particuliers-2025.pdf",
+                      "format": "PDF",
+                      "size": "144 Ko",
+                      "date": "1er janvier 2025"
+                    },
+                    {
+                      "label": "Fiche tarifaire - Reprise de l'énergie à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:ca5ae79f-8372-4858-8f6f-b1d4d4a73ab4/tarifs-electricite-reprise-energie-2025.pdf",
+                      "format": "PDF",
+                      "size": "95 Ko",
+                      "date": "1er janvier 2025"
+                    },
+                    {
+                      "label": "Raccordements, certification des installations et tarifs de mesure",
+                      "url": "https://www.lausanne.ch/dam/jcr:2fd9eb78-57f9-4a32-b9b6-c8900f238292/tarifs-electricite-raccordement-2025.pdf",
+                      "format": "PDF",
+                      "size": "114 Ko",
+                      "date": "1er janvier 2025"
+                    },
+                    {
+                      "label": "Redevances prélevées sur la facture à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:b1811e82-e9bd-4979-8b6b-8fc96de1d092/Taxes_electricite_2025.pdf",
+                      "format": "PDF",
+                      "size": "137 Ko",
+                      "date": "1er janvier 2025"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "sourceLevel": 4,
+                  "text": "Tarifs 2024"
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Fiche tarifaire à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:bdeab7ce-6980-4011-9416-8afb383ab5da/tarifs-electricite-particuliers-2024.pdf",
+                      "format": "PDF",
+                      "size": "133 Ko",
+                      "date": "1er janvier 2024"
+                    },
+                    {
+                      "label": "Fiche tarifaire - Reprise de l'énergie à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:8ee7a55c-b868-4f43-99ee-5a1ff71c6e39/tarifs-electricite-reprise-energie-2024.pdf",
+                      "format": "PDF",
+                      "size": "114 Ko",
+                      "date": "1er janvier 2024"
+                    },
+                    {
+                      "label": "Redevances prélevées sur la facture à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:db5b8eb8-9cbb-4ca0-8806-32db68f7b7a9/taxes-electricite-2024.pdf",
+                      "format": "PDF",
+                      "size": "78 Ko",
+                      "date": "1er janvier 2024"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "sourceLevel": 4,
+                  "text": "Tarifs 2023"
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Fiche tarifaire à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:9df1651d-532c-46b5-9f2e-b3f0e18638c3/tarifs-electricite-particuliers-2023.pdf",
+                      "format": "PDF",
+                      "size": "193 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Fiche tarifaire - Reprise de l'énergie à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:e03b0f6a-5c96-4baf-9dee-b63d7d41bbcd/tarifs_electricite_reprise_energie_2023.pdf",
+                      "format": "PDF",
+                      "size": "127 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Redevances prélevées sur la facture à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:b9d813db-820d-49a1-b2d0-295b200f5e3f/taxes-electricite-2023.pdf",
+                      "format": "PDF",
+                      "size": "106 Ko",
+                      "date": "1er janvier 2023"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "sourceLevel": 4,
+                  "text": "Tarifs 2022"
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Fiche tarifaire à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:36339323-fdc4-4110-aef7-34ae4240d814/tarifs-electricite-particuliers-2022.pdf",
+                      "format": "PDF",
+                      "size": "668 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Fiche tarifaire - Reprise de l'énergie à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:cfb7db40-7388-4081-ad68-78b8dcd43131/tarifs_electricite_reprise_energie_2022.pdf",
+                      "format": "PDF",
+                      "size": "331 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Redevances prélevées sur la facture à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:32119271-a8f0-4890-a006-89ddc28fc831/taxes-electricite-2022.pdf",
+                      "format": "PDF",
+                      "size": "106 Ko",
+                      "date": "1er janvier 2023"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "sourceLevel": 4,
+                  "text": "Tarifs 2021"
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Fiche tarifaire à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:e423b197-b512-4c33-b3f1-b6dc759e4629/tarifs-electricite-particuliers-2021.pdf",
+                      "format": "PDF",
+                      "size": "577 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Fiche tarifaire - Reprise de l'énergie à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:8766e5d7-adc0-4e07-b5e0-e3f1aeb16935/tarifs-electricite-reprise_energie_2021.pdf",
+                      "format": "PDF",
+                      "size": "589 Ko",
+                      "date": "1er janvier 2023"
+                    },
+                    {
+                      "label": "Redevances prélevées sur la facture à télécharger",
+                      "url": "https://www.lausanne.ch/dam/jcr:cdeda706-3c75-4c92-b3a0-0124222b9f41/taxes-electricite-2021.pdf",
+                      "format": "PDF",
+                      "size": "556 Ko",
+                      "date": "1er janvier 2023"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "FAQ"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Ma facture va-t-elle changer en 2027?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. La majorité des clients particuliers verront leur facture légèrement diminuer, grâce à la baisse du prix de l’énergie."
+                }
+              ]
+            },
+            {
+              "title": "Quel sera l’impact concret pour un ménage type consommant 2’500 kWh?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour un ménage lausannois au tarif de base nativa Profil SIMPLE consommant 2’500 kWh/an (consommation moyenne d’un ménage de 3 personnes dans un logement de 4 pièces ) avec un seul compteur, la facture d’électricité diminuera de 0.21 % en 2027, pour atteindre une moyenne mensuelle d’environ CHF 75.-"
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi les tarifs restent-ils stables malgré la volatilité des marchés?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les SiL disposent d’une production propre et appliquent une stratégie d’approvisionnement à moyen et long terme. Cela leur permet de limiter l’impact des fluctuations des prix de gros sur les tarifs proposés aux ménages et aux PME."
+                }
+              ]
+            },
+            {
+              "title": "La production locale des SiL joue-t-elle un rôle dans les tarifs?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. Les SiL attribuent aux clients en approvisionnement de base une partie de leur production locale, notamment celle de <strong>Lavey et des centrales photovoltaïques de SI-REN SA,</strong> au prix de revient. Cette politique contribue à maintenir des tarifs stables."
+                }
+              ]
+            },
+            {
+              "title": "Les tarifs de reprise de l’électricité photovoltaïque changent-ils?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non. Les SiL maintiennent en 2027 des tarifs de reprise attractifs afin de soutenir la production solaire locale"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Validité"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les tarifs sont valables dès le 1<sup>er</sup> janvier 2027.<br> Le prix sans TVA fait foi pour l’établissement de la facture."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=28",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Je choisis l'origine de mon électricité"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "En relation"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/frais-administratifs.html\">Frais administratifs et main d'œuvre</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/modes-de-paiements.html\">Modes de paiements</a>"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Conditions des prestations"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\" data-slug=\"a-propos-reglements\">Règlements et conditions tarifaires</a><br> Relatives à la fourniture d'énergie électrique par les Services industriels de Lausanne &amp; tarifs particuliers."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Démarches en ligne"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/-my-mes-factures.html\">Factures en ligne</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/-my-ma-consommation.html\">Suivi de la consommation</a>"
+        }
+      ]
+    },
+    {
+      "id": "raccordement",
+      "label": "Raccordement",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 2,
+          "text": "Vous souhaitez créer ou modifier votre raccordement?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Effectuez votre démarche en ligne!"
+        },
+        {
+          "type": "paragraph",
+          "html": "Qu'il s'agisse d'électricité, de gaz, de chauffage à distance, de multimédia ou d'eau, vous trouverez toutes les informations pratiques et utiles sur notre page dédiée."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html?tab=electricite",
+          "external": false,
+          "slug": "partenaires-raccordements",
+          "tab": "electricite",
+          "label": "Informations et démarches"
+        },
+        {
+          "type": "image",
+          "src": "adobestock-130665463-900x600",
+          "alt": "",
+          "caption": "© Ville de Lausanne"
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Sécurité",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "diagnostic-elec-fotolia-69766771-2019-12-12-12-22-42",
+          "alt": "",
+          "caption": "© Ville de Lausanne"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Vous êtes propriétaire?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Si vous êtes propriétaire, les SiL vous informent lorsque vous devez faire <strong>contrôler vos installations électriques</strong>. Vous avez alors six mois pour vous mettre en conformité. Les frais de contrôle et les travaux sont à votre charge et le rapport de sécurité doit être conservé jusqu’au prochain contrôle."
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>L'Ordonnance sur les installations basse tension (OIBT)</strong> exige en effet un contrôle électrique périodique à différents intervalles en fonction de l'usage des bâtiments, soit:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "<strong>Tous les 20 ans pour les habitations</strong> (ou lors d'un changement de propriétaire si aucun contrôle n'a été effectué depuis 5 ans).",
+            "<strong>Tous les 10, 5 ou 1 an pour les locaux commerciaux, les bureaux et les exploitations agricoles.</strong>"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Nouvelle installation électrique ou travaux?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "<strong>Pour les installations soumises à une périodicité de contrôle de 20 ans:</strong> l'installateur réalise un contrôle final qui aboutit à un rapport de sécurité destiné au propriétaire et au distributeur.",
+            "<strong>Pour les installations soumise à une périodicité de contrôle de moins de 20 ans:</strong> un contrôle de réception doit être établi par un organe de contrôle indépendant, en plus du contrôle final effectué par l'installateur."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Marche à suivre"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mandater un <a href=\"https://verzeichnisse.esti.ch/fr/aikb\">organe de contrôle indépendant</a> (qui ne sera pas l'entreprise ayant réalisé l'installation).",
+            "L'organe de contrôle informe le propriétaire des éventuelles corrections ou réparations à effectuer.",
+            "<strong>Si l'installation est conforme</strong>, l'organe de contrôle établit alors un rapport de sécurité en deux exemplaires: le premier est transmis aux SiL, le second au propriétaire.",
+            "<strong>Si l'installation n'est pas conforme</strong>, le propriétaire doit mandater un installateur électricien agréé afin de mettre en conformité son installation. Une fois la mise en conformité prescrite réalisée, l'installateur transmet un avis de suppression de défaut à l'organe de contrôle, qui établit alors un rapport de sécurité en deux exemplaires: un exemplaire est transmis aux SiL, le second au propriétaire.",
+            "<strong>Les frais de contrôle</strong> sont à la charge du propriétaire (voir tarifs ci-dessous).",
+            "<strong>Procuration</strong>: Il est possible de déléguer cette responsabilité à un représentant légal en nous transmettant une procuration signée par toutes les parties (gérance, propriétaires ou autres).",
+            "Les propriétaires sont tenus de <strong>conserver le rapport</strong> de sécurité jusqu'au prochain contrôle périodique."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Tarifs"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL sont tenus de faire appliquer l’OIBT et doivent donc se procurer les rapports de sécurité des installations électriques alimentées par leur réseau basse tension et de vérifier sporadiquement les rapports. Les clients qui génèrent des frais de gestion supplémentaires (notamment le 2<sup>e </sup>rappel, la dénonciation à l’autorité, le traitement des détournements d’énergie, etc.) doivent participer aux frais selon les tarifs suivants:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Frais",
+            "Description",
+            "Tarifs en CHF<br> hors TVA"
+          ],
+          "rows": [
+            [
+              "Frais de transmission d'un dossier à l'ESTI",
+              "Frais de gestion et de transmission à l'ESTI d’un rapport lié à des défauts non éliminés, à des mesures qui ne sont pas prises dans le délai fixé ou toute autre obligation découlant de l’OIBT.",
+              "150.-"
+            ],
+            [
+              "",
+              "Pour une installation supplémentaire",
+              "85.-"
+            ],
+            [
+              "Frais suite à un contrôle où des défauts sont constatés",
+              "L'OIBT oblige les gestionnaires de réseau de distribution de contrôler les installations électriques, soit de manière sporadique, soit lorsqu’il y a lieu de présumer qu’elles ne sont pas conformes.<br> En cas de non-conformité les frais sont à la charge du propriétaire.<br> Le tarif comprend le déplacement et ½ heure de travail. Les heures supplémentaires (ou fraction d’heure) sont facturées en sus",
+              "150.-"
+            ],
+            [
+              "",
+              "Heures supplémentaires",
+              "164.-"
+            ],
+            [
+              "Frais suite à un détournement constaté d'énergie",
+              "Forfait à la charge du propriétaire des installations pour couvrir les frais administratifs comprenant entre autres les démarches pour récupérer les montants concernant l’énergie soustraite.",
+              "300.-"
+            ],
+            [
+              "Frais de procédure suite à des travaux non annoncés",
+              "L’OIBT exige que les travaux d’installation électrique soient annoncés aux SiL. Les cas non annoncés engendrent des frais de procédure auprès de l’installateur électricien.",
+              "100.-"
+            ],
+            [
+              "Frais suite à des courses inutiles",
+              "Facturation des courses inutiles (rendez-vous non honorés)",
+              "84.-"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Documents utiles pour vos démarches"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Procuration (représentant légal du propriétaire)",
+              "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite/contentAutogenerated/autogeneratedContainer/onglets/02/ongletContainerContentList/0/col1/0112/linkList/0/websitedownload/Procuration-proprietaires.2019-12-11-16-32-48.docx",
+              "format": "DOCX",
+              "size": "21 Ko",
+              "date": null
+            },
+            {
+              "label": "Demande d'offre pour la fourniture de données de contrôle des installations (modèle)",
+              "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite/contentAutogenerated/autogeneratedContainer/onglets/02/ongletContainerContentList/0/col1/0112/linkList/00/websitedownload/Demande-offre-fourniture-donnees-controle-installations.2019-12-11-16-33-05.docx",
+              "format": "DOCX",
+              "size": "22 Ko",
+              "date": null
+            },
+            {
+              "label": "Classification des locaux médicaux",
+              "url": "https://www.lausanne.ch/dam/jcr:92045acb-5654-49cb-a473-f6601bb8ca16/NIBT-2020-classification-locaux-medicaux.pdf",
+              "format": "PDF",
+              "size": "282 Ko",
+              "date": null
+            },
+            {
+              "label": "Prescriptions des distributeurs d'électricité (PDIE)",
+              "url": "https://www.lausanne.ch/dam/jcr:792ec9ab-8359-42e0-a5b1-785cd11ed1e1/prescriptions-distributeurs-electricite-CTR.pdf",
+              "format": "PDF",
+              "size": "1 Mo",
+              "date": null
+            },
+            {
+              "label": "PDIE dispositions particulières SiL",
+              "url": "https://www.lausanne.ch/dam/jcr:338c7499-356a-4bcc-b5c3-2a9ee65c24d2/PDIE_dispositions_particulieres_SiL.pdf",
+              "format": "PDF",
+              "size": "3 Mo",
+              "date": null
+            },
+            {
+              "label": "PDIE - Guide administratif et technique",
+              "url": "https://www.lausanne.ch/dam/jcr:11a6d2af-39ee-4128-b1ec-4859cdd9b47b/Guide%20administratif%20et%20technique%20GRUT%20PDIE.PDF",
+              "format": "PDF",
+              "size": "1 Mo",
+              "date": null
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.admin.ch/opc/fr/classified-compilation/20012238/index.html\"> Ordonnance sur les installations basse tension (OIBT) </a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.esti.admin.ch/fr/esti-page-daccueil/\"> Inspection fédérale des installations à courant fort ESTI </a>"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Un doute ou une question sur la fourniture de votre électricité?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous n'êtes pas seul! Retrouvez les questions fréquemment posées sur le sujet."
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Glossaire",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "<strong>LApEl:</strong> Loi sur l'approvisionnement en électricité. Pour en savoir plus -&gt; Loi sur l'approvisionnement en électricité (LApEl)"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>OApEl:</strong> Ordonnance sur l’approvisionnement en électricité. Pour en savoir plus -&gt; RO 2024 282 - Ordonnance sur l’approvisionnement en électricité (OApEl) | Fedlex"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>BT:</strong> Basse tension"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>MT:</strong> Moyenne tension"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>HT:</strong> Haute tension"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>RUR:</strong> Remboursement de la rémunération pour l’utilisation du réseau"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>OFEN:</strong> Office fédéral de l’énergie. Pour en savoir plus -&gt; Office fédéral de l’énergie"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<strong>AES:</strong> association faîtière du secteur électrique suisse. Pour en savoir plus -&gt; À propos | AES"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Les changements pour 2027"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Ma facture va-t-elle changer en 2027?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. La majorité des clients particuliers verront leur facture légèrement diminuer, grâce à la baisse du prix de l’énergie."
+                }
+              ]
+            },
+            {
+              "title": "Quel sera l’impact concret pour un ménage type consommant 1’000 kWh?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour un ménage lausannois consommant 1’000 kWh/an (consommation moyenne d’un ménage d’une personne dans un studio), au tarif de base nativa Profil SIMPLE, la facture d’électricité diminuera de 0.18 % en 2027, pour atteindre une moyenne mensuelle d’environ CHF 35.-"
+                }
+              ]
+            },
+            {
+              "title": "Quel sera l’impact concret pour un ménage type consommant 2’500 kWh?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour un ménage lausannois au tarif de base nativa Profil SIMPLE consommant 2’500 kWh/an (consommation moyenne d’un ménage de 3 personnes dans un logement de 4 pièces ) avec un seul compteur, la facture d’électricité diminuera de 0.21 % en 2027, pour atteindre une moyenne mensuelle d’environ CHF 75.-."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi les tarifs restent-ils stables malgré la volatilité des marchés?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les SiL disposent d’une production propre et appliquent une stratégie d’approvisionnement à moyen et long terme. Cela leur permet de limiter l’impact des fluctuations des prix de gros sur les tarifs proposés aux ménages et aux PME."
+                }
+              ]
+            },
+            {
+              "title": "La production locale des SiL joue-t-elle un rôle dans les tarifs?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. Les SiL attribuent aux clients en approvisionnement de base une partie de leur production locale, notamment celle de <strong>Lavey et des centrales photovoltaïques de SI-REN SA,</strong> au prix de revient. Cette politique contribue à maintenir des tarifs stables."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi le prix de l’énergie baisse-t-il?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "En 2027, le prix de l’énergie sera de<strong> 9,42 ct/kWh</strong> (–4,7 % par rapport à 2026)."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Premièrement cette baisse s’explique principalement par le recul des prix sur les marchés de gros de l’électricité et par la politique d’approvisionnement à moyen et long terme menée par les SiL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Deuxièmement les SiL attribuent l’ensemble de la production de l’usine hydroélectrique de Lavey et de la production photovoltaïque de SI-REN SA aux clients en approvisionnement de base (ménages et PME principalement). Cette production locale permet de limiter les effets des variations du marché et de maintenir des tarifs stables sur le long terme."
+                }
+              ]
+            },
+            {
+              "title": "Qu’en est-il de l’utilisation du réseau?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le tarif réseau augmentera à 12,67 ct/kWh (+4,7 % par rapport à 2026).<br> Cette hausse s’explique par l’augmentation des coûts administratifs nécessaires à la gestion du réseau. Les SiL poursuivent leurs efforts pour exploiter le réseau de manière efficace tout en garantissant un approvisionnement en électricité fiable et de qualité. Les heures creuses sont maintenues du lundi au vendredi de 22h00 à 8h00."
+                }
+              ]
+            },
+            {
+              "title": "Que recouvrent les « coûts de la mesure »?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Ils incluent l’installation des compteurs et le relevé de la consommation. En 2027, ces tarifs restent inchangés. Prix fixé à CHF 7.50 par mois et par compteur basse tension (CHF 90.–/an)."
+                }
+              ]
+            },
+            {
+              "title": "Comment évoluent les taxes et redevances?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Globalement, les taxes et redevances à Lausanne passent à <strong>7,774 </strong>ct/kWh (-2,3 %). Pour les autres communes raccordées, elles seront confirmées d’ici fin 2026."
+                }
+              ]
+            },
+            {
+              "title": "Les tarifs de remboursement réseau évoluent-ils en 2027?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. Les tarifs de remboursement réseau sont revus à la hausse en 2027 par rapport à 2026."
+                }
+              ]
+            },
+            {
+              "title": "De combien augmentent les tarifs?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L'évolution dépend de la catégorie tarifaire :"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Profil SIMPLE : +9,3 % (de 12,10 à 13,22 ct/kWh)",
+                    "Profil DUO : +9,8 % (de 10,84 à 11,90 ct/kWh)"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce la fiche tarifaire lisible par machine?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La publication lisible par machine vise à faciliter le travail des prestataires de services de facturation, des exploitants RCP et CEL et d'autres acteurs et n'a rien à voir avec la déclaration à l'ElCom. Pour en savoir plus -&gt; <a href=\"https://www.strom.ch/fr/services/shop/outil-tarifaire-pour-les-gestionnaires-de-reseau-de-distribution\">Tarifpublisher de l’AES pour les gestionnaires de réseau de distribution | AES</a>. Le lien de téléchargement -&gt; <a href=\"https://www.lausanne.ch/json-tarifs-elec-26\">https://www.lausanne.ch/json-tarifs-elec-26</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Comprendre la méthode de tarification des SiL pour ce tarif de reprise 2027"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’implique la rétribution minimale de 10 ct/kWh pour les installations photovoltaïques jusqu’en 2033?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour rappel, la Municipalité a approuvé le 29 juin 2023 la prolongation d’une rétribution minimale moyenne annuelle de 10 ct/kWh, <strong>garanties d’origine incluses</strong>, pour les installations photovoltaïques d’une puissance inférieure ou égale à 30 kW, et ce jusqu’en 2033, afin d’offrir une sécurité aux personnes souhaitant investir dans cette énergie."
+                }
+              ]
+            },
+            {
+              "title": "Les tarifs de reprise de l’électricité photovoltaïque changent-ils?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non. Les SiL maintiennent en 2027 des tarifs de reprise attractifs afin de soutenir la production solaire locale."
+                }
+              ]
+            },
+            {
+              "title": "Que se passe-t-il si les garanties d’origine ne sont pas incluses?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Dans ce cas, la rémunération dépend du prix du marché ou, si celui-ci est trop bas, de la rémunération minimale garantie définie par la Confédération. Cela signifie que le producteur touche au moins le montant minimal national, ou plus si le prix du marché est supérieur."
+                }
+              ]
+            },
+            {
+              "title": "A qui s’applique les prix TVA incluse mentionné sur la fiche tarifaire?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les prix indiqués TVA incluses sur la fiche tarifaire ne sont applicables qu’aux producteurs assujettis à la TVA, ce qui est une minorité."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Comprendre le contexte du tarif de reprise"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qui est concerné par cette réglementation?",
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Les producteurs d’électricité disposant d’installations solaires, éoliennes, hydrauliques ou de couplage chaleur-force (CCF) d’une puissance &lt; 3 MW (ou 3000 kW)",
+                    "Les gestionnaires de réseaux de distribution (GRD) chargés de reprendre cette électricité",
+                    "Les consommateurs finaux raccordés à ces réseaux, puisque la rémunération peut influencer les tarifs d’approvisionnement de base."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Les gestionnaires de réseau peuvent-ils fixer librement le prix de rétribution?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, trois options sont possibles :"
+                },
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "items": [
+                    "Un accord direct entre le producteur et le gestionnaire de réseau sur le prix de reprise.",
+                    "Application d’un tarif harmonisé au niveau suisse, établi selon des critères définis par l’Office fédéral de l’énergie (OFEN).",
+                    "Application d’un tarif supérieur à celui du tarif harmonisé."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le « tarif harmonisé »?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "C’est un prix de référence national servant à garantir une rémunération équitable et transparente. Il existe:"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "un tarif harmonisé pour l’électricité issue du couplage chaleur-force (CCF), basé sur le prix de marché moyen trimestriel",
+                    "un tarif harmonisé pour les énergies renouvelables (dont le solaire), modulé selon la reprise ou non de la garantie d’origine (GO)"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que la garantie d’origine (GO) et pourquoi est-elle importante?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La garantie d’origine (GO) est un certificat attestant que l’électricité provient d’une source renouvelable. Une garantie d’origine (GO) est un certificat délivré par Pronovo attestant que l’électricité produite provient d’une source renouvelable. Une GO est émise pour chaque kilowattheure (kWh) d’électricité produit.<br> <br> Elle est indépendante du flux physique d’électricité et peut être échangée librement sur le marché."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Elle peut être:"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Transmise par le producteur au gestionnaire de réseau (p. ex. aux SIL, Services Industriels de Lausanne",
+                    "Conservée par le producteur, qui peut alors la vendre séparément"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Cette décision influence la catégorie tarifaire et les seuils de puissance applicables."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le prix du marché?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le prix du marché est le prix auquel l’électricité s’échange sur les marchés de gros. C’est donc la valeur en temps réel de l’électricité selon l’offre et la demande."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la différence selon que la garantie d’origine (GO) est reprise ou non?",
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Sans reprise de la GO, le prix est harmonisé au niveau suisse (prix de marché) ou rémunération minimale fixée. Le producteur conserve la GO pour la vendre séparément.",
+                    "Avec reprise de la GO, la rémunération est basée sur les coûts de revient, déduction faite des éventuels encouragements publics. Le producteur cède la GO avec l’électricité au gestionnaire de réseau."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que la rémunération minimale?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La rémunération minimale garantie est un tarif plancher fixé par la Confédération suisse."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Elle définit le prix minimum que les gestionnaires de réseau doivent payer pour l’électricité solaire injectée dans le réseau par les producteurs privés (par exemple, les propriétaires d’installations photovoltaïques)."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la base légale de ces règles?",
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "LEne : Loi sur l’énergie",
+                    "OEne : Ordonnance sur l’énergie"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qui détermine les montants de rémunération harmonisés?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’Office fédéral de l’énergie (OFEN) publie un tableau récapitulatif indiquant les niveaux de rémunération imputables à l’approvisionnement de base, selon le type d’énergie et la situation de reprise des garanties d’origine."
+                }
+              ]
+            },
+            {
+              "title": "Quel est l’objectif de cette harmonisation?",
+              "blocks": [
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Garantir une égalité de traitement entre producteurs à travers la Suisse",
+                    "Assurer une transparence tarifaire pour les consommateurs",
+                    "Favoriser la production d’énergie renouvelable dans un cadre économique stable."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Quels sont les différentes catégories d’installations?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il y a deux grandes catégories d’installations:"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Installations avec consommation propre : Une partie de l’électricité produite est consommée directement sur place (p. ex. dans un bâtiment). Ces installations sont encouragées par des conditions tarifaires plus avantageuses afin de favoriser l’autoconsommation et réduire la charge sur le réseau. Les raccordements avec consommation propre sont : IER-I – Autoconsommateur / IER-C – Communauté d’Autoconsommateurs (CA) / IER-R – Regroupement dans le cadre de la consommation propre (RCP) / IER-Rv – Regroupement virtuel dans le cadre de la consommation propre (RCPv)",
+                    "Installations sans consommation propre : Toute l’électricité produite est injectée dans le réseau. Ces installations seront soumises à des règles tarifaires distinctes, moins incitatives. Les raccordements sans consommation propre sont : IER-P – Producteur"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Tous les détails de ces raccordements sont disponibles sur notre site internet -&gt; <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html?tab=ipe\" data-slug=\"partenaires-raccordements\" data-tab=\"ipe\">Raccordements - ipe – Ville de Lausanne</a>"
+                }
+              ]
+            },
+            {
+              "title": "Quand est publié le prix marché de référence?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le prix est connu à posteriori car publié par l’OFEN en fin de trimestre civil."
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Pour les installations dont la production est annoncée chaque mois, prix mensuel appliqué (mais connu à la fin du trimestre)",
+                    "Pour les installations dont la production est annoncée chaque trimestre, prix trimestriel moyen appliqué (connu à la fin du trimestre)."
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La publication est trimestrielle uniquement. Publication durant la deuxième semaine après la fin d’un trimestre. Le fichier XML est publié sur opendata.swiss à l’aide du lien suivant -&gt; <a href=\"https://opendata.swiss/fr/dataset/referenz-marktpreise-gemass-art-15-enfv\">Prix de marché de référence</a>"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Quel était le prix du marché?"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Q1/ 2025 -&gt; 10,38 ct/kWh<br> Q2/ 2025 -&gt; 2,76 ct/kWh<br> Q3/ 2025 -&gt; 5,73 ct/kWh<br> Q4/ 2025 -&gt; 9,508 ct/kWh<br> Q1/ 2026 -&gt; 10,266 ct/kWh<br> Q2/ 2026 -&gt; 3,896 ct/kWh"
+                }
+              ]
+            },
+            {
+              "title": "Quand est publié la rémunération minimale?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Contrairement au prix de marché de référence, la rémunération est connue avant l’année civile en question."
+                }
+              ]
+            },
+            {
+              "title": "A combien se monte la rémunération minimale pour une installation d’une puissance inférieure à 30 kW, sans garantie d’origine?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La rémunération minimum est fixée à 6.0 ct/kWh par l’OFEN"
+                }
+              ]
+            },
+            {
+              "title": "Pour une installation solaire comprise entre 30 kW et 150 kW avec consommation propre, sans garantie d’origine?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La rémunération minimum est variable selon la puissance de l’installation avec la règle suivante:"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "- Rémunération minimum = 180 / Puissance de la centrale <em>(ex : Puissance de la centrale 130 kW -&gt; 1,38 ct/kWh (180/130)</em>"
+                }
+              ]
+            },
+            {
+              "title": "Pour une installation solaire d’une puissance comprise entre 30 kW et 150 kW sans consommation propre, sans garantie d’origine?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La rémunération minimum est fixée à 6.2 ct/kWh par l’OFEN."
+                }
+              ]
+            },
+            {
+              "title": "A combien se monte la rémunération minimale pour une installation d’une puissance supérieure à 150 kW, sans garantie d’origine?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Défini par l’OFEN, ll n’y pas de minimum pour ce type de centrale."
+                }
+              ]
+            },
+            {
+              "title": "Où trouver plus d’informations?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Sur le site de l’Office fédéral de l’énergie (OFEN):<a href=\"https://www.bfe.admin.ch\"> https://www.bfe.admin.ch</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Énergie"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’est-ce que la séparation des portefeuilles?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La nouvelle législation met fin au portefeuille unique et impose la création de portefeuilles séparés (approvisionnement de base, clients marché, revendeurs, etc.). Ainsi, les coûts d’achat sont attribués spécifiquement à chaque portefeuille, et non plus mis en commun.<br> Cela permet de limiter le risque que les clients régulés subissent les pertes liées aux clients marchés, comme ce fut le cas durant la crise énergétique de 2021-2022"
+                }
+              ]
+            },
+            {
+              "title": "Comment se calcule la marge admissible pour l’approvisionnement de base?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La marge admissible est une marge brute calculée selon un forfait par destinataire de facture (90 CHF/an, puis 75 CHF/an, puis 60 CHF/an).<br> Dès l’exercice tarifaire 2026, elle est définie en marge nette (OApEl)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Utilisation du réseau et Mesure"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’est-ce que le tarif de mesure?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Depuis 2026, le comptage est séparé de l’acheminement et facturé sous forme de tarif spécifique.<br> Ce tarif couvre les coûts liés aux compteurs d’électricité et les systèmes et processus permettant la mise à disposition des données de mesure.<br> La facturation est mensuelle par point de mesure, selon la puissance de raccordement.<br> Catégories de compteurs concernées :"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Compteur basse tension (BT) &lt;80 ampères",
+                    "Compteur basse tension (BT) &gt;80 ampères",
+                    "Compteur moyenne tension (MT)",
+                    "Compteur haute tension (HT)",
+                    "Compteur virtuel"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le tarif pour l’éclairage public?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Un tarif spécifique pour les installations d’éclairage télécommandées ayant un profil de consommation particulier, comme l’éclairage public d’utilité et l’éclairage public privé géré par les SiL."
+                }
+              ]
+            },
+            {
+              "title": "Quelles réductions sont prévues pour les Communautés électriques locales (CEL)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les CEL regroupent consommateurs finaux, producteurs d’électricité renouvelable et gestionnaires d’installations de stockage.<br> Les participants peuvent bénéficier d’un abattement sur le tarif d’utilisation du réseau :"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Diminution de 40% si tous les participants sont raccordés au même niveau de réseau.",
+                    "Diminution de 20% si une transformation de tension est nécessaire (selon la topologie du réseau)."
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La réduction s’applique uniformément aux composantes tarifaires (cts/kWh et CHF/kW)."
+                }
+              ]
+            },
+            {
+              "title": "Quelles sont les plages d’heures pleines et creuses?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "En 2025, les heures pleines étaient de 6h00 à 22h00 (lundi–vendredi) et de 7h00 à 14h00 (samedi).<br> Dès 2026, les heures pleines sont réduites à 8h00 – 22h00 du lundi au vendredi uniquement.<br> L’objectif est de créer de meilleures incitations pour stabiliser le réseau et optimiser la consommation."
+                }
+              ]
+            },
+            {
+              "title": "Que signifie le tarif de remboursement de l’acheminement?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les exploitants d’installations de stockage avec consommation finale ou de transformation de l’électricité (hydrogène, gaz, combustibles, carburants synthétiques), peuvent demander un remboursement de la rémunération pour l’utilisation du réseau (RUR) payée lors du soutirage du réseau. Les tarifs de remboursement sont calculés selon le Manuel d’utilisation du réseau de distribution (AES) et dépendent des tarifs d’acheminement de chaque distributeur. Une FAQ détaillée est disponible sur notre site internet."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Remboursement de la rémunération pour l’utilisation du réseau"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’est-ce que le remboursement de la RUR?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La législation fédérale (LApEl, OApEl) permet aux gestionnaires d’installations de stockage avec consommation finale (ex. batteries) et d’installations transformant l’électricité en hydrogène, gaz ou carburants synthétiques, de se faire rembourser la rémunération pour l’utilisation du réseau (RUR), sous certaines conditions."
+                }
+              ]
+            },
+            {
+              "title": "Dans quels cas une installation de stockage est-elle éligible au remboursement?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Une installation de stockage est considérée avec consommation finale lorsque l’énergie stockée est partiellement ou totalement consommée sur place et qu’une seule partie est réinjectée dans le réseau.<br> Le remboursement n’est possible que pour l’électricité soutirée du réseau, stockée, puis réinjectée.<br> Si l’installation se charge uniquement avec une production locale (ex. panneaux solaires du même site), aucun remboursement n’est possible, car aucune RUR n’a été payée au départ."
+                }
+              ]
+            },
+            {
+              "title": "Dans quels cas puis-je obtenir un remboursement avec mon installation de stockage?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Vous pouvez être remboursé uniquement si votre installation stocke de l’électricité que vous avez d’abord prise sur le réseau, puis que vous la réinjectez plus tard dans ce même réseau."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi je ne peux pas être remboursé si je charge mon installation uniquement avec mes panneaux solaires?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Parce que dans ce cas, vous n’avez rien prélevé sur le réseau au départ. Comme aucune taxe liée au réseau n’a été payée, il n’y a tout simplement rien à rembourser."
+                }
+              ]
+            },
+            {
+              "title": "Quelles sont les conditions techniques pour une installation de stockage?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si une installation de stockage est située avec une production en aval du même point de fourniture un système de mesure supplémentaire doit être installé par les SiL. Les coûts de ce système de mesure sont à la charge du gestionnaire de l’installation de stockage."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le remboursement de la RUR n’est économiquement intéressant que pour les grandes installations de stockage, car le gain doit dépasser le coût de la mesure."
+                }
+              ]
+            },
+            {
+              "title": "Pour quels types d’installations de stockage un remboursement peut-il être intéressant?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Un remboursement peut avoir du sens surtout pour les installations fixes de grande capacité (dès 500 kWh). Certains véhicules électriques capables de recharger sur le réseau au travail et de réinjecter de l’électricité à la maison, mais uniquement dans des conditions très spécifiques."
+                }
+              ]
+            },
+            {
+              "title": "Quelles conditions techniques faut-il respecter?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si vous avez déjà une production d’électricité sur place (par ex. panneaux solaires), votre installation de stockage doit être raccordée du côté <strong>AC </strong>(courant alternatif) et disposer d’un <strong>compteur séparé</strong> uniquement pour le stockage."
+                }
+              ]
+            },
+            {
+              "title": "Qui prend en charge les éventuelles modifications d’installation?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les frais éventuels (nouveau compteur, adaptation du raccordement, etc.) sont à la charge du propriétaire de l’installation. Il est donc recommandé de se renseigner auprès de son installateur-électricien avant de déposer une demande."
+                }
+              ]
+            },
+            {
+              "title": "Qu’en est-il des installations de transformation (hydrogène, gaz, carburants synthétiques)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Ces installations peuvent aussi obtenir un remboursement de la RUR pour la quantité d’électricité soutirée du réseau, transformée (en hydrogène, gaz ou carburant), puis reconvertie en électricité et réinjectée dans le réseau.<br> Le remboursement n’est possible que si la RUR a été prépayée au moment du soutirage."
+                }
+              ]
+            },
+            {
+              "title": "Quelles conditions spécifiques s’appliquent aux installations de transformation?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si l’installation de transformation et la production se trouvent en aval du même point de raccordement, un système de mesure supplémentaire doit être installé par les SiL, avec des coûts à la charge du gestionnaire de l’installation de transformation."
+                }
+              ]
+            },
+            {
+              "title": "Qui fixe le montant du remboursement de la RUR?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le tarif de remboursement est calculé selon la législation fédérale et publié annuellement par les autorités compétentes. Ce tarif est disponible sur notre page Tarifs."
+                }
+              ]
+            },
+            {
+              "title": "Comment demander le remboursement?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les demandes doivent être adressées par courriel à <a href=\"mailto:raccordements@lausanne.ch\">raccordements@lausanne.ch</a> qui vous accompagnera dans les démarches."
+                }
+              ]
+            },
+            {
+              "title": "Comment savoir si je suis éligible au remboursement?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si un doute persiste après lecture de notre FAQ, vous pouvez sans autre nous contacter."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Livraison et distribution"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Où puis-je trouver les informations à propos des réglementations sur les énergies ?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Vous trouverez les règlements propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relative aux branchements concernés <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\" data-slug=\"a-propos-reglements\">sur cette page.</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "En relation"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/provenance.html\">D'où provient mon électricité?</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite.html\" data-route=\"/a-propos-sil/nos-activites/electricite\">Nos sources de production</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation/outils-pour-gerer-la-consommation.html\" data-route=\"/professionnels/optimiser-sa-consommation/outils-pour-gerer-la-consommation\">Outils d'optimisation de la consommation</a>"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

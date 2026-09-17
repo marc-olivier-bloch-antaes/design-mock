@@ -1,0 +1,115 @@
+{
+  "logos": {
+    "sil": "assets/brand/logo-sil.svg",
+    "silFooter": "assets/brand/logo-sil-footer.svg",
+    "silFiligrane": "assets/brand/logo-sil-filigrane.svg",
+    "ecussonLausanne": "assets/brand/ecusson-lausanne.svg",
+    "favicon": "assets/brand/favicon.png"
+  },
+  "css": {
+    "main": "assets/brand/main.min.css",
+    "sourceUrl": "https://www.lausanne.ch/.resources/vdl-templating-light/webresources/css/dist/main-1.0.1.min~2026-07-03-14-33-16-000~cache.css"
+  },
+  "colors": [
+    {
+      "hex": "#e1313c",
+      "frequencyInCss": 112,
+      "role": "Primary brand red - headings (h2/h4), .bkgRed backgrounds (top promo strip), .red text, red-left-border accents. The core Ville de Lausanne / SiL identity color."
+    },
+    {
+      "hex": "#8d1e20",
+      "frequencyInCss": 12,
+      "role": "Darker red, hover/active state of the primary red family (buttons, links)."
+    },
+    {
+      "hex": "#aa2427",
+      "frequencyInCss": 54,
+      "role": "Secondary red shade, used in gradients/hover states alongside #e1313c."
+    },
+    {
+      "hex": "#ae1923",
+      "frequencyInCss": 34,
+      "role": "Secondary red shade, buttons/borders variants."
+    },
+    {
+      "hex": "#09a16d",
+      "frequencyInHtml": 41,
+      "role": "CTA green. Not in the static CSS bundle - injected per-button as an inline <style> override (`#cta-button-<uuid>{background-color:#09a16d}`) on every 'nativa'/energy-choice call-to-action across all universes (electricite, chaleur, gaz, raccordement...). This is the de-facto 'act now' action color across the whole SiL section, distinct from the red used by the rest of lausanne.ch."
+    },
+    {
+      "hex": "#0080bf",
+      "frequencyInCss": 79,
+      "role": "Interactive blue - .lien buttons, focus/selection outlines (.is-selected), secondary links."
+    },
+    {
+      "hex": "#31b2e0",
+      "frequencyInCss": 11,
+      "role": "Lighter accent blue, hover states of the interactive blue."
+    },
+    {
+      "hex": "#f69e01",
+      "frequencyInCss": 11,
+      "role": "Amber/orange accent, used sparingly for warnings/highlights."
+    },
+    {
+      "hex": "#ffffff",
+      "frequencyInCss": 369,
+      "role": "Base background / text-on-dark."
+    },
+    {
+      "hex": "#000000",
+      "frequencyInCss": 166,
+      "role": "Base text on light backgrounds."
+    },
+    {
+      "hex": "#333333",
+      "frequencyInCss": 45,
+      "role": "Body text grey."
+    },
+    {
+      "hex": "#666666",
+      "frequencyInCss": 37,
+      "role": "Secondary text grey."
+    },
+    {
+      "hex": "#999999",
+      "frequencyInCss": 58,
+      "role": "Muted text / placeholder grey."
+    },
+    {
+      "hex": "#cccccc",
+      "frequencyInCss": 58,
+      "role": "Border / divider grey."
+    },
+    {
+      "hex": "#eeeeee",
+      "frequencyInCss": 41,
+      "role": "Light section background grey."
+    },
+    {
+      "hex": "#f7f7f7",
+      "frequencyInHtml": 2,
+      "role": "light-grey-bkg section background (homepage teasers strip)."
+    }
+  ],
+  "colorsExcludedAsNonBrand": [
+    {"hex": "#00B2FF", "reason": "JS variable for an active map-marker icon color, not a UI/brand color."},
+    {"hex": "#003380", "reason": "JS variable for an inactive map-marker icon color, not a UI/brand color."},
+    {"hex": "#da532c", "reason": "Windows tile meta color (msapplication-TileColor), Microsoft-tile default, not part of the visual design."},
+    {"hex": "#5bbad5", "reason": "Safari pinned-tab mask-icon color meta tag, not part of the visual design."},
+    {"hex": "#d4ffe6", "reason": "One-off inline table cell highlight on a single editorial tariff table (particuliers-gaz-naturel), not a reusable design token."}
+  ],
+  "typography": {
+    "primaryFontFamily": "Open Sans",
+    "fallbackStack": "Open Sans, Arial, sans-serif",
+    "selfHosted": true,
+    "weights": [300, 400, 500, 600, 700, 800],
+    "iconFonts": ["bootstrap-icons", "Glyphicons Halflings", "lausanne-map", "weathericons"],
+    "notes": "Single typeface (Open Sans) for the whole site, self-hosted as woff2/woff under /.resources/.../fonts/. No secondary/display typeface was found."
+  },
+  "notes": [
+    "The SiL sub-site reuses lausanne.ch's global Bootstrap-based design system (main.min.css, ~770KB unminified selectors incl. full Bootstrap 5 reset) rather than having its own dedicated stylesheet.",
+    "There is no per-universe (electricite/gaz/chaleur/multimedia/mobilite) color coding in the CSS: every CTA button uses the same green (#09a16d) regardless of universe, and category icons (acces-direct) are plain single-color inline SVGs (currentColor), not hex-coded per category.",
+    "The CTA green (#09a16d) is the single most actionable finding for a redesign: it is applied ad-hoc via inline <style> blocks per button instance rather than a CSS class, suggesting content editors pick it manually each time - a real design-system opportunity."
+  ]
+}

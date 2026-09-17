@@ -1,0 +1,119 @@
+{
+  "slug": "a-propos-notre-engagement",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement.html",
+  "path": "/a-propos-sil/notre-engagement",
+  "title": "Notre engagement",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "label": "Services industriels (SiL)",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "slug": "accueil"
+    },
+    {
+      "label": "A propos des SiL",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html"
+    },
+    {
+      "label": "Notre engagement",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement.html",
+      "slug": "a-propos-notre-engagement"
+    }
+  ],
+  "lead": "Les SiL poursuivent une politique énergétique active en encourageant les économies d’énergie – grâce au programme équiwatt – et en développant la production locale d’énergie renouvelable.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "gallery",
+      "title": null,
+      "items": [
+        {
+          "src": "assets/images/Solaire-ouchy_1940x746.2023-08-21-09-06-43.jpg",
+          "alt": "",
+          "caption": "© SI-REN"
+        },
+        {
+          "src": "assets/images/La-Sallaz.2023-08-21-09-06-43.jpg",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "assets/images/Pierre-de-Plan.2023-08-21-09-06-43.jpg",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "assets/images/Elec-1940x746.2023-08-24-15-35-42.jpg",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "assets/images/Lavey-Pano-1940x746.2023-08-21-09-06-43.jpg",
+          "alt": "",
+          "caption": "© Laurent Kaczor"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": null,
+      "variant": "icon-nav",
+      "items": [
+        {
+          "label": "Politique",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement/politique.html"
+        },
+        {
+          "label": "Efficacité énergétique",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement/efficacite-energetique.html"
+        },
+        {
+          "label": "Energies renouvelables",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement/Energies-renouvelables.html"
+        },
+        {
+          "label": "Evénements et sponsoring",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/notre-engagement/evenements-sponsoring.html"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Direction Services industriels",
+      "lines": [
+        "Direction Services industriels",
+        "Place Chauderon 23 Rez-de-chaussée Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "assets/images/logo-sil2.svg",
+      "links": [
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true
+        },
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/86236415",
+          "external": true
+        }
+      ]
+    }
+  ]
+}

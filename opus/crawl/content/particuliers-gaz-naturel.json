@@ -1,0 +1,1074 @@
+{
+  "slug": "particuliers-gaz-naturel",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html",
+  "path": "/particuliers/je-choisis-mon-offre/gaz-naturel",
+  "title": "Gaz naturel - Solutions",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "label": "Services industriels (SiL)",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "slug": "accueil"
+    },
+    {
+      "label": "Particuliers",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html"
+    },
+    {
+      "label": "Je choisis mon offre",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+      "slug": "particuliers-je-choisis-mon-offre"
+    },
+    {
+      "label": "Gaz naturel",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html",
+      "slug": "particuliers-gaz-naturel"
+    }
+  ],
+  "lead": "Qu’il s’agisse de chauffage, d’eau chaude ou de cuisson, le gaz naturel est une <strong>énergie de transition </strong>qui s’adapte aux besoins de chacun et se combine facilement avec les énergies renouvelables.",
+  "heroImage": "assets/images/AdobeStock_278552879.2026-04-23-16-52-27-2.jpg",
+  "cta": [
+    {
+      "label": "Nous contacter",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=31"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "solutions",
+      "label": "Solutions",
+      "icon": "assets/icons/picto-onglet-produits.2026-01-26-08-49-14.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Votre offre gaz naturel-biogaz"
+        },
+        {
+          "type": "paragraph",
+          "html": "Soucieux de leur impact climatique, les SiL ont souhaité garantir l’origine danoise et norvégienne de leur gaz naturel-biogaz par des certificats. Ils peuvent ainsi attester que 20% de leur gaz naturel-biogaz provient d’installations de production de biogaz au Danemark, Pays-Bas et Espagne et que le 80% restant a été extrait des champs gaziers de la mer du Nord en Norvège."
+        },
+        {
+          "type": "video",
+          "url": "https://datawrapper.dwcdn.net/kuzyt/4/"
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Qu’est-ce que c’est le biogaz ?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le biogaz est composé essentiellement de méthane (CH4). Contrairement au gaz naturel qui est extrait des profondeurs de la terre, le biogaz est issu de la fermentation de résidus agricoles et alimentaires, tels que les déchets verts ou les boues d’épuration. Son cycle de vie est beaucoup plus court et c’est pour cette raison qu’il est considéré comme une énergie renouvelable et que son empreinte carbone est fortement réduite."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/Site_SiL_Gaz_Schema_Biogaz_1200_v1.2021-02-02-07-50-07.jpg",
+          "alt": "© Droits réservés",
+          "caption": null
+        },
+        {
+          "type": "table",
+          "headers": [],
+          "rows": [
+            [
+              "<strong>1</strong>",
+              "Fermentation humide"
+            ],
+            [
+              "<strong>2</strong>",
+              "Fermentation sèche"
+            ],
+            [
+              "<strong>3</strong>",
+              "Biogaz: 60% de méthane, 40% de CO<sub>2</sub>"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [],
+          "rows": [
+            [
+              "<strong>4</strong>",
+              "Traitement pour obtenir la qualité du gaz naturel: teneur en méthane &gt; 96%"
+            ],
+            [
+              "<strong>5</strong>",
+              "Captage du CO<sub>2</sub> pour le power-to-gaz et/ou d'autres utilisations"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [],
+          "rows": [
+            [
+              "<strong>6</strong>",
+              "Injection de biogaz traité dans le réseau de gaz"
+            ]
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "FAQ essentielles"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=faq\">Actualité internationale et conséquences sur l’approvisionnement en gaz</a>"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "En relation"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/portrait/climat/plan-climat.html\">Plan climat</a>"
+        }
+      ]
+    },
+    {
+      "id": "gaz-solaire",
+      "label": "Gaz-solaire",
+      "icon": "assets/icons/Picto-onglet-solaire-thermique.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Gaz naturel-biogaz et solaire: le duo idéal"
+        },
+        {
+          "type": "paragraph",
+          "html": "En associant <strong>gaz naturel-biogaz</strong> pour le chauffage et <strong>capteurs solaires thermiques</strong> pour l’eau chaude sanitaire, vous optimisez votre système de chauffage."
+        },
+        {
+          "type": "paragraph",
+          "html": "Pendant les périodes de faible ensoleillement, le système de régulation de votre installation commute automatiquement sur la chaudière à gaz. Grâce à ce double procédé, votre confort et vos besoins en énergie sont garantis en permanence."
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Les avantages</strong>"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Economie jusqu'à 60% des frais associés à la production d’eau chaude sanitaire et de chauffage,",
+            "Réduction des émissions de CO<sub>2,</sub>",
+            "Diminution de la facture de gaz naturel-biogaz,",
+            "Subvention solaire thermique, pour les habitants de la commune de Lausanne, cumulable avec celle du Canton de Vaud."
+          ]
+        },
+        {
+          "type": "cta",
+          "label": "Je veux en savoir plus sur les subventions",
+          "url": "https://www.equiwatt-lausanne.ch/votre-installation-solaire-thermique/"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "L’énergie captée par les panneaux solaires thermiques est dirigée vers un accumulateur qui permet de chauffer la maison et l’eau chaude sanitaire.<br>",
+            "Lorsque le solaire ne suffit pas, le gaz naturel prend le relais.<br>",
+            "En toute saison, la régulation automatique gaz naturel/énergie solaire donne la priorité au soleil."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "En relation"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.equiwatt-lausanne.ch/votre-installation-solaire-thermique/\">Subvention</a><br> Pour votre installation thermique"
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Tarifs",
+      "icon": "assets/icons/picto-onglet-prix.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Le tarif est basé sur trois paramètres pour mieux s’adapter à votre façon de consommer."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "<strong>L’abonnement</strong> couvre une partie des frais de gestion et d’entretien du réseau.",
+            "Le prix du kilowattheure est fixe à l’intérieur de chaque segment de consommation. Le montant facturé est proportionnel à <strong>votre consommation</strong>. Il reflète les coûts d’acquisition du gaz nécessaire à vos besoins.",
+            "Le montant facturé est proportionnel <strong>au dimensionnement de votre installation</strong>. Il garantit la disponibilité des capacités d’acheminement du gaz jusqu’à votre installation et couvre une partie des frais de gestion et d’entretien du réseau."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Tarifs"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "<strong>Tarif processus et chauffage</strong>",
+              "<strong>Conditions</strong>",
+              "<strong>Abonnement</strong>",
+              "<strong>Consommation</strong>",
+              "<strong>Puissance</strong>"
+            ],
+            [
+              "",
+              "Consommation<br> annuelle",
+              "et<br> ou",
+              "Puissance de<br> l’installation",
+              "<strong>CHF/mois </strong>",
+              "<strong>Ct/kWh </strong>",
+              "<strong>CHF/kW/mois </strong>"
+            ],
+            [
+              "Hors<br> TVA",
+              "TTC<sup>2</sup>",
+              "Hors taxe<br> CO<sub>2</sub> et TVA",
+              "TTC<sup>1</sup>",
+              "Hors<br> TVA",
+              "TTC<sup>2</sup>"
+            ],
+            [
+              "<strong>Multi</strong><br> Usage chauffage ou processus",
+              "0 à 100’000<br> kWh",
+              "et",
+              "&lt; 150 kW",
+              "16.90",
+              "18.27",
+              "12.62",
+              "15.98",
+              "",
+              ""
+            ],
+            [
+              "100'000 à<br> 1 mio. kWh",
+              "ou",
+              "&gt; 150 kW",
+              "60.00",
+              "64.86",
+              "10.84",
+              "14.05",
+              "1.50",
+              "1.62"
+            ],
+            [
+              "1 mio. à<br> 5 mio. kWh",
+              "",
+              "",
+              "600.00",
+              "648.60",
+              "10.19",
+              "13.35",
+              "1.50",
+              "1.62"
+            ],
+            [
+              "&gt; 5 mio. kWh",
+              "",
+              "",
+              "Conditions sur demande aux SiL"
+            ],
+            [
+              "<strong>Raccordement en attente</strong>",
+              "",
+              "",
+              "",
+              "5.00",
+              "5.41",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "<strong>Exploitation télérelève</strong>",
+              "",
+              "",
+              "",
+              "75.00",
+              "81.08",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Valables au 1<sup>er</sup> janvier 2026"
+        },
+        {
+          "type": "paragraph",
+          "html": "¹Taxe CO2 de 2.158 ct/kWh et TVA de 8,1 % (y compris sur la taxe sur le CO2), prix taxes incluses, arrondis. Le prix sans taxe fait foi.<br> ²TVA au taux de 8,1 %, prix taxes incluses, arrondis. Le prix sans TVA fait foi."
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Fiche tarifaire à télécharger (PDF)",
+              "url": "https://www.lausanne.ch/dam/jcr:05accdea-3131-4c72-bf57-9311493ee989/Tarifs_Gaz_Janvier_2026.pdf",
+              "format": "PDF",
+              "size": "59 Ko",
+              "date": "Tarifs valables dès le 1 er janvier 2026"
+            }
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Archives des fiches tarifaires",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Fiche tarifaire à télécharger (PDF)"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<a href=\"https://www.lausanne.ch/dam/jcr:426325f1-ee40-4672-aafc-1b93201627e3/tarifs-gaz-avril-2025.pdf\">1<sup>er</sup> avril 2025</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:ab24447c-9ded-43df-9039-7c3286691598/tarifs_gaz_janvier_2025.pdf\">1<sup>er</sup> janvier 2025</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:d521baf0-c535-4c5e-b9e6-56d1fe359cf1/tarifs-gaz-janvier-2024.pdf\">1<sup>er</sup> janvier 2024</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:252ad3dd-3d60-454c-9dc8-ee143754adaf/tarifs-gaz-octobre-2023.pdf\">1<sup>er</sup> octobre 2023</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:8b63cc5d-b5e2-4bd4-b106-a34f825be17c/tarifs-gaz-octobre-2022.pdf\">1<sup>er</sup> octobre 2022</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:a7d25c75-9ba5-4656-89b8-b53f173675bb/tarifs-gaz-mars-2022.pdf\">1<sup>er</sup> mars 2022</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:b21549a3-cd05-4d0b-ad74-3cadc11d804e/tarifs-gaz-janvier-2022.pdf\">1<sup>er</sup> janvier 2022</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:ccec88ae-78e3-44f5-ae82-4e34496beb87/Tarifs_Gaz_Octobre_2021.pdf\">1<sup>er</sup> octobre 2021</a><br> <a href=\"https://www.lausanne.ch/dam/jcr:84b05502-957d-49c3-a00c-8a9772919d16/Tarifs_Gaz_Octobre_2020.pdf\">1<sup>er</sup> octobre 2020</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/images/calculateur_gaz.2023-04-20-15-48-04.png",
+          "alt": "© Ville de Lausanne",
+          "caption": null
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Le gaz, une énergie clé pour un avenir énergétique durable."
+        },
+        {
+          "type": "paragraph",
+          "html": "Comparez le bilan écologique de votre chauffage actuel avec celui d’autres systèmes de chauffage."
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lebilanecologique-gazenergie.ch/calculateur-du-bilan-ecologique-du-chauffage/\">Calculer votre bilan</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "Source ASIG"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "A télécharger"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/dam/jcr:9307968f-42e5-450f-b669-a54d93dd77d2/23_objet_de_reference-CCF-Lausanne-W2P-gazenergie___1_logo_EG.pdf\">Hausse de la rentabilité</a><br> Réduction de sa consommation"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "En relation"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/frais-administratifs.html\">Frais administratifs et main d'œuvre</a>"
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/modes-de-paiements.html\">Modes de paiements</a>"
+        }
+      ]
+    },
+    {
+      "id": "raccordement",
+      "label": "Raccordement",
+      "icon": "assets/icons/picto-onglet-raccordement.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Vous souhaitez créer ou modifier votre raccordement?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Effectuez votre démarche en ligne!"
+        },
+        {
+          "type": "paragraph",
+          "html": "Qu'il s'agisse d'électricité, de gaz, de chauffage à distance, de multimédia ou d'eau, vous trouverez toutes les informations pratiques et utiles sur notre page dédiée."
+        },
+        {
+          "type": "cta",
+          "label": "Informations et démarches",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html?tab=gaz"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/AdobeStock_130665463_900x600.jpg",
+          "alt": "© Ville de Lausanne",
+          "caption": null
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Sécurité",
+      "icon": "assets/icons/picto-onglet-securite.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Contrôle du gaz"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/Detection-fuite-systeme-infrarouge.2023-07-26-09-31-38.jpg",
+          "alt": "© Ville de Lausanne",
+          "caption": null
+        },
+        {
+          "type": "paragraph",
+          "html": "Selon la loi, tout propriétaire doit faire régulièrement <strong>contrôler le branchement extérieur au gaz naturel</strong> de son immeuble."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL peuvent être mandatés pour effectuer ce contrôle chaque deux, quatre ou six ans selon que l’immeuble est situé en ville ou dans des zones peu ou pas urbanisées."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nous informons par courrier les propriétaires de l'échéance du délai."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Contrôle périodique"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le propriétaire, averti du délai, est tenu de faire contrôler l’<strong>étanchéité de la conduite </strong>entre la chaussée et le point d’introduction dans l’immeuble."
+        },
+        {
+          "type": "paragraph",
+          "html": "Cette prestation requiert un haut niveau de compétence et un appareillage sophistiqué. Elle est proposée par les SiL pour le prix de <strong>CHF 70.– TTC</strong>. Un rapport de conformité sera ensuite établi."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les éventuels travaux de mise en conformité sont à la charge du propriétaire et doivent être entrepris sans tarder."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Nouvelle installation"
+        },
+        {
+          "type": "paragraph",
+          "html": "Dans un immeuble neuf, l’ensemble de l’installation est systématiquement testé (branchement et appareils)."
+        },
+        {
+          "type": "paragraph",
+          "html": "Contactez-nous au 021 315 83 25 ou par <a href=\"mailto:SiLGazControle@lausanne.ch\">e-mail</a> pour plus d’information."
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "icon": "assets/icons/picto-onglet-faq.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Actualité internationale et conséquences sur l’approvisionnement en gaz"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "D’où vient le gaz naturel distribué en Suisse et sur le réseau des SiL?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La Suisse achète du gaz naturel principalement sur les marchés suivants: Allemagne, Pays-Bas, France et Italie, tous Etats membres de l’Union Européenne. L’industrie gazière suisse, dont Gaznat, notre principal partenaire pour l’approvisionnement en gaz, n’a donc aucun contrat de fourniture directe avec la Russie. La part du gaz russe varie selon les marchés des pays dans lesquels la Suisse s‘approvisionne. Elle est plus élevée pour l’Allemagne que pour les Pays-Bas ou la France. Il convient ainsi de différencier les contrats d’approvisionnement qui sont passés en Europe, de la molécule de gaz qui circule dans les gazoducs et qui n’est pas traçable, puisque l’entier du gaz européen se retrouve dans le même canal de transport. Afin d’améliorer la traçabilité du gaz qu’ils distribuent, les SiL sont un des rares distributeurs à avoir opté volontairement pour l’achat de garanties d’origine, danoises et norvégiennes."
+                }
+              ]
+            },
+            {
+              "title": "Qu’en est-il de l’origine du gaz distribué par les SiL?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour des raisons de transparence, les SiL attestent l’origine du gaz qu’ils distribuent au moyen de garanties d’origine. Ils peuvent ainsi attester que 15% du gaz fourni à leurs clients au tarif a été produit dans des installations de production de biogaz au Danemark et que le 85% restant a été extrait dans les champs gaziers de la mer du Nord en Norvège, avant d’être injecté pour leur compte dans le réseau de transport européen. Par cette démarche encore peu courante dans le monde du gaz, les SiL démontrent leur attachement à minimiser les impacts environnementaux de ce combustible en choisissant une part renouvelable et une part extraite dans un pays européen relativement proche de la Suisse et exempt de gaz de schiste par exemple."
+                }
+              ]
+            },
+            {
+              "title": "Ces garanties d’origine assurent-elles aux SiL leur approvisionnement en gaz et la stabilité des prix?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Malheureusement non, car le biogaz et le gaz naturel produits au Danemark et en Norvège n’arrivent pas jusqu’au réseau SiL par un réseau dédié uniquement à cela. Il est injecté sur le réseau européen et transite à travers de nombreux gazoducs avant d’arriver en Suisse. En cas de rupture d’approvisionnement dans l’un des pays traversés par ces gazoducs, par exemple si les livraisons de gaz russe sont interrompues, ce gaz n’arriverait pas non plus jusqu’à notre réseau. Cependant la Suisse est très bien connectée au réseau européen, via l’Allemagne, la France et l’Italie, ce qui lui donne davantage de flexibilité en cas de crise et davantage de sécurité d’approvisionnement. De plus, un accord entre la Suisse et la France au bénéfice de Gaznat, notre partenaire principal pour la fourniture de gaz, nous garantit une sécurité d’approvisionnement haute."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Quant à la stabilité des prix, l’immense majorité des contrats de gaz sont indexés aux principaux marchés européens, ce qui fait que nous subissons également les hausses observées sur ces derniers. Toutefois, la politique d’approvisionnement des SiL sur le long terme assure une stabilité forte et permet de faire disparaître une forte proportion de la volatilité des marchés européens."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi la Suisse ne stoppe-t-elle pas immédiatement les livraisons de gaz en provenance de Russie?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’industrie gazière suisse n’a aucun contrat de fourniture directe avec la Russie et achète le gaz essentiellement sur les marchés européens (Allemagne, Pays-Bas, France, Italie). Elle s’efforce de réduire les dépendances actuelles et de diversifier les filières d‘approvisionnement. En pratique toutefois, on ne peut pas décider d’où vient physiquement le gaz qui circule dans les réseaux européens avant d’arriver en Suisse. Pour ce faire, il faudrait construire des gazoducs spécifiques entre chaque producteur et chaque réseau de distribution, voire chaque consommateur, ce qui serait impossible d’un point de vue économique. Ou alors, décider au niveau du continent européen de ne plus faire transiter de gaz russe dans les réseaux, ce qui est impossible dans l’immédiat puisque certains pays utilisant ce réseau sont fortement dépendants du gaz russe."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "En outre, les SiL mettent tout en œuvre pour réduire leur dépendance aux énergies fossiles, seule réponse durable à cette question, en encourageant la rénovation énergétique des bâtiments et en investissant fortement pour développer des productions de chaleur renouvelable (géothermie profonde, pompes à chaleur avec l’eau du lac, bois, etc.) et le réseau de chauffage à distance."
+                }
+              ]
+            },
+            {
+              "title": "Quelles sont à court terme les alternatives au gaz russe?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La production de l’Union Européenne et de la Norvège peut être augmentée, ainsi que les livraisons par gazoducs de gaz d’Afrique du Nord ou d’Azerbaïdjan, et également de gaz naturel liquéfié (GNL) par bateau. On peut aussi profiter de stocker du gaz en été, lorsque les besoins sont moindres, et l’utiliser l’hiver suivant. On peut enfin réduire sa consommation en chauffant moins son logement, ce qui fera également faire des économies en ces périodes où les combustibles risquent de devenir onéreux. Cependant même en exploitant le potentiel de toutes ces alternatives, il apparaît compliqué pour l’Europe de se passer totalement à court terme du gaz russe, à part au prix de lourds effets économiques (restrictions sur la production industrielle par exemple)."
+                }
+              ]
+            },
+            {
+              "title": "A-t-on des installations de stockage de gaz en Suisse?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il existe des stockages de gaz en Suisse, mais ils sont de faible capacité et servent avant tout à équilibrer les besoins journaliers des consommateurs. Un projet de stockage sous les Alpes est en cours d’étude dans le canton du Valais, à proximité du gazoduc de Transitgas, lequel relie le réseau gazier suisse à ceux de l’Allemagne, de la France, et de l’Italie. Il permettrait de stocker quelque 1500 gigawattheures sur les 38000 gigawattheures que consomme en moyenne la Suisse chaque année. L’aménagement d’un stockage gazier en Suisse est cependant une entreprise ardue et coûteuse et ne pourra pas voir le jour à très court terme. En parallèle, Gaznat, partenaire des SiL, dispose de capacités de stockage en France qui assurent ainsi une certaine sécurité d’approvisionnement."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que les SiL bénéficient d’un stock de gaz à l’étranger?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, nous avons accès à des capacités de stockage en France grâce à des accords négociés par Gaznat, notre principal partenaire pour l’approvisionnement en gaz. Cette réserve nous permet de garantir une partie du gaz que nous fournissons à nos clients malgré les incertitudes actuelles sur les marchés."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le GNL et pourquoi gagne-t-il en importance dans le monde entier?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le gaz naturel liquéfié (GNL) est du gaz naturel refroidi et qui se liquéfie lorsqu’il atteint – 163 °C. Le volume du GNL équivaut alors à 0,2% du volume du gaz, de sorte que son transport sur de longues distances sur de gros bateaux appelés méthaniers, ainsi que son stockage avant d’être réchauffé (regazéifié) et injecté dans le réseau, sont grandement facilités. Cette filière était historiquement destinée à des pays très éloignés de sources de gaz et pour lesquels le transport par gazoduc se serait révélé trop onéreux ou inefficace. En effet, avec le transport par bateau, on s’affranchit des contraintes liées à l’existence de gazoducs, même si le conditionnement et le transport de ce gaz le rendent généralement plus cher que le gaz acheminé par gazoducs. L’Europe, avec ses propres champs gaziers et la proximité des champs de la mer du Nord, de Russie et d’Afrique du Nord est historiquement davantage alimentée par gazoducs. Certains pays (Espagne, France, Belgique, Pays-Bas, Italie) ont toutefois investi dans des capacités permettant d’accueillir des méthaniers et de regazéifier le GNL pour l’injecter dans leurs réseaux. Le gouvernement allemand a récemment annoncé son intention de construire deux terminaux méthaniers en Allemagne. Le GNL permet donc de diversifier les sources d‘approvisionnement et connaît une importance croissante au niveau mondial. Les marchés gaziers régionaux conditionnés par les réseaux gaziers ont été supplantés par un marché gazier global qui se développe de manière dynamique depuis des années et qui permet des rééquilibrages entre les grandes régions du globe."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La part de GNL aux importations de gaz en Europe a augmenté au cours de ces dernières années et atteint actuellement 20% au niveau de l‘UE. Les fournisseurs principaux sont le Qatar, les Etats-Unis, la Russie, le Nigeria et l’Algérie."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Généralités sur le gaz"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Quels types de gaz les SiL distribuent-ils?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les SiL fournissent à leurs clients du gaz naturel d’origine norvégienne et du biogaz danois. Tous les clients au tarif bénéficient automatiquement d’un mix 85% gaz naturel et 15% biogaz."
+                }
+              ]
+            },
+            {
+              "title": "Qui fixe les tarifs du gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les tarifs sont arrêtés par la Municipalité."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Ils comprennent le prix de l’énergie à proprement parler – gaz naturel et biogaz – ainsi que la rémunération pour l’utilisation des différents réseaux de transport et de distribution du gaz."
+                }
+              ]
+            },
+            {
+              "title": "Le gaz naturel est-il dangereux?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le gaz distribué par les SiL a hérité de la réputation de l’ancien gaz de ville, qu’il a remplacé en 1974. Contrairement au gaz de ville, le mélange de gaz naturel et biogaz acheminé par les réseaux des SiL n’est pas toxique. Si l'installation est faite par un installateur concessionnaire et que les mesures de sécurité sont respectées, il n'y a aucun danger."
+                }
+              ]
+            },
+            {
+              "title": "Quand les compteurs sont-ils relevés?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Une fois par année à la même période."
+                }
+              ]
+            },
+            {
+              "title": "Quels sont les frais à la charge d'un propriétaire pour un raccordement au gaz naturel?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La prise sur la conduite de réseau et le branchement jusqu'à l'immeuble ainsi que l'installation intérieure."
+                }
+              ]
+            },
+            {
+              "title": "Combien de kWh représente 1 m 3 de gaz naturel?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "1m<sup>3</sup> = 10,57 kWh."
+                }
+              ]
+            },
+            {
+              "title": "Comment sont fixés les tarifs du gaz des SiL?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Comment sont fixés les tarifs du gaz des SiL ?"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les SiL font tout leur possible pour que les Lausannoises et Lausannois n’aient pas à subir de hausse trop importante des coûts de chauffage. Pour éviter les fluctuations de prix, ils effectuent des achats à moyen et long terme. Grâce à cette stratégie, une baisse de 7,3% a encore pu être accordée en octobre 2020. Et, en 2021 et 2022, les hausses de prix ont été moins élevées à Lausanne qu’ailleurs en Suisse romande."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour les années gazières 2022-23 et 2023-24, la quasi-totalité des achats a été effectuée durant les années 2021-2022, qui ont malheureusement vu les prix du gaz augmenter fortement sur les marchés. Dès que possible, les SiL répercutent les baisses de tarifs des marchés internationaux sur leurs tarifs, mais cela ne peut parfois prendre un peu plus de temps que d’autres distributeurs qui font varier leurs prix plus rapidement et de manière plus importante."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "A noter que les prix du gaz des SiL, en 2023, restent parmi les plus bas des grands distributeurs de Suisse romande, selon le <a href=\"https://gaspreise.preisueberwacher.ch/web/index.asp?l=1&amp;l=1\">site internet du Surveillant des prix</a>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Gaz naturel"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’est-ce que c’est le gaz naturel?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le gaz naturel est un gaz fossile principalement composé de méthane, issu de la décomposition de matière organique emprisonnée il y a plusieurs millions d’années dans le sous-sol. Il est extrait du sous-sol, purifié, et transporté par des gazoducs ou sur des méthaniers."
+                }
+              ]
+            },
+            {
+              "title": "D'où vient le gaz naturel distribué en Suisse et sur le réseau des SiL?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La Suisse ne dispose pas de ressources en gaz naturel; elle est par contre très bien connectée aux réseaux de ses voisins européens. Le gaz naturel distribué en Europe provient principalement de Russie, de Norvège, et de différents pays de l’UE."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour des raisons de transparence, les SiL attestent l’origine du gaz naturel qu’ils distribuent au moyen de garanties d’origine. Ils peuvent ainsi attester que le gaz naturel fourni à leurs clients au tarif a été extrait dans les champs gaziers de la mer du Nord en Norvège, avant d’être injecté pour leur compte dans le réseau de transport européen et transporté jusqu’en Suisse. Par cette démarche encore peu courante dans le monde du gaz, les SiL démontrent leur attachement à minimiser les impacts environnementaux de ce combustible en choisissant de favoriser son extraction dans un pays européen relativement proche de la Suisse et exempt de gaz de schiste."
+                }
+              ]
+            },
+            {
+              "title": "Quelles sont les réserves de gaz naturel?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les réserves connues aujourd’hui suffiront à assurer la consommation mondiale pour encore de nombreuses décennies. Le défi de ces prochaines années sera la diminution des besoins de chaleur (par la rénovation énergétique des bâtiments), la transition vers des énergies renouvelables (chauffage à distance, géothermie, pompes à chaleur avec l’eau du lac ou les eaux usées, bois, etc.) et finalement d’assurer la transition à des solutions de gaz décarboné (biogaz ou autres gaz renouvelables) pour limiter les émissions de CO2 et leur impact sur le changement climatique lorsque la consommation de gaz sera toujours nécessaire. Les récentes tensions géopolitiques nous montrent également qu’il est important de nous affranchir de nos importations de combustibles fossiles venant de l’étranger et notamment de régions instables qui pourraient mettre en péril notre approvisionnement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Biogaz"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Qu’est-ce que c’est le biogaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Comme le gaz naturel, le biogaz est composé essentiellement de méthane (CH4). Contrairement au gaz naturel qui est extrait des profondeurs de la terre, le biogaz est issu de la fermentation de résidus agricoles et alimentaires, tels que les déchets verts ou les boues d’épuration. Son cycle de vie est beaucoup plus court et c’est pour cette raison qu’il est considéré comme une énergie renouvelable et que son empreinte carbone est fortement réduite."
+                }
+              ]
+            },
+            {
+              "title": "D'où vient le biogaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le biogaz fourni par les SiL provient du Danemark. En effet, la production suisse, bien qu’en constante augmentation, ne parvient pas à satisfaire les besoins. Les SiL ont choisi de se procurer du biogaz certifié naturemade star, qui est un label suisse très exigeant garantissant une production particulièrement respectueuse de l’environnement. Il est issu exclusivement de résidus agricoles et alimentaires, et exclut toute culture dédiée qui prendrait la place d’une culture alimentaire."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi le gaz distribué par les SiL contient-il du biogaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour lutter contre les changements climatiques, la Ville de Lausanne s’est doté d’un plan Climat, dans lequel elle s’est fixé des objectifs ambitieux: zéro émission carbone d’ici 2050.<br> Les émissions de CO2 dues à l’énergie utilisée pour le chauffage et l’eau chaude sont très importantes. En introduisant du biogaz dans leur fourniture de gaz, les SiL diminuent les émissions de CO2 et contribuent ainsi au <a href=\"https://www.lausanne.ch/portrait/climat/plan-climat;jsessionid=828D034B6B9B3EC291841A83E5A844F8\">Plan climat</a> lausannois."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la différence entre le biogaz et le gaz naturel compensé ou annoncé comme climatiquement neutre?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le biogaz est produit par la fermentation de déchets organiques tels que les déchets verts, les boues d’épuration ou les engrais de ferme. Il s’agit donc d’une source d’énergie renouvelable."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La compensation consiste à soutenir financièrement des projets de réduction d’émissions de gaz à effet de serre en Suisse ou à l’étranger pour compenser les émissions de CO2 issues de la combustion du gaz naturel."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le gaz distribué par les SiL n’est pas compensé. Les SiL ont choisi de mitiger l’impact climatique du gaz qu’ils fournissent en offrant directement à leurs clients du biogaz certifié <a href=\"https://www.naturemade.ch/fr/\">naturemade star</a>, dans une proportion vouée à augmenter continuellement ces prochaines années, plutôt que d’investir dans des projets servant à compenser le CO2 d’origine fossile émis lors de la combustion de gaz naturel."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le label naturemade star?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le <a href=\"https://www.naturemade.ch/fr/\">label naturemade star</a> certifie que le biogaz provient à 100% de sources renouvelables et a été produit de manière particulièrement écologique. Il est produit uniquement à partir de résidus organiques comme les déchets verts, le fumier et les boues d’épuration. D’autres critères sont en plus vérifiés, comme par exemple une politique d’entreprise durable ou l’exclusion des organismes génétiquement modifiés. Enfin, ce label garantit que les quantités de biogaz injectées dans le réseau n’ont pas été vendues deux fois. En remplaçant du gaz naturel fossile par du biogaz, les consommateurs apportent ainsi une contribution décisive à la protection du climat."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que le pouvoir calorifique du biogaz est le même que celui du gaz naturel?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le biogaz distribué par les SiL est transporté via des réseaux européens et suisses. Il doit donc répondre aux mêmes normes de qualité que le gaz naturel acheminé par les mêmes réseaux. De ce fait, Il présente le même pouvoir calorifique et n’a aucun impact sur le ramonage des chaudières. Par contre, avec une diminution des émissions de CO2 d’environ 80% par rapport au gaz naturel, son impact environnemental est fortement réduit."
+                }
+              ]
+            },
+            {
+              "title": "Qu’en est-il du biogaz produit à la STEP de Vidy?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La STEP de Vidy est en charge du traitement des eaux usées de 220'000 habitants de l’agglomération lausannoise et 350'000 à terme. Depuis juin 2021, elle produit du biogaz qui est injecté dans le réseau de gaz et est utilisé par les chaufferies qui alimentent le réseau de chauffage à distance lausannois. Ce biogaz permet donc de diminuer l’empreinte carbone du chauffage à distance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Branchement gaz"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Pourquoi ai-je reçu un courrier pour effectuer un contrôle de mon branchement gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Selon les exigences de la SSIGE (société suisse de l'industrie gazière et eau), les branchements gaz doivent être contrôlés tous les 4 ans, quel que soit la consommation, même si elle est à zéro. En tant que propriétaire, ce contrôle vous incombe."
+                }
+              ]
+            },
+            {
+              "title": "Qu'est-ce qu'un branchement gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le branchement est la conduite entre le réseau principal des SiL et la façade du bâtiment. Il appartient au propriétaire."
+                }
+              ]
+            },
+            {
+              "title": "Qui effectue les contrôles des branchements gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le contrôle est effectué par les spécialistes gaz des SiL (CHF 70.-) ou par un sanitaire agréé par la SSIGE, dont une <a href=\"https://www.svgw.ch/fr/certification/personnes/travaux-d-installation-gaz/répertoire-travaux-d-installation-gaz-gw102/\">liste se trouve sur leur site</a> (le tarif varie selon l'entreprise. Il faut ajouter le déplacement d'un technicien des SiL si le sanitaire demande sa présence)"
+                }
+              ]
+            },
+            {
+              "title": "Ce contrôle est-il obligatoire?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, il est exigé par la SSIGE (société suisse de l'industrie gazière et eau). Les branchements gaz doivent être contrôlés périodiquement tous les 4 ans."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Selon les directives G2: \"Le propriétaire d'un branchement qui alimente une installation fonctionnant au gaz naturel doit faire contrôler périodiquement le branchement par un organisme compétent\"."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la périodicité de ce contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Ces contrôles doivent se faire tous les 4 ans et ceci depuis de nombreuses années."
+                }
+              ]
+            },
+            {
+              "title": "Qui dois payer le contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le contrôle est à la charge du propriétaire."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la procédure, si l'on constate un défaut?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "S'il y a urgence, par exemple lors d'une fuite de gaz, les SiL vous contactent immédiatement."
+                }
+              ]
+            },
+            {
+              "title": "Comment sont effectués les contrôles des branchements gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les contrôles sont effectués avec un appareil de détection de gaz qui longe la conduite, depuis la vanne sur le domaine public jusqu'à la façade du bâtiment."
+                }
+              ]
+            },
+            {
+              "title": "Combien de temps dure un contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Un contrôle dure en moyenne 20 minutes."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que ma présence est obligatoire lors de ce contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si l’accès au terrain est libre, votre présence n’est pas requise car le contrôle ne nécessite pas de rentrer dans le bâtiment."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Si l'accès au terrain est protégé par une alarme, un portail ou une caméra de surveillance, votre présence est nécessaire."
+                }
+              ]
+            },
+            {
+              "title": "Que dois-je faire si je n’ai pas de branchement gaz ou qu’il est en attente?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour connaître l'état de votre branchement, vous pouvez nous contacter au 021 315 83 59 (8h à 11h) ou nous écrire à <a href=\"mailto:silgazsecurite@lausanne.ch\">silgazsecurite@lausanne.ch</a>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Installations intérieures"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Pourquoi ai-je reçu un courrier pour effectuer un contrôle de mes installations intérieures gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Selon les exigences de la SVGW (Association pour l'eau, le gaz et la chaleur), le propriétaire est tenu de maintenir les appareils consommateurs de gaz et les installations en parfait état de service et de les faire contrôler et entretenir régulièrement par une personne du métier."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que les installations intérieures gaz?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il s’agit de l’ensemble de l’équipement de distribution (depuis le passage du mur) et d’utilisation du gaz à l’intérieur du bâtiment. Elles comprennent notamment la vanne de branchement du bâtiment, le dispositif de purge, le filtre, le régulateur, les compteurs, ainsi que tout autre appareil pouvant être imposé par les SiL."
+                }
+              ]
+            },
+            {
+              "title": "Qui effectue les contrôles de sécurité CPS?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le contrôle doit être réalisé par une personne de métier certifiée selon le règlement GW104 de la SVGW (Association pour l'eau, le gaz et la chaleur)."
+                }
+              ]
+            },
+            {
+              "title": "Ce contrôle est-il obligatoire?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, Conformément à la directive G1, art.15.1 définie par la SVGW Association pour l'eau, le gaz et la chaleur."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la périodicité de ce contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il est recommandé de faire exécuter ce contrôle de sécurité tous les 14 ans par des personnes certifiées."
+                }
+              ]
+            },
+            {
+              "title": "Qui dois payer le contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le contrôle est à la charge du propriétaire."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est la procédure, si l'on constate un défaut?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "S'il y a urgence, par exemple lors d'une fuite de gaz, les SiL vous contactent immédiatement."
+                }
+              ]
+            },
+            {
+              "title": "En quoi consiste ce contrôle de sécurité?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le contrôle prévoit notamment un examen visuel global de l’installation, un essai de pression, un contrôle de fonctionnement de la robinetterie et des organes de sécurité ainsi qu’un contrôle des appareils consommateurs de gaz."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que ma présence est obligatoire lors de ce contrôle?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, car le contrôleur doit avoir accès à l’intérieur de vos locaux."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Livraison et distribution"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Où puis-je trouver les informations à propos des réglementations sur les énergies ?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Vous trouverez les règlements propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relative aux branchements concernés <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\">sur cette page.</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Contact clients",
+        "Service commercial",
+        "Place Chauderon 23 Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "assets/images/logo-sil2.svg",
+      "links": [
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true
+        },
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true
+        }
+      ]
+    }
+  ]
+}

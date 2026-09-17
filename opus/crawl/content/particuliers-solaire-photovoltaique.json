@@ -1,0 +1,286 @@
+{
+  "slug": "particuliers-solaire-photovoltaique",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html",
+  "path": "/particuliers/je-produis-mon-energie/solaire-photovoltaique",
+  "title": "Solaire photovoltaïque - Solutions",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "label": "Services industriels (SiL)",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "slug": "accueil"
+    },
+    {
+      "label": "Particuliers",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html"
+    },
+    {
+      "label": "Je produis mon énergie",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie.html"
+    },
+    {
+      "label": "Solaire photovoltaïque",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html",
+      "slug": "particuliers-solaire-photovoltaique"
+    }
+  ],
+  "lead": "Produisez du courant solaire sur votre toit et soutenez le développement des énergies renouvelables!",
+  "heroImage": "assets/images/back-priv-2000x1334.2026-05-27-14-59-13.png",
+  "cta": [
+    {
+      "label": "Nous contacter",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=36"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "solutions",
+      "label": "Solutions",
+      "icon": "assets/icons/picto-onglet-produits.svg",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/home-solaire-970x440.2024-02-05-08-44-50.png",
+          "alt": "© Adobe Stock",
+          "caption": null
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Solaire photovoltaïque"
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>En tant que propriétaire, vous pouvez produire du courant solaire sur votre toit! Devenez producteur et soutenez le développement des énergies renouvelables!</strong>"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le solaire photovoltaïque utilise l'énergie du soleil, une source inépuisable et gratuite."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "En tant que propriétaire d’une villa, d’une PPE ou d’un immeuble, vous pouvez participer à la transition énergétique en installant et en produisant du courant solaire sur votre toit. Vous pouvez également la partager avec vos voisins et revendre l'excédent pour rentabiliser plus vite votre investissement.",
+            "Si vous êtes locataire dans un immeuble qui dispose d’une centrale solaire et d’une communauté d’autoconsommation, vous pouvez profiter d’une énergie solaire 100% renouvelable et locale en devenant membre."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Selon votre profil et votre projet, nous vous conseillons gratuitement sur les meilleures solutions à adopter. N'hésitez pas contacter l’un de nos spécialistes."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Quelles solutions à Lausanne pour les particuliers?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL vous proposent une palette de solutions clé en main pour vous permettre de profiter, ou faire profiter à vos voisins, d’une énergie solaire locale et renouvelable."
+        },
+        {
+          "type": "image",
+          "src": "assets/images/home-solaire-installation-670x427.2024-02-05-08-44-50.png",
+          "alt": "© Droits réservés",
+          "caption": null
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Installation solaire photovoltaïque"
+        },
+        {
+          "type": "paragraph",
+          "html": "L’offre simple et abordable des SiL pour produire et autoconsommer de l’énergie solaire produite sur votre toit."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique/offre-cle-en-main.html"
+        },
+        {
+          "type": "image",
+          "src": "assets/images/home-solaire-communautes-670x427.2024-02-05-08-44-50.png",
+          "alt": "© Droits réservés",
+          "caption": null
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Communauté d’autoconsommateurs"
+        },
+        {
+          "type": "paragraph",
+          "html": "Créer ou rejoindre une communauté d’autoconsommateurs, une solution facile pour partager de l’énergie solaire entre voisins."
+        },
+        {
+          "type": "cta",
+          "label": "En savoir plus",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique/communautes-autoconsommateurs.html"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Questions fréquentes"
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Y a-t-il des aides pour encourager les particuliers à installer des panneaux photovoltaïques?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Cela est différent pour chaque commune. Vous pouvez retrouver les différentes aides <a href=\"https://www.vd.ch/themes/environnement/energie/autres-subventions-energie\">selon votre commune</a>. Afin d’apporter de la sécurité pour les personnes souhaitant investir dans cette énergie, la Ville s’engage jusqu’en 2032 à garantir un tarif de reprise minimum de 10 ct/kWh pour les installations dont la puissance installée est inférieure ou égale à 30 kW."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Combien de m 2 de panneaux solaires dois-je installer pour alimenter ma villa?"
+        },
+        {
+          "type": "paragraph",
+          "html": "La surface de panneaux solaires nécessaire pour alimenter une villa dépend de plusieurs facteurs, notamment de la consommation électrique de la villa et de l'ensoleillement de la région. Les SiL mettent à votre disposition un <a href=\"https://www.lausanne.ch?tab=calculateur\">calculateur solaire</a> pour vous aider à calculer la production d’énergie et les coûts de votre future installation solaire."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Je suis locataire dans un immeuble et souhaiterais profiter d’une énergie solaire, est-ce possible?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Oui, il est possible de profiter de l'énergie solaire même si vous ne possédez pas votre propre bâtiment. Il faut pour cela que le producteur ait opté pour constituer une communauté ou un regroupement dans le cadre la consommation propre."
+        }
+      ]
+    },
+    {
+      "id": "calculateur",
+      "label": "Calculateur",
+      "icon": "assets/icons/calculateur_2.svg",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "assets/images/home-calculateur-970x440.2024-02-05-08-46-46.png",
+          "alt": "© Ville de Lausanne",
+          "caption": null
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Calculez la production d’énergie et les coûts de votre future installation solaire"
+        },
+        {
+          "type": "paragraph",
+          "html": "Grâce à notre calculateur solaire en ligne, quelques minutes suffisent pour estimer le coût et le potentiel de votre future installation solaire."
+        },
+        {
+          "type": "paragraph",
+          "html": "Notre calculateur solaire vous fournit de manière très simple une offre globale. Cet outil dessine en quelques clics les contours de votre future installation solaire sur mesure."
+        },
+        {
+          "type": "paragraph",
+          "html": "Et vous pouvez recevoir une offre globale en PDF. Ces éléments serviront dans un deuxième temps à établir une offre très précise."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nos conseillers répondront à vos questions, n'hésitez pas <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&amp;concerne=36\">à les contacter</a>."
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "label": "Conditions",
+      "icon": "assets/icons/conditions_2.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Conditions particulières relatives à la consommation propre"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Conditions particulières des Services industriels de Lausanne relatives aux communautés d'autoconsommation (C-CA)",
+              "url": "https://www.lausanne.ch/dam/jcr:03e65057-0ec6-4d43-8820-5664b079c86f/conditions-autoconsommation-c-ca.pdf",
+              "format": "PDF",
+              "size": "141 Ko",
+              "date": "Du 1er juillet 2023"
+            },
+            {
+              "label": "Conditions particulières des Services industriels de Lausanne relatives à la consommation propre (C-CP)",
+              "url": "https://www.lausanne.ch/dam/jcr:fa43c778-a64a-4c25-86f7-52a063feb4ce/conditions-consommation-propre-c-cp.pdf",
+              "format": "PDF",
+              "size": "143 Ko",
+              "date": "Du 2 mai 2019"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les prestations de reprise de l’énergie sont régies par:"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Conditions de raccordement au réseau de distribution d'électricité, d'utilisation du réseau et de fourniture d'énergie électrique de substitution des Services industriels de Lausanne (C-RU)",
+              "url": "https://www.lausanne.ch/dam/jcr:4c1d8b23-aa6c-41f9-b2b7-ce81a22a40ae/conditions-raccordement-reseau-electricite-c-ru-limite.pdf",
+              "format": "PDF",
+              "size": "928 Ko",
+              "date": "Du 2 mai 2019"
+            },
+            {
+              "label": "Conditions particulières relatives au raccordement des installations de production d'énergie (IPE) au réseau de distribution d'électricité des Services industriels de Lausanne ainsi que de la reprise d'énergie produite (C-IPE)",
+              "url": "https://www.lausanne.ch/dam/jcr:78f28310-a76f-48e5-8c39-0f0fd43cf253/conditions-raccordement-production-ipe-et-reprise-c-ipe.pdf",
+              "format": "PDF",
+              "size": "183 Ko",
+              "date": "Du 2 mai 2019"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Contact clients",
+        "Service commercial",
+        "Place Chauderon 23 Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "assets/images/logo-sil2.svg",
+      "links": [
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Nous contacter",
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true
+        },
+        {
+          "label": "Linkedin",
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true
+        }
+      ]
+    }
+  ]
+}

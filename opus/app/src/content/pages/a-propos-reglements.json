@@ -1,0 +1,391 @@
+{
+  "slug": "a-propos-reglements",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html",
+  "path": "/a-propos-sil/nos-activites/reglements",
+  "title": "Règlements",
+  "sourceTitle": "Règlements",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html",
+      "external": false,
+      "route": "/a-propos-sil",
+      "label": "À propos des SiL"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html",
+      "external": false,
+      "slug": "a-propos-nos-activites",
+      "label": "Nos activités"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html",
+      "external": false,
+      "slug": "a-propos-reglements",
+      "label": "Règlements"
+    }
+  ],
+  "lead": "Retrouvez dans cette section l'accès aux différents règlements, conditions générales et formulaires propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relative aux branchements concernés.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "accordion",
+      "items": [
+        {
+          "title": "Électricité",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Règlements et conditions tarifaires relatives à la fourniture d'énergie électrique par les Services industriels de Lausanne &amp; tarifs particuliers."
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Prescriptions"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "PDIE dispositions particulières SiL",
+                  "url": "https://www.lausanne.ch/dam/jcr:338c7499-356a-4bcc-b5c3-2a9ee65c24d2/PDIE_dispositions_particulieres_SiL.pdf",
+                  "format": "PDF",
+                  "size": "3 Mo",
+                  "date": "Du 1er avril 2026"
+                },
+                {
+                  "label": "PDIE de l’Association des entreprises électriques suisses (AES)",
+                  "url": "https://www.strom.ch/fr/media/13359/download",
+                  "format": "LINK",
+                  "size": null,
+                  "date": null
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Raccordement"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions de raccordement au réseau de distribution d’électricité, d'utilisation du réseau et de fourniture d'énergie électrique de substitution des Services industriels de Lausanne (C-RU)",
+                  "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=269&kind=recueil",
+                  "format": "LINK",
+                  "size": null,
+                  "date": null
+                },
+                {
+                  "label": "Conditions de raccordement en moyenne tension (MT) au réseau électrique des Services industriels de Lausanne (C-MT)",
+                  "url": "https://www.lausanne.ch/dam/jcr:b677ecdc-0deb-4570-817a-63e64e8ad537/conditions-raccordement-reseau-electricite-moyenne-tension-c-mt-2026.pdf",
+                  "format": "PDF",
+                  "size": "1 Mo",
+                  "date": "Du 12 juin 2025"
+                },
+                {
+                  "label": "Prescriptions pour les raccordements provisoires de chantiers",
+                  "url": "https://www.lausanne.ch/dam/jcr:215c0fb6-ef1e-44bb-a3cd-e665bb5c51ec/Prescriptions_raccordement_electrique_installation_provisoire_chantier.pdf",
+                  "format": "PDF",
+                  "size": "109 Ko",
+                  "date": "Du 20 octobre 2022"
+                },
+                {
+                  "label": "Prescriptions pour les raccordements en Basse Tension",
+                  "url": "https://www.lausanne.ch/dam/jcr:e77c5442-bc29-41a1-81c5-b6d03c1eb05c/prescriptions_raccordement_bt.pdf",
+                  "format": "PDF",
+                  "size": "948 Ko",
+                  "date": "Du 10 mars 2023"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Fourniture d'énergie électrique et tarifs particuliers"
+            },
+            {
+              "type": "links",
+              "title": null,
+              "variant": null,
+              "items": [
+                {
+                  "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=271&kind=recueil",
+                  "external": false,
+                  "label": "Conditions tarifaires relatives à la fourniture d’énergie électrique par les Services industriels de Lausanne & tarifs particuliers"
+                },
+                {
+                  "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=270&kind=recueil",
+                  "external": false,
+                  "label": "Conditions des Services industriels de Lausanne pour la fourniture d'énergie électrique aux usagers captifs"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Installations de production - Raccordement et reprise de l'énergie"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions particulières relatives au raccordement des installations de production d'énergie (IPE) au réseau de distribution d'électricité des Services industriels de Lausanne ainsi que de la reprise d'énergie produite (C-IPE)",
+                  "url": "https://www.lausanne.ch/dam/jcr:5a28c32d-8cb7-46d4-afcb-f0cfc12da4f8/conditions-raccordement-production-ipe-et-reprise-c-ipe-2026.pdf",
+                  "format": "PDF",
+                  "size": "237 Ko",
+                  "date": "Du 12 juin 2025"
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Autoconsommation collective"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions particulières des Services industriels de Lausanne relatives à la consommation propre (C-CP)",
+                  "url": "https://www.lausanne.ch/dam/jcr:bf0139a5-f94b-416a-9e70-a92a1c5bf091/conditions-consommation-propre-c-cp-2026.pdf",
+                  "format": "PDF",
+                  "size": "203 Ko",
+                  "date": "Du 12 juin 2025"
+                },
+                {
+                  "label": "Conditions particulières des Services industriels de Lausanne relatives aux communautés d'autoconsommation (C-CA)",
+                  "url": "https://www.lausanne.ch/dam/jcr:6bc60e82-5b5c-49d2-a0ad-bbf842ddb931/conditions-autoconsommation-c-ca-2026.pdf",
+                  "format": "PDF",
+                  "size": "173 Ko",
+                  "date": "Du 12 juin 2025"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gaz naturel-biogaz",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Conditions de raccordement, d'utilisation du réseau et de fourniture de gaz et règlement tarifaire. Prescriptions pour les nouvelles constructions et transformations sur les branchements du gaz."
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions de raccordement, utilisation du réseau et de fourniture de gaz des Services industriels de Lausanne.",
+                  "url": "https://www.lausanne.ch/dam/jcr:fb6186b9-5742-4fb6-afc5-9ac4c37bbcac/conditions-raccordement-utilisation-reseau-fourniture-gaz-services-industriels-lausanne.pdf",
+                  "format": "PDF",
+                  "size": "196 Ko",
+                  "date": null
+                },
+                {
+                  "label": "Règlement tarifaire relatif à la fourniture de gaz naturel & tarifs particuliers.",
+                  "url": "https://www.lausanne.ch/dam/jcr:fa630130-8eca-4dae-91eb-bdd75dd169eb/reglement-tarifaire-gaz-naturel-octobre-2022.pdf",
+                  "format": "PDF",
+                  "size": "163 Ko",
+                  "date": null
+                },
+                {
+                  "label": "Prescriptions pour les nouvelles constructions, transformations sur les branchements et installations intérieures gaz.",
+                  "url": "https://www.lausanne.ch/dam/jcr:f869dc1c-ea40-4ba0-8e94-aa95b7fcefe3/prescription-techniques-gaz.pdf",
+                  "format": "PDF",
+                  "size": "1 Mo",
+                  "date": null
+                }
+              ]
+            },
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Formulaires"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Nouvelle installation",
+                  "url": "https://www.lausanne.ch/dam/jcr:490749d4-2383-473a-bf49-b4c7304b5ce3/nouvelle-installation-gaz-sil.pdf",
+                  "format": "PDF",
+                  "size": "3 Mo",
+                  "date": "Demande d'autorisation"
+                },
+                {
+                  "label": "Remplacement de chaudière et/ou autres appareils",
+                  "url": "https://www.lausanne.ch/dam/jcr:054a7141-3692-4c40-932b-359b32afb6be/remplacement-chaudiere-gaz.pdf",
+                  "format": "PDF",
+                  "size": "2 Mo",
+                  "date": "Demande d'autorisation"
+                },
+                {
+                  "label": "Protocole d'essai de pression",
+                  "url": "https://www.lausanne.ch/dam/jcr:d7343021-1d76-4640-b988-e6a58fb3c361/protocole-essai-pression.pdf",
+                  "format": "PDF",
+                  "size": "340 Ko",
+                  "date": null
+                },
+                {
+                  "label": "Demande de suppression du branchement Gaz",
+                  "url": "https://www.lausanne.ch/dam/jcr:0e53c3b9-b9a8-4e2d-9def-0635008a694e/Formulaire_suppression_gaz.pdf",
+                  "format": "PDF",
+                  "size": "176 Ko",
+                  "date": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chauffage à distance",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Conditions et prescriptions pour le raccordement au réseau de distribution du chauffage à distance."
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions de raccordement au réseau de distribution du chauffage à distance et à la fourniture de chaleur",
+                  "url": "https://www.lausanne.ch/dam/jcr:75cf433e-24d5-4ac9-a447-099d15a7ad18/CG_Raccordement_CAD_janvier_2026.pdf",
+                  "format": "PDF",
+                  "size": "217 Ko",
+                  "date": "Valable dès le 1er janvier 2026"
+                },
+                {
+                  "label": "Prescriptions pour les réseaux de chauffage à distance CAD LAUSANNE et CAD OUEST.",
+                  "url": "https://www.lausanne.ch/dam/jcr:d2d02bbb-6c45-4851-9de2-690071e23c4d/prescriptions-cad-sil-cadouest.pdf",
+                  "format": "PDF",
+                  "size": "821 Ko",
+                  "date": "Août 2022"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Prestations de services énergétiques",
+          "blocks": [
+            {
+              "type": "heading",
+              "level": 4,
+              "sourceLevel": 5,
+              "text": "Conditions générales"
+            },
+            {
+              "type": "documents",
+              "title": null,
+              "items": [
+                {
+                  "label": "Conditions Générales Prestations de services énergétiques",
+                  "url": "https://www.lausanne.ch/dam/jcr:ce23427e-d492-4976-88fe-8193fa807be7/conditions-prestations-services.energetiques.pdf",
+                  "format": "PDF",
+                  "size": "197 Ko",
+                  "date": "Du 3 mai 2010"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Multimédia – accès réseau",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Conditions générales pour le raccordement et l'utilisation de l'accès réseau de Lausanne."
+            },
+            {
+              "type": "links",
+              "title": null,
+              "variant": null,
+              "items": [
+                {
+                  "url": "https://citycable.ch/aide-et-support/conditions-generales/",
+                  "external": true,
+                  "label": "Accès réseau"
+                },
+                {
+                  "url": "https://citycable.ch/aide-et-support/conditions-generales/#tab-144202-144208",
+                  "external": true,
+                  "label": "L’internet, le téléphone et les données"
+                },
+                {
+                  "url": "https://citycable.ch/aide-et-support/conditions-generales/#tab-144202-144210",
+                  "external": true,
+                  "label": "Prix des frais administratif, technique et matériel"
+                },
+                {
+                  "url": "https://citycable.ch/aide-et-support/conditions-generales/#tab-144202-144203",
+                  "external": true,
+                  "label": "Traitement et protection des données"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Coordonnées",
+      "lines": [
+        "Direction Services industriels",
+        "Place Chauderon 23 Rez-de-chaussée",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "S'y rendre en transports publics"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/86236415",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,573 @@
+{
+  "slug": "particuliers-chaleur",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+  "path": "/particuliers/je-choisis-mon-offre/chaleur",
+  "title": "Chaleur",
+  "sourceTitle": "Chaleur - Solutions",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+      "external": false,
+      "slug": "particuliers-je-choisis-mon-offre",
+      "label": "Je choisis mon offre"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+      "external": false,
+      "slug": "particuliers-chaleur",
+      "label": "Chaleur"
+    }
+  ],
+  "lead": "Optez pour une solution de chauffage durable, locale et tournée vers l'avenir.",
+  "heroImage": "silpdp14-072-2025-08-28-11-09-03-2",
+  "cta": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=energie&concerne=512",
+      "external": false,
+      "slug": "particuliers-contact",
+      "label": "Nous contacter"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "solutions",
+      "label": "Solutions",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "adobestock-205887682-2023-06-27-14-32-21",
+          "alt": "",
+          "caption": "© Adobe Stock"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Chaleur"
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour lutter contre les changements climatiques, la Ville de Lausanne s’est fixé l’objectif ambitieux de <a href=\"https://www.lausanne.ch/portrait/climat/plan-climat.html\">zéro émission directe de CO2 d’ici à 2050</a>."
+        },
+        {
+          "type": "paragraph",
+          "html": "Le chauffage des bâtiments est un des principaux leviers pour obtenir ce résultat, car il représente environ 60% des émissions directes de CO₂ à Lausanne."
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour maximiser l’énergie distribuée dans chaque mètre de conduite, les niveaux de température seront abaissés, l’isolation des conduites améliorée et les raccordements rationalisés, le tout pour limiter les pertes de chaleur."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les experts en énergie thermique des SiL ont développé une stratégie qui tient compte du système énergétique global (infrastructures de production, caractéristiques des bâtiments, tissu urbain et autres paramètres). Les quartiers les plus denses énergétiquement parlant sont développés en priorité."
+        },
+        {
+          "type": "paragraph",
+          "html": "Toutefois, les bâtiments d’une puissance inférieure à 50 kW thermiques (villas et bâtiments de trois étages/6-8 appartements) ne sont pas raccordés. Ils peuvent opter pour des solutions individuelles plus intéressantes, telles que des pompes à chaleur (sondes géothermiques ou air/eau) ou du biogaz/gaz naturel associé au solaire thermique."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Du renouvelable pour toutes et tous"
+        },
+        {
+          "type": "paragraph",
+          "html": "En tant que particulier, propriétaire de villa ou petit immeuble, vous pouvez vous aussi participer à la transition énergétique en rénovant votre système de chauffage."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nous sommes là pour vous conseiller gratuitement sur les meilleures solutions à adopter, en fonction de la taille et de l’état de votre bâtiment."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Quelles solutions à Lausanne pour les particuliers?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Pompe à chaleur ou combinaison biogaz-gaz naturel et solaire thermique ? Quelle est la meilleure solution?"
+        },
+        {
+          "type": "image",
+          "src": "gaz-gettyimages-818568844-2023-06-16-08-41-12",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Pompe à chaleur"
+        },
+        {
+          "type": "paragraph",
+          "html": "Augmentez votre autonomie en énergie en utilisant une ressource 100% renouvelable"
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=pompe-a-chaleur",
+          "external": false,
+          "slug": "particuliers-chaleur",
+          "tab": "pompe-a-chaleur",
+          "label": "En savoir plus"
+        },
+        {
+          "type": "image",
+          "src": "adobestock-253954483-2023-06-16-08-41-12",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Combinaison biogaz-gaz naturel et solaire thermique"
+        },
+        {
+          "type": "paragraph",
+          "html": "Optimisez votre solution de chauffage en y ajoutant une part de renouvelable"
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=gaz-solaire",
+          "external": false,
+          "slug": "particuliers-gaz-naturel",
+          "tab": "gaz-solaire",
+          "label": "En savoir plus"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Questions fréquentes"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Quels sont les objectifs du Plan climat face aux émissions de gaz à effet de serre liées aux bâtiments?"
+        },
+        {
+          "type": "paragraph",
+          "html": "D’ici 2050, il prévoit de:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Supprimer complètement les chauffages fonctionnant aux énergies fossiles (mazout et gaz)",
+            "Rénover entièrement le parc immobilier lausannois",
+            "Décarboner les réseaux thermiques des SiL"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Est-ce qu’une pompe à chaleur suffit pour alimenter une maison/villa?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Afin de déterminer le mode de chauffage qui vous convient, nous vous conseillons de réaliser en premier lieu un bilan énergétique de votre bâtiment. Cela permettra de déterminer, en fonction de son âge et de son état, s’il est nécessaire de rénover d’abord son enveloppe (isolation et fenêtres)."
+        },
+        {
+          "type": "paragraph",
+          "html": "Une fois le bâtiment correctement isolé, une installation de production de chaleur décentralisée peut être réalisée."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Je souhaite participer à la transition énergétique mais un combustible est la seule solution pour mon bâtiment, que faire?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Si une chaudière reste la seule possibilité, il est possible de s’approvisionner en combustible renouvelable, biogaz par exemple. En complément, des panneaux solaires thermiques vous permettront également d'utiliser une énergie renouvelable et locale."
+        },
+        {
+          "type": "paragraph",
+          "html": "<a href=\"https://www.lausanne.ch?tab=faq\" data-slug=\"particuliers-chaleur\" data-tab=\"faq\">Plus de FAQ sur notre page dédiée</a>"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Liens utiles"
+        },
+        {
+          "type": "links",
+          "title": null,
+          "variant": null,
+          "items": [
+            {
+              "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres/chaleur.html?tab=tarifs",
+              "external": false,
+              "route": "/professionnels/les-offres/chaleur",
+              "label": "Tarif chauffage à distance"
+            },
+            {
+              "url": "https://www.equiwatt-lausanne.ch/conseils-immo/",
+              "external": true,
+              "label": "Conseils gratuits pour votre bien Immobilier"
+            },
+            {
+              "url": "https://www.fws.ch/fr/specialistes-du-domaine-de-la-pompe-a-chaleur/#results",
+              "external": true,
+              "label": "Spécialistes du domaine de la pompe à chaleur"
+            },
+            {
+              "url": "https://www.equiwatt-lausanne.ch/votre-installation-solaire-thermique/",
+              "external": true,
+              "label": "Subvention pour votre installation solaire thermique"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "simulateur-thermique",
+      "label": "Simulateur thermique",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "simulateur-thermique-970x440-2025-04-01-08-56-49",
+          "alt": "",
+          "caption": "© Ville de Lausanne"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Passez aux énergies renouvelables : simulez votre installation de chauffage!"
+        },
+        {
+          "type": "paragraph",
+          "html": "Grâce à notre simulateur thermique, obtenez en quelques minutes une estimation du coût de votre future installation de chauffage renouvelable et local."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "<strong>Gratuit et sans engagement</strong>",
+            "<strong>Rapide et personnalisé</strong>",
+            "<strong>Recevez votre offre indicative en PDF immédiatement!</strong>"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Passez à l’action dès maintenant</strong> et découvrez comment optimiser votre chauffage tout en réalisant des économies !"
+        }
+      ]
+    },
+    {
+      "id": "pompe-a-chaleur",
+      "label": "Pompe à chaleur",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "gaz-gettyimages-818568844-2023-06-16-08-41-34",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Pompes à chaleur"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les pompes à chaleur prélèvent la chaleur de l’environnement pour votre chauffage."
+        },
+        {
+          "type": "paragraph",
+          "html": "Elles valorisent des énergies renouvelables, particulièrement respectueuses de l’environnement et neutres en CO₂."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Vous souhaitez un conseil?"
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur/contact-chaleur.html",
+          "external": false,
+          "label": "Contactez-nous"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Écologique, efficace et durable"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les pompes à chaleur offrent l’occasion d’utiliser la chaleur renouvelable de l’environnement pour le chauffage et l’eau sanitaire. En exploitant l’énergie naturelle du sol, de l’air ou de l’eau, elles sont non seulement particulièrement économes en ressources, mais elles réduisent également vos coûts de chauffage."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Comment fonctionne une pompe à chaleur?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Une pompe à chaleur extrait de la chaleur de l’environnement (air, eau, sol) pour la distribuer dans la maison comme énergie de chauffage. Avec peu d’électricité consommée, nécessaire au fonctionnement de la pompe à chaleur, l’énergie de l’environnement est ainsi valorisée."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les PàC sont souvent caractérisées par des coefficients de performance qui correspondent au rapport entre l’alimentation électrique et la chaleur fournie. Ainsi, un kWh électrique peut engendrer jusqu’à six fois plus de chaleur."
+        },
+        {
+          "type": "paragraph",
+          "html": "Le schéma suivant illustre la structure et le mode de fonctionnement d’une pompe à chaleur."
+        },
+        {
+          "type": "image",
+          "src": "adobestock-594667015-2023-06-16-08-41-34",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Les avantages"
+        },
+        {
+          "type": "image",
+          "src": "picto-tarifs",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "paragraph",
+          "html": "Investissement unique et durable<br> Coût en énergie de chauffage réduit"
+        },
+        {
+          "type": "image",
+          "src": "picto-durabilite",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "paragraph",
+          "html": "Neutre en CO₂ <br> Énergies renouvelables et locales"
+        },
+        {
+          "type": "image",
+          "src": "picto-pompeachaleur",
+          "alt": "",
+          "caption": "© Ville de Lausanne"
+        },
+        {
+          "type": "paragraph",
+          "html": "Valorisez votre bien immobilier"
+        },
+        {
+          "type": "image",
+          "src": "picto-avantages",
+          "alt": "",
+          "caption": "© Ville de Lausanne"
+        },
+        {
+          "type": "paragraph",
+          "html": "Bénéficiez de subventions<br> cantonales et communales"
+        },
+        {
+          "type": "image",
+          "src": "adobestock-426014708-2023-06-16-08-41-34",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Pompe à chaleur et panneaux solaire photovoltaïque"
+        },
+        {
+          "type": "paragraph",
+          "html": "L’association d’une pompe à chaleur et de <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html?tab=produit\" data-slug=\"particuliers-solaire-photovoltaique\" data-tab=\"produit\">panneaux solaire photovoltaïques</a> est une solution efficace pour maîtriser vos coûts."
+        },
+        {
+          "type": "paragraph",
+          "html": "Elle vous permet d’augmenter votre autonomie en énergie et ainsi mieux aborder les variations des prix du marché."
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Liens utiles"
+        },
+        {
+          "type": "links",
+          "title": null,
+          "variant": null,
+          "items": [
+            {
+              "url": "https://www.leprogrammebatiments.ch/fr/",
+              "external": true,
+              "label": "Subventions"
+            },
+            {
+              "url": "https://www.vd.ch/themes/environnement/energie/subventions-programme-batiments",
+              "external": true,
+              "label": "Programme d’encouragement"
+            },
+            {
+              "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html?tab=ipe",
+              "external": false,
+              "slug": "partenaires-raccordements",
+              "tab": "ipe",
+              "label": "Raccordement - IPE - Pompe à chaleur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "label": "FAQ",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Un doute ou une question sur la fourniture du chauffage à distance?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous n'êtes pas seul!<br> Retrouvez les questions fréquemment posées sur le sujet."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "PàC"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Est-ce qu’une pompe à chaleur suffira pour alimenter une maison/villa?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il est préférable de prioriser la rénovation du bâtiment avant d’installer une production renouvelable. Il est possible de faire des bilans préalables, car chaque typologie de bâtiment présente des solutions différentes."
+                }
+              ]
+            },
+            {
+              "title": "Comment choisir une pompe à chaleur efficiente?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les PàC sont souvent caractérisées par des coefficients de performance qui correspondent au rapport entre l’alimentation électrique et la chaleur fournie. Celui-ci peut varier en fonction du type de machine, de son environnement, mais surtout en fonction de la température de distribution. Ainsi, une unité d’électricité peut engendrer jusqu’à six fois plus de chaleur."
+                }
+              ]
+            },
+            {
+              "title": "Comment fonctionne une pompe à chaleur?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Une pompe à chaleur fonctionne en prenant l’énergie de sa source pour la transformer en chaleur. La source peut être diverse mais toujours renouvelable comme l’eau, l’air ou la terre via des sondes géothermiques."
+                },
+                {
+                  "type": "image",
+                  "src": "pac-dessin-2023-06-16-08-43-28",
+                  "alt": "",
+                  "caption": "© Ville de Lausanne"
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le COP d’une pompe à chaleur?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le COP est le coefficient de performance d’une pompe à chaleur (PAC) qui sert à déterminer le rendement de votre appareil. Il se calcule en divisant la puissance calorifique restituée par rapport à la puissance absorbée (électrique). Prenons l’exemple d’une pompe a chaleur (PAC) restituant 10 kW à l’installation de chauffage et absorbant environ 2 kW d’électricité. Le COP de cette pompe à chaleur est donc de 5. Plus le COP d’un appareil est élevé, plus sa consommation d’électricité est faible. On considère qu’une pompe à chaleur (PAC) est performante à partir d’un COP de 3."
+                }
+              ]
+            },
+            {
+              "title": "La pompe à chaleur (pac) est-elle encore utilisable lorsque la température extérieure est négative?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui, la pompe à chaleur (PAC) peut être utilisée. Les pompes à chaleur (PAC) sont techniquement utilisables jusqu’à des températures extérieures de -10 (allant même jusqu’à -18°C pour les plus performantes). En cas de températures très basses, la pompe à chaleur peut ne plus répondre aux exigences de chauffage qui lui sont demandées. Il faut donc prévoir un appoint thermique capable de prendre le relais en période de grand froid."
+                }
+              ]
+            },
+            {
+              "title": "La pompe à chaleur nécessite-t-elle une maintenance importante?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Au contraire d’une installation traditionnelle gaz ou mazout, la maintenance est plus facile, avec une usure bien moins importante."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

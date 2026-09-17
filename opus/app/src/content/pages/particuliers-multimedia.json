@@ -1,0 +1,172 @@
+{
+  "slug": "particuliers-multimedia",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+  "path": "/particuliers/je-choisis-mon-offre/multimedia",
+  "title": "Multimédia",
+  "sourceTitle": "Multimédia",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+      "external": false,
+      "slug": "particuliers-je-choisis-mon-offre",
+      "label": "Je choisis mon offre"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+      "external": false,
+      "slug": "particuliers-multimedia",
+      "label": "Multimédia"
+    }
+  ],
+  "lead": "Avec à nos offres sur mesure, profitez du meilleur de la TV, de l'internet et de la téléphonie fixe et mobile. En tant que fournisseur multimédia des Lausannoises et des Lausannois, nous améliorons constamment nos solutions pour répondre à vos besoins et vous garantir un service de qualité et de proximité.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "image",
+      "src": "horscampagne-2026-04-21-08-25-49",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Surfez jusqu’à 1Gbit/s, téléphonez sans limite sur les réseaux fixes suisses, restez connectés grâce à nos offres mobiles et profitez du meilleur de la TV et des fonctions telles que le Replay et l’Enregistrement. Pour des formules adaptées à vos besoins, nos offres combinées bli bla blo proposent le meilleur du multimédia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Offres Combo"
+    },
+    {
+      "type": "image",
+      "src": "site-sil-multimedia-combo-310x232-juillet-2024-v1-2024-07-04-14-19-42",
+      "alt": "",
+      "caption": "© kupicoo"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "sourceLevel": 5,
+      "text": "Télévision, internet jusqu'à 1 Gbit/s, téléphone fixe et mobile"
+    },
+    {
+      "type": "paragraph",
+      "html": "Adaptez la vitesse Internet, le style de télévision, l’abo mobile ainsi que de nombreux autres services tout en profitant des avantages Combo. Vous profitez ainsi d’une expérience multimédia enrichie et personnalisée au plus proche de vos besoins. Simplifiez-vous la vie et profitez de tarifs plus avantageux en réunissant le tout dans un seul abonnement avec les offres combinées bli bla blo."
+    },
+    {
+      "type": "cta",
+      "url": "https://sil-bliblablo.ch/pack",
+      "external": true,
+      "label": "En savoir plus"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Télévision"
+    },
+    {
+      "type": "image",
+      "src": "site-sil-multimedia-tv-310x232-juillet-2024-v1-2024-07-04-14-19-57",
+      "alt": "",
+      "caption": "© Droits réservés"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "sourceLevel": 5,
+      "text": "L'interactivité au bout des doigts!"
+    },
+    {
+      "type": "paragraph",
+      "html": "Regardez la télévision d’un autre œil grâce à la TV interactive! La box vous offre plusieurs fonctions avancées pour une meilleure expérience. Enregistrez, mettez sur Pause quand vous le souhaitez, regardez une émission jusqu’à 7 jours en arrière, et bien plus encore! Avec notre application <strong>net+ TV Mobile</strong>, regardez la TV quand et où vous voulez. Pour ne jamais rien manquer."
+    },
+    {
+      "type": "cta",
+      "url": "https://sil-bliblablo.ch/tv/",
+      "external": true,
+      "label": "En savoir plus"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Téléphone mobile"
+    },
+    {
+      "type": "image",
+      "src": "site-sil-multimedia-mobile-310x232-juillet-2024-v1-2024-07-04-14-20-10",
+      "alt": "",
+      "caption": "© Droits réservés"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "sourceLevel": 5,
+      "text": "Toujours connecté avec le meilleur opérateur de Suisse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne pouvez plus vous passer de votre smartphone? Quelles que soient vos habitudes, nous avons l'abonnement qui vous convient! Du MobiLiker pour les utilisateurs occasionnels au MobiLover illimité pour les plus connectés, vous avez le choix."
+    },
+    {
+      "type": "cta",
+      "url": "https://sil-bliblablo.ch/mobile/",
+      "external": true,
+      "label": "En savoir plus"
+    },
+    {
+      "type": "contact",
+      "title": "Coordonnées",
+      "lines": [
+        "Contact clients Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "S'y rendre en transports publics"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/sil.bliblablo/",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

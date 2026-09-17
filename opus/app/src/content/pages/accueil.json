@@ -1,0 +1,237 @@
+{
+  "slug": "accueil",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+  "path": "/",
+  "title": "Services industriels (SiL)",
+  "sourceTitle": "Services industriels (SiL)",
+  "section": "accueil",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Services industriels (SiL)"
+    }
+  ],
+  "lead": "Bienvenue dans le monde de l'énergie des Services industriels de Lausanne!<br> Électricité, chaleur, gaz et télécommunications, nous sommes à votre écoute et avons à cœur de vous offrir <strong>des services et des produits innovants</strong> qui correspondent à vos besoins, quel que soit votre profil.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "carousel",
+      "items": [
+        {
+          "url": "https://sil-bliblablo.ch/promo/6moismobile26/?utm_source=Lausanne_ch_sil&utm_medium=partenaire&utm_content=001FR&utm_campaign=6moismolbile-26",
+          "external": true,
+          "title": "6 mois offerts sur nos abonnements Mobile",
+          "text": "MobiGo, MobiSwiss ou MobiEuro: choisissez l’abonnement qui vous correspond et profitez-en jusqu’au 12 octobre.",
+          "image": "lausanne-focus-1000x746-campagne-internet-box-juin-2026-v1-2026-09-15-14-56-21"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite?tab=tarifs",
+          "external": false,
+          "slug": "particuliers-electricite",
+          "tab": "tarifs",
+          "title": "Tarifs de l'électricité 2027: infos en ligne",
+          "text": "Découvrez les nouveaux tarifs des SiL dès 2027. Infos et FAQ à votre disposition",
+          "image": "design-sans-titre-1-2026-09-15-14-54-03"
+        },
+        {
+          "url": "https://www.lausanne.ch/sil130",
+          "external": false,
+          "title": "Sur la piste des SiL",
+          "text": "Les SiL fêtent leurs 130 ans et vous offrent un jeu de piste gratuit à travers Lausanne. Participez et gagnez de nombreux prix.",
+          "image": "focus-vdl-130ans-2026-09-09-12-21-34"
+        },
+        {
+          "url": "https://www.equiwatt.ch/subvention-pour-linstallation-de-panneaux-solaires-photovoltaiques-pour-balcon/?utm_source=lausanne.ch_sil&utm_medium=carrousel&utm_campaign=solaire_balcon",
+          "external": true,
+          "title": "Produisez votre électricité depuis votre balcon!",
+          "text": "Découvrez notre nouvelle subvention pour l’installation de panneaux solaires de balcon",
+          "image": "carrousel-sur-sil-500x375-2026-06-09-16-24-50"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/production/solaire.html",
+          "external": false,
+          "title": "Le soleil, une énergie inépuisable",
+          "text": "Découvrez le nouveau cadastre solaire des toits lausannois",
+          "image": "carte-500x375-2024-09-05-12-24-26"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html?map=true&mode=",
+          "external": false,
+          "route": "/particuliers/je-choisis-mon-offre/mobilite",
+          "title": "La mobilité électrique à Lausanne",
+          "text": "Toutes nos solutions pour recharger vos batteries.",
+          "image": "sil-bornes-rechrge-liseron-web-focus-2024-09-05-12-23-14"
+        },
+        {
+          "url": "https://www.equiwatt-lausanne.ch/conseils-immo",
+          "external": true,
+          "title": "Une rénovation en vue?",
+          "text": "Demandez un rendez-vous gratuit",
+          "image": "visuel-conseil-r-novation-2024-09-02-15-44-28"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": null,
+      "variant": "icon-nav",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html",
+          "external": false,
+          "slug": "particuliers-electricite",
+          "label": "Électricité"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+          "external": false,
+          "slug": "particuliers-chaleur",
+          "label": "Chaleur"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html",
+          "external": false,
+          "slug": "particuliers-gaz-naturel",
+          "label": "Gaz"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+          "external": false,
+          "slug": "particuliers-multimedia",
+          "label": "Multimédia"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html",
+          "external": false,
+          "route": "/particuliers/je-choisis-mon-offre/mobilite",
+          "label": "Mobilité"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html",
+          "external": false,
+          "slug": "particuliers-solaire-photovoltaique",
+          "label": "Solaire"
+        }
+      ]
+    },
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "accroche",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-produis-mon-energie/solaire-photovoltaique.html",
+          "external": false,
+          "slug": "particuliers-solaire-photovoltaique",
+          "title": "Vous souhaitez produire de l'énergie solaire?",
+          "text": "Quelle que soit la taille ou la situation de votre toiture, nous avons la solution qu'il vous faut!",
+          "image": "halle-sud-beaulieu-ville-de-lausanne-640x320-2024-03-25-14-32-37"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+          "external": false,
+          "slug": "particuliers-chaleur",
+          "title": "Vous souhaitez changer de chauffage?",
+          "text": "Chauffage à distance ou pompe à chaleur, nos solutions pour se chauffer en respectant l'environnement.",
+          "image": "vanne-chauffage-1000x1000-2024-03-26-15-57-38"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html",
+          "external": false,
+          "route": "/particuliers/mon-compte/demenagement",
+          "title": "Vous déménagez?",
+          "text": "Annoncez votre changement de domicile en ligne au moins 15 jours avant votre arrivée.",
+          "image": "emmenagement-demenagement-adobestock-164972444-2020-01-15-13-35-14"
+        },
+        {
+          "url": "https://www.equiwatt-lausanne.ch/scooter-velo-electrique-et-batterie-de-velo/?https://www.equiwatt-lausanne.ch/scooter-velo-electrique-et-batterie-de-velo/",
+          "external": true,
+          "title": "Vous êtes plutôt vélo?",
+          "text": "Passez à la mobilité douce avec nos subventions!",
+          "image": "velo-en-ville-1000x1000-2024-09-02-15-46-57"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": "Quoi de neuf?",
+      "variant": "news",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=90030",
+          "external": false,
+          "label": "04.09 – 1896-2026: les SiL fêtent leurs 130 ans avec un jeu de piste gratuit à travers Lausanne"
+        },
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=89910",
+          "external": false,
+          "label": "31.08 – Les tarifs de l’électricité resteront stables en 2027"
+        },
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=89920",
+          "external": false,
+          "label": "31.08 – Les tarifs du chauffage à distance et du gaz restent stables malgré des marchés en forte hausse"
+        },
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=89850",
+          "external": false,
+          "label": "27.08 – Réponse au postulat de Loris Socchi «Aurores boréales : profitons des merveilles du monde»"
+        },
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=89530",
+          "external": false,
+          "label": "04.08 – Mercredi 12 août 2026, Lausanne éteint une partie de son éclairage pour observer le ciel"
+        },
+        {
+          "url": "https://www.lausanne.ch/apps/actualites/index.php?actu_id=89140",
+          "external": false,
+          "label": "02.07 – Financement des prestations de services énergétiques des SiL"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

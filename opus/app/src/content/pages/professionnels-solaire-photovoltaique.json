@@ -1,0 +1,318 @@
+{
+  "slug": "professionnels-solaire-photovoltaique",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique.html",
+  "path": "/professionnels/produire-de-l-energie/solaire-photovoltaique",
+  "title": "Solaire photovoltaïque",
+  "sourceTitle": "Solaire photovoltaïque - Solutions",
+  "section": "professionnels",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels.html",
+      "external": false,
+      "route": "/professionnels",
+      "label": "Professionnels"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie.html",
+      "external": false,
+      "route": "/professionnels/produire-de-l-energie",
+      "label": "Produire de l'énergie"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique.html",
+      "external": false,
+      "slug": "professionnels-solaire-photovoltaique",
+      "label": "Solaire photovoltaïque"
+    }
+  ],
+  "lead": "Devenez acteur de la transition énergétique en contribuant au développement du photovoltaïque à Lausanne.",
+  "heroImage": "back-business-2000x1334-2025-12-16-11-50-29",
+  "cta": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html?Motif=tarifs&concerne=36",
+      "external": false,
+      "slug": "particuliers-contact",
+      "label": "Nous contacter"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "solutions",
+      "label": "Solutions",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "home-solaire-970x440-2024-02-05-09-52-22",
+          "alt": "",
+          "caption": "© Adobe Stock"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Solaire photovoltaïque"
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>En tant que société immobilière, fonds immobilier ou propriétaire, vous pouvez produire du courant solaire sur votre toit!</strong>"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le solaire photovoltaïque utilise l'énergie du soleil, une source inépuisable et gratuite."
+        },
+        {
+          "type": "paragraph",
+          "html": "En tant que gestionnaire ou propriétaire d’un bâtiment résidentiel, administratif, commercial ou industriel, vous pouvez participer à la transition énergétique et bénéficier d’une énergie solaire produite sur votre toit."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nous vous conseillons sur les meilleures solutions à adopter, en fonction de votre projet, de votre profil et de votre budget."
+        },
+        {
+          "type": "paragraph",
+          "html": "<strong>Quelles solutions à Lausanne pour les professionnels?</strong>"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL vous proposent une palette de solutions clé en main pour vous permettre de profiter, ou faire profiter à vos habitants, d’une énergie solaire 100% locale et 100% renouvelable."
+        },
+        {
+          "type": "image",
+          "src": "sol-cle-main-640x427-2024-02-05-08-52-44",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Installation solaire photovoltaïque"
+        },
+        {
+          "type": "paragraph",
+          "html": "L’offre clé en main et abordable des SiL pour produire et consommer de l’énergie solaire depuis votre toit."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique/offre-cle-en-main.html",
+          "external": false,
+          "label": "En savoir plus"
+        },
+        {
+          "type": "image",
+          "src": "contracting-640x427-2024-02-05-08-52-44",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Contracting solaire"
+        },
+        {
+          "type": "paragraph",
+          "html": "La solution pour faciliter l’accès à l’énergie solaire sans avoir à investir. Solution dès 100m² de toiture."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique/contracting.html",
+          "external": false,
+          "label": "En savoir plus"
+        },
+        {
+          "type": "image",
+          "src": "communaute-640x427-2024-02-05-08-52-44",
+          "alt": "",
+          "caption": "© Droits réservés"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Communauté d’autoconsommateurs"
+        },
+        {
+          "type": "paragraph",
+          "html": "Constituer ou gérer une communauté d’autoconsommateurs pour partager l’énergie solaire entre voisins."
+        },
+        {
+          "type": "cta",
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/produire-de-l-energie/solaire-photovoltaique/communautes-autoconsommateurs.html",
+          "external": false,
+          "label": "En savoir plus"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Questions fréquentes"
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Quels sont les modes de financement d’une installation photovoltaïque solaire?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Il existe plusieurs méthodes de financement pour une centrale solaire, notamment le financement propre, le contracting et le financement participatif. Les SiL vous aident à concrétiser votre projet selon le mode de financement choisi."
+        },
+        {
+          "type": "heading",
+          "level": 3,
+          "sourceLevel": 5,
+          "text": "Les matériaux pour construire les panneaux solaires sont-ils néfastes pour l'environnement?"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les panneaux solaires photovoltaïques sont principalement composés de silicium, un matériau abondant dans la nature et non toxique. La fabrication de ces panneaux nécessite toutefois l'utilisation de certains produits chimiques. Bien que la production initiale puisse avoir un impact environnemental, les panneaux solaires ont une longue durée de vie et génèrent une électricité propre tout au long de leur utilisation, ce qui compense largement leur empreinte écologique initiale."
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "label": "Conditions",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Conditions particulières relatives à la consommation propre"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Conditions particulières des Services industriels de Lausanne relatives aux communautés d'autoconsommation (C-CA)",
+              "url": "https://www.lausanne.ch/dam/jcr:03e65057-0ec6-4d43-8820-5664b079c86f/conditions-autoconsommation-c-ca.pdf",
+              "format": "PDF",
+              "size": "141 Ko",
+              "date": "Du 1er juillet 2023"
+            },
+            {
+              "label": "Conditions particulières des Services industriels de Lausanne relatives à la consommation propre (C-CP)",
+              "url": "https://www.lausanne.ch/dam/jcr:fa43c778-a64a-4c25-86f7-52a063feb4ce/conditions-consommation-propre-c-cp.pdf",
+              "format": "PDF",
+              "size": "143 Ko",
+              "date": "Du 2 mai 2019"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Les prestations de reprise de l’énergie sont régies par"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Conditions de raccordement au réseau de distribution d'électricité, d'utilisation du réseau et de fourniture d'énergie électrique de substitution des Services industriels de Lausanne (C-RU)",
+              "url": "https://www.lausanne.ch/dam/jcr:4c1d8b23-aa6c-41f9-b2b7-ce81a22a40ae/conditions-raccordement-reseau-electricite-c-ru-limite.pdf",
+              "format": "PDF",
+              "size": "928 Ko",
+              "date": "Du 2 mai 2019"
+            },
+            {
+              "label": "Conditions particulières relatives au raccordement des installations de production d'énergie (IPE) au réseau de distribution d'électricité des Services industriels de Lausanne ainsi que de la reprise d'énergie produite (C-IPE)",
+              "url": "https://www.lausanne.ch/dam/jcr:78f28310-a76f-48e5-8c39-0f0fd43cf253/conditions-raccordement-production-ipe-et-reprise-c-ipe.pdf",
+              "format": "PDF",
+              "size": "183 Ko",
+              "date": "Du 2 mai 2019"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "sourceLevel": 4,
+          "text": "Localisation et numérotation de logements"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Directive fédérale pour la numérotation de logements",
+              "url": "https://www.lausanne.ch/dam/jcr:6c906bfe-451b-4166-815a-08cb602b1660/directive-numerotation-logements.pdf",
+              "format": "PDF",
+              "size": "97 Ko",
+              "date": null
+            },
+            {
+              "label": "Annexe à la directive fédérale en matière de localisation et de numérotation des objets",
+              "url": "https://www.lausanne.ch/dam/jcr:cda4d881-5b5a-4ed8-9adf-7b627d7a68cc/annexe-directive-OFS.pdf",
+              "format": "PDF",
+              "size": "74 Ko",
+              "date": null
+            },
+            {
+              "label": "Annexe technique à la directive fédérale en matière de localisation et de numérotation des objets",
+              "url": "https://www.lausanne.ch/dam/jcr:c8b69684-46d6-4739-975c-b0b905b3a40e/annexe-technique-directive-OFS.pdf",
+              "format": "PDF",
+              "size": "57 Ko",
+              "date": null
+            },
+            {
+              "label": "Modèle d’étiquetage",
+              "url": "https://www.lausanne.ch/dam/jcr:ecf28b26-c662-4ee6-a45e-88bda86862bc/numerotation-logement-modele-etiquetage.pdf",
+              "format": "PDF",
+              "size": "704 Ko",
+              "date": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Service commercial",
+      "lines": [
+        "Direction Services industriels",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "mailto:sil.commercial@lausanne.ch",
+          "external": false,
+          "label": "Écrivez-nous"
+        },
+        {
+          "url": "tel:+41213158282",
+          "external": false,
+          "label": "+41 21 315 82 82"
+        },
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

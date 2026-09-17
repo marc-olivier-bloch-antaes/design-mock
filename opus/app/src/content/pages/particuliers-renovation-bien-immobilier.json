@@ -1,0 +1,213 @@
+{
+  "slug": "particuliers-renovation-bien-immobilier",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html",
+  "path": "/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier",
+  "title": "Rénovation de mon bien immobilier",
+  "sourceTitle": "Rénovation de mon bien immobilier",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation.html",
+      "external": false,
+      "route": "/particuliers/j-optimise-ma-consommation",
+      "label": "J'optimise ma consommation"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/j-optimise-ma-consommation/renovation-de-mon-bien-immobilier.html",
+      "external": false,
+      "slug": "particuliers-renovation-bien-immobilier",
+      "label": "Rénovation de mon bien immobilier"
+    }
+  ],
+  "lead": "Vous envisagez de rénover votre logement?<br> Contactez nos experts accrédités pour vous aider dans vos démarches et obtenez le certificat énergétique cantonal des bâtiments CECB<sup>®</sup> valable 10 ans ou mieux encore, des conseils étayés avec CECB<sup>®</sup> Plus.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "image",
+      "src": "adobestock-292432742-2022-03-07-15-47-25",
+      "alt": "",
+      "caption": "© Adobe Stock"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "Les avantages"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les bâtiments contribuent pour une part importante aux émissions de CO2 en Suisse. À Lausanne, ce secteur représente 58% des émissions directes de CO2."
+    },
+    {
+      "type": "paragraph",
+      "html": "Rénover sa propriété permet d'améliorer sa performance énergétique et de participer activement aux objectifs de la Stratégie énergétique 2050 du Conseil fédéral et du plan climat de Lausanne.."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Mais par quoi commencer? - Faites appel à nos spécialistes!</strong>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous bénéficiez ainsi de nombreux avantages:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Vous obtenez un avis professionnel et personnalisé sur les travaux à réaliser",
+        "Vous situez en détail votre consommation énergétique et savez où agir",
+        "Vous bénéficiez d’<a href=\"http://www.vd.ch/subventions-energie\">aides financières</a>",
+        "Vous valorisez votre bien immobilier"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "cecb-2019-10-17-09-56-48-2022-03-07-15-49-01",
+      "alt": "",
+      "caption": "© Ville de Lausanne"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "CECB®, l'étiquette énergie officielle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le CECB<sup>®</sup> évalue la consommation énergétique d’une propriété (chauffage, eau chaude sanitaire et électricité) lors d’une utilisation standard. Il permet une comparaison avec d’autres constructions et propose des <strong>mesures d’optimisation</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le CECB<sup>®</sup> définit l’étiquette énergétique du bâtiment, soit la classe énergétique (de A à G) de l’enveloppe et des installations techniques du bâtiment."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le CECB<sup>®</sup> est obligatoire lors de la vente d’un bâtiment d’habitation et lors du remplacement d’un système de chauffage par une installation fonctionnant aux énergies fossiles (mazout, gaz ou charbon)."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Prestations:</strong>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Visite du bâtiment par un expert CECB<sup>®</sup>",
+        "Calcul de l’étiquette énergie du bâtiment",
+        "Données de base sur le potentiel d’amélioration énergétique de l’enveloppe et de la technique"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 4,
+      "text": "CECB® PLUS, l'assainissement détaillé"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le CECB<sup>®</sup> Plus (rapport de conseil établi par l’expert CECB<sup>®</sup>) propose des mesures concrètes pour l’optimisation énergétique d’un bâtiment. Ce module est recommandé si vous prévoyez des rénovations. Dans le cadre du <a href=\"http://www.vd.ch/themes/environnement/energie/subventions-programme-batiments/\">Programme Bâtiments</a>, vous bénéficiez d’une <strong>subvention </strong>allant de <strong>CHF</strong> <strong>1000.–</strong> à <strong>1500.–</strong> si votre propriété a été construite avant l’an 2000."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Prestations en plus du CECB<sup>®</sup></strong>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Liste concrète de mesures d’amélioration de l’efficacité énergétique",
+        "Priorisation des mesures, allant du paquet minimal jusqu’à une modernisation correspondant aux standards Minergie<sup>®</sup>",
+        "Jusqu’à trois variantes de réalisation de rénovation",
+        "Possibilité d’inclure les extensions futures de la construction au calcul",
+        "Évaluation de l’investissement nécessaire et des coûts d’entretien",
+        "Estimation de l’économie réalisée",
+        "Calcul des soutiens financiers envisageables"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Lors du remplacement d’un système de chauffage par une installation fonctionnant aux énergies fossiles (mazout, gaz ou charbon), le CECB<sup>®</sup> Plus est obligatoire pour les bâtiments qui atteignent une classe énergétique F ou G de l’enveloppe."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le CECB® Plus est également obligatoire lors d’une <a href=\"https://www.vd.ch/prestation-detail/prestation/02-demander-une-subvention-pour-lisolation-thermique\">demande de subvention au Programme bâtiments</a> pour l’isolation thermique, dès CHF 10'000.- de contribution financière."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Prenez rendez-vous dès aujourd’hui avec nos experts au 021 315 81 48<br> ou <a href=\"mailto:sil.energie@lausanne.ch\">sil.energie@lausanne.ch .</a></strong>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour de plus amples renseignements sur le certificat, rendez-vous sur <a href=\"http://www.cecb.ch\">www.cecb.ch</a>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "<a href=\"https://www.lausanne.ch/dam/jcr:da91769c-6748-4fac-a81b-c319b2d1378a/conditions-generales-services-audit-energetique-sil.pdf\">Conditions Générales - Services d’audit énergétique SiL</a>"
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Coordonnées",
+      "lines": [
+        "Efficacité énergétique Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "tel:+41213158148",
+          "external": false,
+          "label": "+41 21 315 81 48"
+        },
+        {
+          "url": "mailto:sil.energie@lausanne.ch",
+          "external": false,
+          "label": "Écrivez-nous"
+        },
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "S'y rendre en transports publics"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne ",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

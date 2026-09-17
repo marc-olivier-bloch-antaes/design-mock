@@ -1,0 +1,119 @@
+{
+  "slug": "particuliers-je-choisis-mon-offre",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+  "path": "/particuliers/je-choisis-mon-offre",
+  "title": "Je choisis mon offre",
+  "sourceTitle": "Je choisis mon offre",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre.html",
+      "external": false,
+      "slug": "particuliers-je-choisis-mon-offre",
+      "label": "Je choisis mon offre"
+    }
+  ],
+  "lead": "Vous êtes un particulier, un artisan ou un petit commerce? Les Services industriels de Lausanne s’engagent à vous fournir des énergies et des services de qualité et respectueux de l’environnement.<br> <strong>Électricité, chaleur, gaz, multimédia ou mobilité</strong>... faites votre choix et améliorez votre confort grâce aux SiL!",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "grid",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html",
+          "external": false,
+          "slug": "particuliers-electricite",
+          "title": "Électricité",
+          "text": "<strong>nativa</strong>, l'électricité d'origine <strong>100% renouvelable </strong>des SiL, contribue au développement des énergies renouvelables dans votre région. Choisissez le produit qui correspond le mieux à vos critères économiques et environnementaux.",
+          "image": "adobestock-227727671-2026-09-10-09-30-28"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html",
+          "external": false,
+          "slug": "particuliers-chaleur",
+          "title": "Chaleur",
+          "text": "Optez pour une solution de chauffage durable, locale et tournée vers l'avenir.",
+          "image": "silpdp14-072-2025-08-28-11-09-03"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html",
+          "external": false,
+          "slug": "particuliers-gaz-naturel",
+          "title": "Gaz naturel",
+          "text": "Qu’il s’agisse de chauffage, d’eau chaude ou de cuisson, le gaz naturel est une <strong>énergie de transition </strong>qui s’adapte aux besoins de chacun et se combine facilement avec les énergies renouvelables.",
+          "image": "adobestock-278552879-2026-04-23-16-52-27"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/multimedia.html",
+          "external": false,
+          "slug": "particuliers-multimedia",
+          "title": "Multimédia",
+          "text": "Avec à nos offres sur mesure, profitez du meilleur de la TV, de l'internet et de la téléphonie fixe et mobile. En tant que fournisseur multimédia des Lausannoises et des Lausannois, nous améliorons constamment nos solutions pour répondre à vos besoins et vous garantir un service de qualité et de proximité.",
+          "image": "site-sil-multimedia-310x232-v1-2026-04-21-08-25-49"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/mobilite.html",
+          "external": false,
+          "route": "/particuliers/je-choisis-mon-offre/mobilite",
+          "title": "Mobilité",
+          "text": "Roulez à l’électricité permet de diminuer les émissions de CO2. Les SiL développent le réseau de bornes de recharge et proposent différentes subventions lorsque vous achetez un vélo électrique ou un scooter électrique.",
+          "image": "mobilite-subventions-voitures-electriques-gnc-velo-2026-06-19-12-45-51"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Contact clients",
+      "lines": [
+        "Service commercial",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

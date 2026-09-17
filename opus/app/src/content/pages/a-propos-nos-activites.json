@@ -1,0 +1,161 @@
+{
+  "slug": "a-propos-nos-activites",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html",
+  "path": "/a-propos-sil/nos-activites",
+  "title": "Nos activités",
+  "sourceTitle": "Nos activités",
+  "section": "a-propos",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil.html",
+      "external": false,
+      "route": "/a-propos-sil",
+      "label": "À propos des SiL"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites.html",
+      "external": false,
+      "slug": "a-propos-nos-activites",
+      "label": "Nos activités"
+    }
+  ],
+  "lead": "Les Services industriels de Lausanne (SiL) alimentent l'agglomération lausannoise en électricité, gaz, énergie thermique et prestations multimédia.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "gallery",
+      "title": null,
+      "items": [
+        {
+          "src": "mcba-1940x746-2023-08-24-15-30-34",
+          "alt": "",
+          "caption": "© SI-REN"
+        },
+        {
+          "src": "vallee-de-la-jeunesse1940x746-2023-08-24-15-03-34",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "biogaz-1940x746-2023-08-24-15-17-19",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "barlav-2019-12-15-09-02-31",
+          "alt": "",
+          "caption": "© EMO Photo"
+        },
+        {
+          "src": "lavey-pano-1940x746-2019-12-15-09-02-39",
+          "alt": "",
+          "caption": "© Laurent Kaczor"
+        }
+      ]
+    },
+    {
+      "type": "links",
+      "title": null,
+      "variant": "icon-nav",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite.html",
+          "external": false,
+          "route": "/a-propos-sil/nos-activites/electricite",
+          "label": "Électricité"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/chauffage-a-distance.html",
+          "external": false,
+          "route": "/a-propos-sil/nos-activites/chauffage-a-distance",
+          "label": "Chauffage à distance"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/eclairage-public.html",
+          "external": false,
+          "route": "/a-propos-sil/nos-activites/eclairage-public",
+          "label": "Éclairage public"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/multimedia.html",
+          "external": false,
+          "route": "/a-propos-sil/nos-activites/multimedia",
+          "label": "Multimédia"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html",
+          "external": false,
+          "slug": "a-propos-reglements",
+          "label": "Règlements"
+        }
+      ]
+    },
+    {
+      "type": "teasers",
+      "title": null,
+      "variant": "accroche",
+      "items": [
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/electricite/provenance.html",
+          "external": false,
+          "title": "Quelle est l'origine de votre électricité?",
+          "text": "Plus de 90% de l’énergie fournie provient de sources renouvelables d’origine suisse",
+          "image": "origine-electricite-2019-12-13-10-57-59"
+        },
+        {
+          "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/multimedia.html",
+          "external": false,
+          "route": "/a-propos-sil/nos-activites/multimedia",
+          "title": "Multimédia",
+          "text": "Le réseau multimédia des SiL, s’étend sur 14 communes de la région lausannoise",
+          "image": "citycable-2023-10-24-07-43-04"
+        }
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Direction Services industriels",
+      "lines": [
+        "Place Chauderon 23 Rez-de-chaussée",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/86236415",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

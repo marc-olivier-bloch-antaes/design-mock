@@ -1,0 +1,104 @@
+{
+  "slug": "professionnels-telegestion",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation/telegestion.html",
+  "path": "/professionnels/optimiser-sa-consommation/telegestion",
+  "title": "Télégestion",
+  "sourceTitle": "Télégestion",
+  "section": "professionnels",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels.html",
+      "external": false,
+      "route": "/professionnels",
+      "label": "Professionnels"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation.html",
+      "external": false,
+      "route": "/professionnels/optimiser-sa-consommation",
+      "label": "Optimiser sa consommation"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/optimiser-sa-consommation/telegestion.html",
+      "external": false,
+      "slug": "professionnels-telegestion",
+      "label": "Télégestion"
+    }
+  ],
+  "lead": "Vous rêvez d’une solution professionnelle vous permettant de maîtriser, suivre et optimiser votre consommation énergétique? Profitez du système de télégestion des Services industriels de Lausanne. Nous vous assurons des <strong>économies d’énergie et de frais d’exploitation</strong>, une plus grande <strong>efficacité énergétique</strong> et un <strong>confort accru des occupants</strong>.",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "html": "Grâce à la télégestion, vos installations CVS (chauffage, ventilation et climatisation, eau chaude sanitaire) sont programmées, puis régulées et surveillées à distance. Tout dysfonctionnement des appareils connectés est automatiquement signalé et traité <strong>24h/24, 7 jours/7</strong> par nos experts. Ce système permet de supprimer efficacement les dérangements techniques, sans effort de la part du propriétaire, tout en contribuant à réduire la consommation d’énergie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les Services industriels de Lausanne télégèrent quelque 270 bâtiments, soit 350 installations connectées:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Immeubles locatifs (dès 8-10 logements)",
+        "Hôtels et restaurants",
+        "Musées, théâtres",
+        "Bâtiments scolaires",
+        "Hôpitaux, cliniques et EMS",
+        "Centres sportifs",
+        "Églises",
+        "Etc."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Demandez à nos conseillers une offre personnalisée sans engagement de votre part au +41 21 315 82 82."
+    },
+    {
+      "type": "contact",
+      "title": "Coordonnées",
+      "lines": [
+        "Service commercial Direction Services industriels",
+        "Place Chauderon 23",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "tel:+41213158282",
+          "external": false,
+          "label": "+41 21 315 82 82"
+        },
+        {
+          "url": "mailto:sil.commercial@lausanne.ch",
+          "external": false,
+          "label": "Écrivez-nous"
+        },
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "S'y rendre en transports publics"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.linkedin.com/company/services-industriels-de-lausanne",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

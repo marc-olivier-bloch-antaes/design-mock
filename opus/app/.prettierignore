@@ -1,0 +1,10 @@
+dist
+node_modules
+public
+src/content/pages
+src/content/generated
+src/styles/tokens.css
+playwright-report
+test-results
+package-lock.json
+src/content/*.json

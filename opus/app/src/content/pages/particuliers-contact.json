@@ -1,0 +1,230 @@
+{
+  "slug": "particuliers-contact",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html",
+  "path": "/particuliers/contact-sil",
+  "title": "Contacter les Services industriels de Lausanne",
+  "sourceTitle": "Contacter les Services industriels de Lausanne",
+  "section": "particuliers",
+  "breadcrumb": [
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "external": false,
+      "slug": "accueil",
+      "label": "Accueil"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers.html",
+      "external": false,
+      "route": "/particuliers",
+      "label": "Particuliers"
+    },
+    {
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html",
+      "external": false,
+      "slug": "particuliers-contact",
+      "label": "Contacter les Services industriels de Lausanne"
+    }
+  ],
+  "lead": "Vous avez une question?<br> Formulaire, guichet ou téléphone, nos spécialistes sont à votre disposition!",
+  "heroImage": null,
+  "cta": [],
+  "tabs": [],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 2,
+      "text": "Foire aux questions"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous trouvez ici les réponses aux questions les plus souvent posées: facture, électricité, solaire..."
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Les questions les plus courantes</strong>"
+    },
+    {
+      "type": "accordion",
+      "items": [
+        {
+          "title": "Dois-je annoncer mon changement de domicile aux SiL?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Oui. Toute annonce de changement d'adresse doit être effectuée au minimum 15 jours ouvrables à l'avance, afin que tout soit en ordre à votre arrivée."
+            },
+            {
+              "type": "paragraph",
+              "html": "Annoncez votre changement de domicile sur <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/demenagement.html\" data-route=\"/particuliers/mon-compte/demenagement\">www.lausanne.ch/demenagement</a>."
+            }
+          ]
+        },
+        {
+          "title": "Puis-je obtenir un duplicata d'une facture?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "html": "Oui. Les duplicatas <strong>envoyés par courrier </strong>sont <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/frais-administratifs.html\">facturés </a>CHF 5.- (hors TVA)."
+            },
+            {
+              "type": "paragraph",
+              "html": "Mais vous pouvez obtenir un duplicata gratuitement au format PDF en passant par notre portail <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/Mes-factures/-my-mes-factures.html\">www.lausanne.ch/silfacture</a>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "<a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq.html\">Consulter toutes nos questions les plus fréquemment posées (FAQ)</a>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 2,
+      "text": "Au guichet et par téléphone"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour toute demande ou question (emménagement, déménagement, facturation, tarifs, produits et services, questions techniques et urgences ou pannes), appelez-nous ou passez au guichet!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "sourceLevel": 4,
+      "text": "Espace clients"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "Place Chauderon 23",
+          "Lundi-vendredi: 8h-12h / 13h-17h"
+        ],
+        [
+          "Place de l'Europe 2",
+          "Lundi-vendredi: 9h-13h / 14h-18h<br> Samedi: 9h-13h"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "sourceLevel": 4,
+      "text": "Tél. 021 315 88 88 *"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "Questions administratives:",
+          "Lundi-vendredi: 8h-17h"
+        ],
+        [
+          "Support technique multimédia:",
+          "Lundi-vendredi: 8h-19h"
+        ],
+        [
+          "Urgences ou pannes:",
+          "7j/7, 24h/24<br> Au menu vocal, tapez 4"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "* L’appel de ce numéro peut faire l’objet d’un enregistrement pour des raisons de qualité, de formation, de traitement de votre commande et afin d’assurer un service après-vente compétent. Les enregistrements ne sont pas transmis à des tiers. En outre, le droit d’accès des personnes concernées est garanti."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 2,
+      "text": "Nous écrire"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "sourceLevel": 3,
+      "text": "actual page:Page 1"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sélectionnez le sujet de votre demandeAdresse et déménagementCompteur / Compteur intelligentConsommation et facturesDépannage et coupureSubvention 80Tarifs et prestationsMon compte / Compte proConseils énergétiquesFormationRaccordement au réseauContrôlePénurieMotif de ma demandeAdresse et déménagementCompteurConsommation et facturesDépannageSubvention 80Tarifs et prestationsPénuriePortail clientEconomie d'énergieFormationRaccordement au réseauContrôle<strong></strong>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Que concerne votre demande?ConcerneEmménagement - déménagementAdresse de correspondanceSaisie de votre indexConseil énergétiqueAdapter mes acomptesDuplicata de factureDemande consommation annuelle (CECB et CECB+)Devis pour la réalisation d’un CECBFacturation intermédiaire sans déplacementFacturation intermédiaire avec déplacementInformations sur ma factureFrais de rappelDésaccord sur factureFacture électronique - eBillPrélèvement automatique (LSV) - Débit direct (DD)Annonce de paiementEtat actuel de votre compteDemande d'extrait de compteDemande de report d'échéanceDemande d'arrangement de paiementDemande de remboursementService InternetService téléphonieService TVConnexion au portailDemande d’informationOffres Internet, TV, téléphone (nouvel abonnement)Offres Internet, TV, téléphone (déjà client)nativa® nativa®plusQuestion sur mon abonnementElectricitéGazEau et AssainissementChauffage à distanceRésiliationDemande d’informationSolaireRemise en service après coupure électricitéPoursuitesRetour contrat multimédiaFacture électronique - emailCHARG’IMMOCompteur intelligent: Rendez-vous pour le remplacementCompteur intelligent: Questions généralesCompteur intelligent: PanneAccès Compte pro (code unique)Panne ou problème techniqueContact équiwattCadastre thermiqueSolutions de chauffageApprentissage de commerceCentre de formation technique (C-FoR!)Demande d'informationDemande de raccordementContrôle installations électriquesContrôle des branchements gazCommunauté d'autoconsommateurs (CA)Accès local aux données de comptage électriqueBornes de recharge publiquesChangement tarif Profil (simple/duo)<strong></strong>Annoncez votre changement de domicile sur <a href=\"https://www.lausanne.ch/demenagement\">www.lausanne.ch/demenagement</a>.Afin d'éviter les <a href=\"https://www.lausanne.ch/silfrais\">frais administratifs</a>, consultez vos <a href=\"https://www.lausanne.ch/iam-ui-fusion/login.html?goto=/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/factures/-my-mes-factures.html\">factures en ligne</a>.Merci d'indiquer toutes les références concernées dans le champ ci-dessous.Si vous souhaitez une facture de consommation intermédiaire, nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/silfrais\">frais administratifs</a> y relatifs.<br>Nous vous prions de nous communiquer les index dans le champ libre ci-dessous ou de nous envoyer une photographie en pièce jointe.<a href=\"https://www.lausanne.ch/dam/jcr:d02ceefd-1d30-473e-99f0-a099d9865c64/guide-releve-compteur.pdf\">Marche à suivre pour effectuer son relevé de compteur</a>.Vous souhaitez une facture de consommation intermédiaire, nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/silfrais\">frais administratifs</a> y relatifs. Un collaborateur des SiL se rendra à votre domicile pour relever le(s) compteur(s).Retrouvez les questions les plus fréquemment posées dans notre foire aux questions <a href=\"https://www.lausanne.ch/silfaq\">www.lausanne.ch/silfaq</a>.Retrouvez les questions les plus fréquemment posées dans notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq.html#pourquoi-des-frais-de-rappels-me-sont-ils-factures-alors-que-ma-facture-n-est-pas-encore-echue--20\">foire aux questions</a>, ainsi que la liste des <a href=\"https://www.lausanne.ch/silfrais\">frais administratifs</a> applicables.<br>Pour plus de détails, nous vous invitons à consulter nos <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements\" data-slug=\"a-propos-reglements\">conditions générales</a>.Retrouvez les questions les plus fréquemment posées dans notre foire aux questions <a href=\"https://www.lausanne.ch/silfaq\">www.lausanne.ch/silfaq</a>.Réalisez votre relevé de compteur en ligne sur <a href=\"https://www.lausanne.ch/releve-compteur\">www.lausanne.ch/releve-compteur</a>.Nous vous invitons à vous inscrire directement auprès de votre institut financier en ligne. Pour plus d'information, merci de consulter la page de notre partenaire <a href=\"https://www.ebill.ch/fr\">www.ebill.ch</a>.Nous vous invitons à consulter notre page dédiée au <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/factures/modes-de-paiements.html\">modes de paiements</a>.Veuillez insérer la preuve de paiement en pièce jointe.Pour tous conseils, nos collaborateurs sont à votre disposition au 0842 841 841 ou à nos Espaces clients.<br><a href=\"https://sil-bliblablo.ch/pack/apercu/\">Offres Combo</a>nativa®, l'électricité d'origine 100% renouvelable des SiL, contribue au développement des énergies renouvelables dans votre région. Choisissez le produit qui correspond le mieux à vos critères économiques et environnementaux. Plus d'informations sur notre page <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=produits\" data-slug=\"particuliers-electricite\" data-tab=\"produits\">nativa®<em>plus</em></a>.Nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=tarifs\" data-slug=\"particuliers-electricite\" data-tab=\"tarifs\">tarifs</a> en vigueur.Nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel.html?tab=tarifs\" data-slug=\"particuliers-gaz-naturel\" data-tab=\"tarifs\">tarifs</a> en vigueur.Nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/eau/proprietaires-et-professionnels/taxes-et-facturation.html#assainissement-evacuation-des-eaux-usees-et-des-eaux-claires-et-epuration--4\">tarifs</a> en vigueur.Nous vous invitons à consulter vos <a href=\"https://www.lausanne.ch/iam-ui-fusion/login.html?goto=/vie-pratique/energies-et-eau/services-industriels/particuliers/mon-compte/factures/-my-mes-factures.html\">factures en ligne</a>.Nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/silfrais\">frais administratifs</a> y relatifs.Un arrangement de paiement est accordé uniquement sur une facture décompte. Les factures suivantes (acomptes) doivent être payées à leur échéance. Elles ne peuvent pas faire l’objet d’un plan de recouvrement. Le montant minimum à payer mensuellement est de CHF 100.-, auquel s’ajoute des frais forfaitaires: CHF 10.- pour des paiements échelonnés jusqu’à 3 tranches et CHF 20.- à partir de 4 tranches.Seul le titulaire du compte est habilité à faire une demande de remboursement. En cas de cosignataire ou de gestion pour un tiers, une procuration accompagnée d'une copie d'une pièce d'identité est nécessaire. Afin de procéder au remboursement, merci d’indiquer vos données bancaires (IBAN). Le remboursement s’effectuera dans un délai de 15 jours.<br>Pour les montants inférieurs à 20'000.- la demande peut être faite via ce formulaire. Pour les montant supérieurs à CHF 20’000, une demande écrite doit être envoyée à: Services industriels Lausanne<br>Espace débiteurs<br>Case postale 7416<br>1002 LausanneNous vous invitons à consulter notre page <a href=\"https://www.lausanne.ch/prestations/subvention80.html\">Subvention80</a>. Pour toute demande, merci de nous indiquer le numéro de votre ménage et votre date de naissance.En cas de problème technique, veuillez contacter nos collaborateurs du service technique au 0842 841 841. D'autres informations se trouvent sur notre page <a href=\"https://sil-bliblablo.ch/aide-et-support/\">support</a>.Vous rencontrez des difficultés pour vous connecter au portail Mon compte / Compte pro?<br>Si vous avez déjà <a href=\"https://www.lausanne.ch/iam-ui-fusion/addusr.html?goto=/vie-pratique/energies-et-eau/services-industriels.html\">créé un compte</a>, utilisez la fonction de <a href=\"https://www.lausanne.ch/iam-ui-fusion/lostpwd.html?goto=/vie-pratique/energies-et-eau/services-industriels.html\">mot de passe oublié</a> ou de <a href=\"https://www.lausanne.ch/iam-ui-fusion/lostemail.html?goto=/vie-pratique/energies-et-eau/services-industriels.html\">courriel de validation non reçu</a>Pour toute résiliation d'abonnement, nous vous remercions de nous envoyer votre demande par courrier postal.<br> <a href=\"https://www.lausanne.ch/silconditions\">www.lausanne.ch/silconditions</a>Nous vous invitons à consulter les <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur.html?tab=tarifs\" data-slug=\"particuliers-chaleur\" data-tab=\"tarifs\">tarifs</a> en vigueur.Nous vous invitons à consulter la page <a href=\"https://www.lausanne.ch/penurie\">Approvisionnement en énergie et risque de pénurie</a> qui apporte de nombreuses réponses sur le risque de pénurie et comment s’y préparer.Lors d'une coupure d'électricité suite à non-paiement, vous devez payer le montant intégral figurant sur la feuille jaune que vous avez reçue et nous fournir la preuve de votre paiement. Plus d’information dans notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq#j-rsquo-ai-eu-une-coupure-de-courant-pour-non-paiement-que-faire-pour-avoir-de-nouveau-de-l-rsquo-electricite--20\">foire aux questions</a>.Pour demander la radiation de poursuites, nous vous invitons à remplir et signer le <a href=\"https://www.lausanne.ch/sil-doc-radiation-poursuite\">document</a> et de nous le retourner en l’important dans le formulaire de contact ci-dessous ou par voie postale à l’adresse suivante.Direction des Services industriels<br>Espace débiteurs<br>Place Chauderon 23<br>Case postale 7416<br>1002 LausannePour un délai d’activation optimal, vous pouvez nous transmettre ici votre nouveau contrat signé et numérisé. Une transmission par voie postale est aussi possible, à l’adresse suivante.Direction des Services industriels<br>Service multimédia<br>Case Postale 7416<br>1002 LausanneCHARG’IMMO est la solution clés en main pour les parkings d’immeuble. Prenez contact avec nos spécialistes.Vous pouvez également nous contacter par téléphone au +41 21 315 96 73 (Lundi-vendredi de 8h00 à 12h00 et de 13h30 à 16h30) ou consulter les <a href=\"https://www.lausanne.ch/compteur-intelligent\">questions fréquemment posées</a>.L'<a href=\"https://www.lausanne.ch/sil-engagement-mbus-gaz\">engagement de mise à disposition des données brutes MBus </a> doit être complétée, signée et annexée en pièce jointe ci-dessous.Le <a href=\"https://www.lausanne.ch/sil-formulaire-local-elec\">formulaire de demande d'accès local aux données de comptage électrique (compteurs intelligents et industriels)</a> doit être complété, signé et annexé en pièce jointe ci-dessous. La clé de cryptage vous sera remise personnellement à l'un de nos espace clients contre remise d'une pièce d'identité.Pour accéder à l'ensemble de vos références, connectez vous au portail Compte pro et réalisez votre demande d'accès en ligne <a href=\"https://www.lausanne.ch/demande-acces-pro\">www.lausanne.ch/demande-acces-pro</a>.<br>Un code unique vous sera transmis par courrier électronique.Le portail ne réagit pas comme d'habitude ou présente un message d'erreur? Nous vous remercions de nous en faire part. Dans la mesure du possible, les copies écran sont bienvenues.Consommer moins, un vrai plus!<br>Optimisez votre consommation avec <a href=\"https://www.equiwatt-lausanne.ch\">www.equiwatt-lausanne.ch</a><br>Ou contactez-nous par téléphone au +41 21 315 83 83 (Lundi, mercredi, vendredi de 13h30-16h30)Vous pouvez également nous contacter par téléphone au +41 21 315 82 19 (Lundi-vendredi de 8h00 à 11h45 et de 13h00 à 17h00)Vous pouvez également nous contacter par téléphone au +41 21 315 95 73 (Lundi-vendredi de 7h30 à 11h45 et de 13h00 à 16h30)Vous pouvez également nous contacter par téléphone au +41 21 315 94 60 (Lundi-vendredi de 8h00 à 12h00 et de 13h30 à 16h00)Retrouvez toutes les informations relatives aux raccordements d'énergie, de télécommunication, d'eau ou d'assainissement sur <a href=\"https://www.lausanne.ch/sil-raccordements\">www.lausanne.ch/sil-raccordements</a>Vous pouvez également nous contacter par téléphone au +41 21 315 83 59 (Lundi-vendredi de 8h00 à 11h00)Vous pouvez également nous contacter par téléphone au +41 21 315 81 48Ce service n'est disponible que pour notre clientèle professionnelle ou notre clientèle privée sous <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq.html#comment-puis-je-recevoir-et-payer-ma-facture\">certaines conditions</a>. Pour plus d'information, merci de consulter not <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/faq.html#comment-puis-je-recevoir-et-payer-ma-facture--0\">FAQ dédiée au factures</a>.Pour adhérer à une communauté d’autoconsommateurs, il est nécessaire qu’une centrale solaire photovoltaïque soit présente sur le toit de votre immeuble et que votre producteur ait créé une communauté. Si ces 2 conditions sont correctes, nous vous prions de nous faire parvenir le <a href=\"https://www.lausanne.ch/formulaire-adhesion-ca\">formulaire d’adhésion</a> dûment rempli.Nous vous prions de nous faire parvenir le <a href=\"https://www.lausanne.ch/formulaire-retrait-ca\">formulaire de retrait</a> dûment rempli.Une question sur nos bornes?<br>Pour toute information sur nos bornes de recharge publiques, contactez-nous via le formulaire ci-dessous.Besoin d’assistance téléphonique pour un problème technique ?<br>Vous pouvez joindre notre prestataire d’assistance technique Wattpro SA au 079 944 04 12.Le tarif Profil simple est attribué aux ménages, commerces et artisans consommant principalement pendant la journée. Il est applicable à tous les usagers alimentés en basse tension qui disposent d’un comptage unique, l’intensité étant limitée à 80 ampères (A). Le tarif Profil duo est applicable sur demande aux ménages, commerces et artisans alimentés en basse tension qui disposent d’un comptage unique, l’intensité étant limitée à 80 ampères (A). Choisissez le tarif Profil qui correspond le mieux à vos critères économiques. Plus d'informations sur notre page <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=tarifs\" data-slug=\"particuliers-electricite\" data-tab=\"tarifs\">Électricité - tarifs – Ville de Lausanne</a>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre demandePrécision de ma demandeCaractères restants: 10000<strong>Nativa</strong>Je change d’énergie pour Nativa<sup>®</sup>.Je change d’énergie pour Nativa<sup>®</sup>plus.<strong>Facture électronique</strong>Je m’inscris à la facture électronique (selon conditions mentionnées ci-dessus)Je me désinscris à la facture électroniqueCourriel pour facture électroniqueCommentaireCaractères restants: 10000<strong>Charg'immo</strong>Vous êtesUn gérant, propriétaire ou copropriétaire d’un parking souterrain.Un locataire ou propriétaire d’une place de parc.Autre (électricien, revendeur automobile, commune, autre)Votre immeuble dispose déjà d’un pré-aménagement pour accueillir les bornes CHARG’IMMO?OuiNonJe ne sais pasCommentaireCaractères restants: 10000<strong>Portail SMART</strong>L'interface de suivi de consommation/refoulement (En attente lors pour la MEP de Diamond)Affiche des données incorrectes ou manquantesPrésente des défaillances à l'utilisation de ses fonctionnalitésNe s'affiche pasRemarques générales sur l'utilisationCommentaireCaractères restants: 10000Numéro de compteurAdresse du compteur<strong>Cadastre thermique + Solutions de chauffage</strong><strong>Données de la chaudière</strong>Adresse de la chaudièreSystème de chauffage actuelMazoutGaz naturelPelletsElectriquePAC<strong></strong>Consommation annuelleConsommation annuelle (si possible en kWh)Puissance de la chaudièreEn kWDate de mise en service de la chaudièreDate souhaitée du changement du système de chauffageCommentaire<br>Exemple: planification des travaux de rénovation.Caractères restants: 10000<strong>Communautés d'autoconsommateurs</strong>Je souhaite adhérer à une communautéJe souhaite quitter une communautéJe suis membre d’une communauté et j’ai des questions concernant mon décompte et factureJe cherche une prestation de décompte et facturation et j’ai besoin de conseils sur la prestation des SiLJe bénéficie de la prestation Décompte et facturation et j’ai des questions sur mes décomptes et facturesJe bénéficie de la prestation Décompte et facturation et je souhaite modifier le prix de l'énergie autoconsomméeJe bénéficie de la prestation Décompte et facturation et je souhaite la résilier<strong>Décompte et facturation de communautés d'autoconsommateurs</strong>Je suis membre d’une communauté et j’ai des questions concernant mon décompte et factureJe cherche une prestation de décompte et facture et j’ai besoin de conseils sur la prestation des SiLCommentaireCaractères restants: 10000<strong>Bornes de recharge publiques</strong>J’ai besoin d’informations sur le produitJ’ai besoin d’assistance techniqueCommentaireCaractères restants: 10000<strong>Demande de remboursement</strong>CommentaireCaractères restants: 10000IBAN<strong>Changement tarif Profil (simple/duo)</strong>Votre souhaitJe change de tarif pour passer au profil duo (heures pleines / creuses).Je change de tarif pour passer au profil simple.CommentaireCaractères restants: 10000<strong>Champs standard</strong>Numéro de factureIndiqué sur votre facture SiLNuméro de référenceIndiqué sur votre facture SiL"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ajouter des pièces jointesThis Table cannot have more than 5 and less than 0 elements"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vos données personnellesSociétéNomPrénomNPAAdresseTéléphoneFormat: +41 79 111 22 33CourrielNuméro de ménageDate de naissanceAdresse de raccordementCaractères restants: 100Format: Place de l'Europe 2 <br>1003 Lausanne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Action de soumission0Rien faire [VALI] <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html\" data-slug=\"particuliers-contact\">[PROD]</a>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "sourceLevel": 2,
+      "text": "Professionnels"
+    },
+    {
+      "type": "table",
+      "headers": [],
+      "rows": [
+        [
+          "<strong>Produits électricité, gaz, chauffage à distance et multimédia</strong><br> Tél. 021 315 82 82<br> <a href=\"mailto:sil.commercial@lausanne.ch\">sil.commercial@lausanne.ch</a>",
+          "Lundi-vendredi<br> 08h00-12h00<br> 13h00-17h00"
+        ]
+      ]
+    },
+    {
+      "type": "contact",
+      "title": "Direction Services industriels",
+      "lines": [
+        "Place Chauderon 23 Rez-de-chaussée",
+        "Case postale 7416 1001 Lausanne"
+      ],
+      "logo": "logo-sil2",
+      "links": [
+        {
+          "url": "https://www.t-l.ch/",
+          "external": true,
+          "label": "Lien vers le site des TL"
+        },
+        {
+          "url": "https://www.lausanne.ch/silcontact",
+          "external": false,
+          "slug": "particuliers-contact",
+          "label": "Nous contacter"
+        },
+        {
+          "url": "https://www.facebook.com/ServicesIndustrielsLausanne",
+          "external": true,
+          "label": "Facebook"
+        },
+        {
+          "url": "https://www.instagram.com/silausanne/",
+          "external": true,
+          "label": "Instagram"
+        },
+        {
+          "url": "https://www.linkedin.com/company/86236415",
+          "external": true,
+          "label": "Linkedin"
+        }
+      ]
+    }
+  ]
+}

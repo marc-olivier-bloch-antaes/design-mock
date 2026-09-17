@@ -1,0 +1,2431 @@
+{
+  "slug": "partenaires-raccordements",
+  "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html",
+  "path": "/partenaires/raccordements",
+  "title": "Raccordements - Electricité",
+  "section": "partenaires",
+  "breadcrumb": [
+    {
+      "label": "Services industriels (SiL)",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels.html",
+      "slug": "accueil"
+    },
+    {
+      "label": "Partenaires",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires.html"
+    },
+    {
+      "label": "Raccordements",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements.html",
+      "slug": "partenaires-raccordements"
+    }
+  ],
+  "lead": "Vous souhaitez vous raccorder à l'un des réseaux – énergie, télécommunications, eau, assainissement – de la Ville de Lausanne? Vous trouverez ci-dessous les informations nécessaires. A noter que les SiL et le Service de l’eau gèrent chacun un ou plusieurs réseaux, selon la commune du lieu de raccordement. Pour les autres demandes, veuillez-vous adresser à votre commune.",
+  "heroImage": "assets/images/AdobeStock_2k_130665463.2026-06-19-15-09-29.jpg",
+  "cta": [
+    {
+      "label": "Contact",
+      "url": "https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/contact-sil.html?Motif=raccordement"
+    }
+  ],
+  "tabs": [
+    {
+      "id": "electricite",
+      "label": "Electricité",
+      "icon": "assets/icons/picto-onglet-electricite.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL alimentent en électricité 5 communes de l'agglomération lausannoise et une commune valaisanne: Collonges (près de la centrale hydroélectrique de Lavey)."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1EQGFgzUfg2ZkHvz6gHoiNEdg9g31d2E&usp=sharing"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches de raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous construisez un bien immobilier et souhaitez le raccorder au réseau électrique des SiL? Pour cela, il vous faut:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Prendre connaissance des <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\">Conditions de raccordement</a>.",
+            "Remplir la <a href=\"https://www.lausanne.ch/dam/jcr:19dd903d-2d12-497b-9064-504c18f91f5c/Demande-energie-electrique.pdf\">Demande de raccordement</a> et nous la retourner complétée et signée.",
+            "Nous nous chargeons de faire le premier pas en préparant un point de fourniture au réseau électrique en limite de propriété.",
+            "Votre électricien assurera la suite des démarches (DRT, AI etc.) qui conduiront à un contrat de raccordement."
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les coûts du raccordement définitif"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le matériel et les coûts varient en fonction de la puissance mise à disposition, et non en fonction des types d’objets raccordés (villa, villa mitoyenne, immeuble, etc.). Il faut différencier la Contribution aux Coûts du Réseau (CCR) et la Contribution de Raccordement au Réseau (CRR)."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "La <strong>CCR</strong> est une taxe de raccordement basée sur la puissance sollicitée. Elle constitue une participation du demandeur à l’établissement et au renforcement du réseau de distribution, afin que les SiL soient capables de délivrer la puissance demandée.",
+            "La <strong>CRR </strong>correspond aux coûts effectifs de raccordement. Elle est perçue sous la forme d’un forfait de branchement couvrant les coûts administratifs et de raccordement au réseau. Le génie civil reste à la charge du demandeur.<br>"
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Raccordement en basse tension (BT)"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Contribution au Coût du Réseau (CCR)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les tarifs de la contribution aux coûts du réseau basse tension (CCR) sont calculés en fonction de la puissance nécessaire à l'immeuble à raccorder, payables avant le début des travaux."
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "",
+                      "<strong>CHF HT / A</strong>"
+                    ],
+                    [
+                      "BT",
+                      "162,80"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Contribution au raccordement (CRR)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La contribution de raccordement au réseau (CRR) est établie sur devis uniquement, avec un acompte de 30% payable avant le début des travaux."
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Forfait raccordement</strong>",
+                      "<strong>CHF HT / pce</strong>"
+                    ],
+                    [
+                      "<strong>Monophasé ≤ 16A (câble non compris)</strong>"
+                    ],
+                    [
+                      "- sur borne avec ou sans comptage (mode de raccordement préférentiel)",
+                      "4'710.-"
+                    ],
+                    [
+                      "- sur coffret apparent ou encastré",
+                      "4'505.-"
+                    ],
+                    [
+                      "- sur équipement fourni par le client (cellule d'intro, réglette privée, etc.)",
+                      "3'670.-"
+                    ],
+                    [
+                      "<strong>Triphasé ≤ 160 A</strong> (câble non compris)"
+                    ],
+                    [
+                      "- sur borne (mode de raccordement préférentiel)",
+                      "5'095.-"
+                    ],
+                    [
+                      "- sur coffret apparent ou encastré",
+                      "4'670.-"
+                    ],
+                    [
+                      "- sur équipement fourni par le client (cellule d'intro, réglette privée, etc.)",
+                      "4'100.-"
+                    ],
+                    [
+                      "<strong>Triphasé ≤ 400 A</strong> (câble non compris)"
+                    ],
+                    [
+                      "- sur borne (mode de raccordement préférentiel)",
+                      "7'930.-"
+                    ],
+                    [
+                      "- sur coffret apparent ou encastré",
+                      "7'310.-"
+                    ],
+                    [
+                      "- sur équipement fourni par le client (cellule d'intro, réglette privée, etc.)",
+                      "4'795.-"
+                    ],
+                    [
+                      "<strong>Triphasé &gt; 400 A</strong> (câble non compris)"
+                    ],
+                    [
+                      "- sur équipement fourni par le client (cellule d'intro, réglette privée, etc.)",
+                      "5'340.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Câble en sus des forfaits de raccordement (au mètre linéaire)</strong>",
+                      "<strong>CHF HT / ml</strong>"
+                    ],
+                    [
+                      "- GKN 16 mm2 cu",
+                      "7.80"
+                    ],
+                    [
+                      "- GKN 25 mm2 cu",
+                      "14.70"
+                    ],
+                    [
+                      "- GKN 50 mm2 cu",
+                      "29.20"
+                    ],
+                    [
+                      "- GKN 95 mm2 cu",
+                      "50.50"
+                    ],
+                    [
+                      "- GKN 150 mm2 cu",
+                      "80.00"
+                    ],
+                    [
+                      "- GKN 240 mm2 cu",
+                      "137.30"
+                    ],
+                    [
+                      "- ALU 35 mm2",
+                      "8.70"
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Raccordement en moyenne tension (MT)"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Contribution au Coût du Réseau (CCR)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les tarifs de la contribution aux coûts du réseau moyenne tension (CCR) sont calculés en fonction de la puissance nécessaire à l'immeuble à raccorder, payables avant le début des travaux."
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "",
+                      "<strong>CHF HT / kVA</strong>"
+                    ],
+                    [
+                      "MT",
+                      "120.-"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Contribution au raccordement (CRR)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La contribution de raccordement au réseau (CRR) est établie sur devis uniquement, avec un acompte de 30% payable avant le début des travaux."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Tarifs sur demande."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Modification, entretien ou suppression du raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Lors d’une augmentation de puissance suite à une modification du raccordement ou une déconstruction et reconstruction sur la même parcelle, seule l’augmentation de la CCR est due. En cas de non-utilisation du raccordement, le droit à la CCR s’éteint après 5 ans."
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Autres forfaits",
+              "blocks": [
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Autres forfaits liés au raccordement en basse tension</strong>"
+                    ],
+                    [
+                      "",
+                      "<strong>CHF HT / pce</strong>"
+                    ],
+                    [
+                      "- Remplacement coffret ≤ 160 A",
+                      "1'695.-"
+                    ],
+                    [
+                      "- Remplacement coffret ≤ 400 A",
+                      "2'960.-"
+                    ],
+                    [
+                      "- Déplacement de coffret",
+                      "1'460.-"
+                    ],
+                    [
+                      "- Passage du raccordement aérien - souterrain",
+                      "2'900.-"
+                    ],
+                    [
+                      "- Obturation ou suppression de raccordement",
+                      "1'630.-"
+                    ],
+                    [
+                      "- Diagnostic de puissance consommée et qualité de la tension",
+                      "740.-"
+                    ],
+                    [
+                      "- Diverses interventions sur les raccordements",
+                      "134.- /heure"
+                    ]
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Comment envoyer vos documents/demandes OIBT",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 5,
+                  "text": "Envoyer vos documents OIBT (Ordonnance sur les installations électriques à basse tension)"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les documents OIBT sont des formulaires normés qui comportent toutes les informations nécessaires au Gestionnaire de Réseau de Distribution pour accomplir les demandes des usagers.<br> <br> Si vous ne possédez pas le logiciel Elektroform, les SiL vous mettent à disposition une plateforme qui vous permet de rédiger vos documents OIBT et de nous les envoyer directement et simplement sur la <a href=\"https://www.elektroform.ch/online/lausanne/\">Plateforme Elektroform/SiL</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Raccordement provisoire"
+        },
+        {
+          "type": "paragraph",
+          "html": "Toutes les demandes de raccordement provisoire de chantier doivent être transmises par Elektroform. Si vous ne possédez pas ce logiciel, les SiL vous mettent à disposition une plateforme qui vous permet de rédiger vos documents OIBT et de nous les envoyer directement et simplement: <a href=\"https://www.elektroform.ch/online/lausanne/\">Plateforme Elektroform/SiL</a>"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Détails et tarifs",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Afin de répondre à ces demandes dans les meilleurs délais, elles seront analysées en amont par les collaborateurs des SiL. Lors de séances de chantier ou de rencontres avec des entreprises, les collaborateurs des SiL pourront ainsi directement définir et indiquer aux demandeurs un point de raccordement possible."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "En cas de doute ou de dépassement des valeurs prescrites, une demande doit être transmise aux SiL via <a href=\"https://www.elektroform.ch/online/lausanne/\">Elektroform</a> ou par e-mail à <a href=\"mailto:raccordements@lausanne.ch\">raccordements@lausanne.ch</a> pour la définition du point de fourniture."
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Le demandeur doit communiquer le courant nominal et le courant de pointe souhaité pour son raccordement provisoire par l’envoi d’une «Demande de Raccordement Technique (DRT)».",
+                    "Il est possible de déduire un point de fourniture basé sur les critères ci-dessous:"
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Emplacement</strong>",
+                      "<strong>Courant de pointe (A)</strong>",
+                      "<strong>location de l’armoire <br> CHF HT / mois</strong>"
+                    ],
+                    [
+                      "Ligne aérienne",
+                      "25",
+                      "100.-"
+                    ],
+                    [
+                      "Câble réseau",
+                      "40",
+                      "100.-"
+                    ],
+                    [
+                      "Armoire réseau",
+                      "63",
+                      "100.-"
+                    ],
+                    [
+                      "Poste de transformation",
+                      "160",
+                      "250.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Le <strong>câble privé</strong> entre l’emplacement du chantier et le point de fourniture est à la charge et sous la responsabilité du demandeur. Les SiL louent, dans la limite de leurs disponibilités, des <strong>armoires de comptage</strong> placées à côté du point de fourniture pour 100.- CHF/mois (hors taxe) jusqu’à 125A (courant nominal), 250 CHF/mois (hors taxe) jusqu’à 400A et 300.- CHF/mois (hors taxe) jusqu’à 630A.",
+                    "Le demandeur devra faire établir, par un électricien avec autorisation d’installer, un «Avis d’Installation Unifié (AI)» et une «Intervention sur les Appareils de Tarification (IAT)». Ces documents devront être transmis via Elektroform avec l’emplacement de raccordement spécifié (nom de poste, numéro de l’armoire)."
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le raccordement des provisoires de chantier est facturé au forfait selon les tarifs suivants."
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Provisoire de chantier Basse Tension - BT</strong>"
+                    ],
+                    [
+                      "",
+                      "<strong>CHF HT / pce</strong>"
+                    ],
+                    [
+                      "Pose / dépose d'un coffret provisoire SIL avec comptage de 0 à 63A",
+                      "1'115.-"
+                    ],
+                    [
+                      "Pose / dépose d'un coffret provisoire SIL avec comptage de 64 à 125A",
+                      "1'420.-"
+                    ],
+                    [
+                      "Pose / dépose d'un coffret provisoire SIL avec comptage de 126A à 400A",
+                      "1'730.-"
+                    ],
+                    [
+                      "Pose / dépose d'un coffret provisoire SIL avec comptage de 401A à 630A",
+                      "2'315.-"
+                    ],
+                    [
+                      "Raccordement d'un coffret provisoire privé",
+                      "780.-"
+                    ],
+                    [
+                      "Location de coffret provisoire jusqu'à 63A",
+                      "100.- /mois"
+                    ],
+                    [
+                      "Location de coffret provisoire jusqu'à 125A",
+                      "100.- /mois"
+                    ],
+                    [
+                      "Location de coffret provisoire jusqu'à 160A",
+                      "150.- /mois"
+                    ],
+                    [
+                      "Location de coffret provisoire jusqu'à 400A",
+                      "250.- /mois"
+                    ],
+                    [
+                      "Location de coffret provisoire jusqu'à 630A",
+                      "300.- /mois"
+                    ]
+                  ]
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Pour les raccordements provisoires en <strong>Moyenne Tension</strong> le prix sera établi sur demande au cas par cas.",
+                    "Les raccordements provisoires ne sont pas soumis à la CCR.",
+                    "La consommation est facturée selon les <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres/electricite.html?tab=tarifs\">Tarifs Provisoires</a>."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    },
+    {
+      "id": "gaz",
+      "label": "Gaz",
+      "icon": "assets/icons/picto-onglet-gaz.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL disposent d'un réseau de gaz naturel-biogaz long de 757 kilomètres qui s’étend sur plus de 40 communes. 38 communes sont desservies au détail, trois communes en gros et une commune (Lutry) en partenariat."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1wCxzDUPm-tBaxQMu_Xa8_WG3vDNBmlw&usp=sharing"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches de raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous souhaitez raccorder votre bâtiment au réseau de gaz naturel / biogaz des SiL? Voici la marche à suivre:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Contactez-nous via notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel/formulaire-raccordement-gaz.html\">formulaire en ligne</a> et prenez connaissance de nos <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html#gaz-naturel-biogaz-0\">conditions de raccordement</a>.",
+            "Suite à un premier contact, nos équipes se chargeront de vérifier la faisabilité de votre demande.",
+            "De votre côté, faites appel à un chauffagiste agrée pour votre installation intérieure. Vous trouverez la liste des installateurs sur le site de la SVGW <a href=\"https://www.svgw.ch/fr/certification/certficiation-des-personnes/travaux-d-installation-gaz/r%C3%A9pertoire-travaux-d-installation-gaz-gw102/\">Répertoire - Travaux d’installation gaz (GW102) | SSIGE (svgw.ch)</a>.",
+            "Une fois la faisabilité du raccordement confirmé par nos experts, vous recevrez un contrat de raccordement.",
+            "Dès le contrat signé, un technicien procédera au branchement de votre raccordement au réseau de gaz naturel – biogaz des SiL."
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Informations à transmettre lors de votre demande",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/gaz-naturel/formulaire-raccordement-gaz.html\">formulaire en ligne</a> suffit. Une fois la faisabilité du raccordement confirmée par les SiL, vous recevrez un contrat de raccordement."
+                }
+              ]
+            },
+            {
+              "title": "Tarifs",
+              "blocks": [
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Branchement avec consommation immédiate de gaz</strong>",
+                      "<strong>CHF HT / prise</strong>"
+                    ],
+                    [
+                      "- Dimensionnement: prise 2’’",
+                      "1'400.-"
+                    ],
+                    [
+                      "- Dimensionnement: prise 3’’",
+                      "1'800.-"
+                    ],
+                    [
+                      "- Dimensionnement: prise 4’’",
+                      "2'000.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Branchement en attente, plus de 2 ans</strong>",
+                      "<strong>CHF HT / prise</strong>"
+                    ],
+                    [
+                      "- Dimensionnement: prise 2’’",
+                      "2'400.-"
+                    ],
+                    [
+                      "- Dimensionnement: prise 3’’",
+                      "2'800.-"
+                    ],
+                    [
+                      "- Dimensionnement: prise 4’’",
+                      "3'000.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "<br> En cas de branchement commun privé, la fourniture de la vanne, quelle que soit sa dimension, est facturée hors TVA à CHF 1'000.-/pièce."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les tarifs ci-dessus comprennent: la main d’œuvre, l’équipement complet avec un regard de vanne et le contrôle. Les frais de génie civil ne sont pas compris."
+                }
+              ]
+            },
+            {
+              "title": "Formulaires destinés aux installateurs et aux propriétaires",
+              "blocks": [
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Nouvelle installation",
+                      "url": "https://www.lausanne.ch/dam/jcr:bf2a3478-8680-42ba-b770-236a69e2f4ae/nouvelle-installation-gaz-sil.pdf",
+                      "format": "PDF",
+                      "size": "3 MB",
+                      "date": "Demande d’autorisation"
+                    },
+                    {
+                      "label": "Remplacement de chaudière et/ou autres appareils",
+                      "url": "https://www.lausanne.ch/dam/jcr:d49f6860-c374-4645-89d6-a1812823ddba/remplacement-chaudiere-gaz.pdf",
+                      "format": "PDF",
+                      "size": "2 MB",
+                      "date": "Demande d’autorisation"
+                    },
+                    {
+                      "label": "Protocole d'essai de pression",
+                      "url": "https://www.lausanne.ch/dam/jcr:d7343021-1d76-4640-b988-e6a58fb3c361/protocole-essai-pression.pdf",
+                      "format": "PDF",
+                      "size": "340 Ko",
+                      "date": null
+                    },
+                    {
+                      "label": "Demande de suppression du branchement Gaz",
+                      "url": "https://www.lausanne.ch/dam/jcr:0e53c3b9-b9a8-4e2d-9def-0635008a694e/Formulaire_suppression_gaz.pdf",
+                      "format": "PDF",
+                      "size": "176 Ko",
+                      "date": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Règlements",
+              "blocks": [
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Conditions de raccordement, utilisation du réseau et de fourniture de gaz des Services industriels de Lausanne.",
+                      "url": "https://www.lausanne.ch/dam/jcr:fb6186b9-5742-4fb6-afc5-9ac4c37bbcac/conditions-raccordement-utilisation-reseau-fourniture-gaz-services-industriels-lausanne.pdf",
+                      "format": "PDF",
+                      "size": "196 Ko",
+                      "date": null
+                    },
+                    {
+                      "label": "Règlement tarifaire relatif à la fourniture de gaz naturel & tarifs particuliers.",
+                      "url": "https://www.lausanne.ch/dam/jcr:fa630130-8eca-4dae-91eb-bdd75dd169eb/reglement-tarifaire-gaz-naturel-octobre-2022.pdf",
+                      "format": "PDF",
+                      "size": "163 Ko",
+                      "date": null
+                    },
+                    {
+                      "label": "Prescriptions pour les nouvelles constructions, transformations sur les branchements et installations intérieures gaz.",
+                      "url": "https://www.lausanne.ch/dam/jcr:f869dc1c-ea40-4ba0-8e94-aa95b7fcefe3/prescription-techniques-gaz.pdf",
+                      "format": "PDF",
+                      "size": "1 MB",
+                      "date": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    },
+    {
+      "id": "chaleur",
+      "label": "Chaleur",
+      "icon": "assets/icons/picto-onglet-cad.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Lausanne est une ville pionnière en matière de chauffage à distance (CAD). Elle investit depuis 1934 pour étendre son réseau qui mesure environ 115 km de long. Il alimente plus de 1443 bâtiments (immeubles et maisons individuelles) en chauffage et eau chaude sanitaire sur les communes de Lausanne, Epalinges et les territoires desservis par CADOUEST SA."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1qv7ZJiumzTDm3tzUkA392O4onDtHifY&usp=sharing"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Cadastre thermique"
+        },
+        {
+          "type": "paragraph",
+          "html": "La Ville de Lausanne a cartographié l’entier du territoire communal et intégré de nouvelles données sur l’énergie dans <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/professionnels/les-offres/chaleur.html?tab=cad\">le guichet cartographique</a>: le réseau de chauffage à distance, ses extensions futures et les solutions de chauffage disponibles."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les propriétaires des bâtiments qui seront raccordés au chauffage à distance peuvent ainsi planifier des éventuels travaux à 2 ans, 5 ans ou 10 ans."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches de raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous êtes une entreprise partenaire, un fournisseur, installateur ou entreprise de construction? Vous trouverez ci-dessous le formulaire de demande de raccordement ou d’installations ainsi que les Règlements applicables sur le réseau des SiL."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Contactez-nous via notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/chaleur/formulaire-raccordement-chauffage-a-distance.html\">formulaire en ligne</a>.",
+            "Suite à un premier contact, nos équipes se chargeront de vérifier la faisabilité de votre demande.",
+            "Une fois la faisabilité du raccordement confirmé par nos experts, vous recevrez un contrat de raccordement.",
+            "Dès la signature du contrat, les travaux pourront débuter."
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Informations à transmettre lors de votre demande",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Afin de pouvoir vous répondre rapidement et avec précision, merci de nous faire parvenir les documents suivants lors de l’envoi de votre demande:"
+                },
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "items": [
+                    "La puissance de votre chaudière actuelle dans le cas d’un bâtiment existant",
+                    "La puissance calculée dans le cas d’un nouveau bâtiment",
+                    "Un plan de situation",
+                    "Un plan avec l'emplacement de la chaufferie"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Tarifs",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Une contribution aux coûts du raccordement (génie civil + fourniture, pose, raccordement et mise en service) est à la charge du propriétaire. Ils seront déterminés par le contrat de raccordement selon les conditions suivantes (prix HT):"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Une taxe de base de CHF 50'000.- incluant les 50 premiers kW ainsi que les 15 premiers mètres linéraires",
+                    "Une taxe de puissance progressive et cumulative sur les tranches de kW supplémentaires CHF 100.-/kW de 51-100 kW CHF 200.-/kW de 101-200 kW CHF 300.-/kW de 201-300 kW CHF 400.-/kW de 301-400 kW"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Si les mètres linéaires dépassent le forfait de base de 15 mètres, une participation supplémentaire de CHF 1'000.- par mètre sera demandée."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Au-delà de 400 kW le coût se composent comme suit (prix HT):"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Un forfait de base de CHF 150'000.– incluant les 15 premiers mètres linéaires",
+                    "Une contribution additionnelle de CHF 4'500.– par mètre supplémentaires, si la longueur de raccordement dépasse les 15 mètres inclus dans le forfait"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le contrat doit être signé avant le début des travaux."
+                }
+              ]
+            },
+            {
+              "title": "Règlements",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Retrouvez dans cette section l'accès aux différents règlements propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relative aux branchements concernés."
+                },
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Conditions de raccordement au réseau de distribution du chauffage à distance et à la fourniture de chaleur",
+                      "url": "https://www.lausanne.ch/dam/jcr:75cf433e-24d5-4ac9-a447-099d15a7ad18/CG_Raccordement_CAD_janvier_2026.pdf",
+                      "format": "PDF",
+                      "size": "217 Ko",
+                      "date": "Valable dès le 1 er janvier 2026"
+                    },
+                    {
+                      "label": "Prescriptions pour les réseaux de chauffage à distance CAD LAUSANNE et CAD OUEST.",
+                      "url": "https://www.lausanne.ch/dam/jcr:d2d02bbb-6c45-4851-9de2-690071e23c4d/prescriptions-cad-sil-cadouest.pdf",
+                      "format": "PDF",
+                      "size": "821 Ko",
+                      "date": "Du 1er août 2022"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    },
+    {
+      "id": "ipe",
+      "label": "IPE",
+      "icon": "assets/icons/picto-onglet-photovoltaique.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL alimentent en électricité 5 communes de l'agglomération lausannoise et une commune valaisanne: Collonges (près de la centrale hydroélectrique de Lavey). Vous pouvez raccorder votre installation de production d'énergie (IPE) au réseau électrique des SiL, uniquement si elle se trouve sur notre zone de distribution."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=18HAR-NJH8AHzNcHPSKxZDbvFKCs1yR0&usp=sharing"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches de raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le raccordement d’une unité de production d’énergie (centrale photovoltaïque, mini éolienne, groupe de secours) ou un système particulier (pompe à chaleur, borne de recharge pour véhicules électriques,...) vise à connecter l’installation au réseau de distribution des SiL, par l’utilisation d’une ligne existante, son renforcement ou la mise en place de nouvelles lignes."
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour vous raccorder au réseau électrique, nous vous prions de"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Prendre connaissance des <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\">Conditions de raccordement</a>, particulièrement les C-IPE.",
+            "Contacter un installateur agréé pour préparer un dossier. Votre électricien assurera la suite des démarches (élaboration des documents DRT, AI etc.) qui conduiront à la validation du raccordement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Les modifications ou suppressions de vos installations doivent suivre le même processus."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les installations concernées: IPE - Installation de Production d’Energie"
+        },
+        {
+          "type": "paragraph",
+          "html": "L’IPE est une installation comprenant une ou plusieurs unités de production d’énergie (y compris une installation de raccordement) et tous les équipements électriques nécessaires à son fonctionnement. La délimitation technique d’une IPE se trouve, côté réseau, au niveau des bornes de sortie de l’interrupteur principal/de l’interrupteur de couplage."
+        },
+        {
+          "type": "paragraph",
+          "html": "Il existe un grand nombre de systèmes classés comme IPE, tous ne génèrent pas de l’électricité."
+        },
+        {
+          "type": "paragraph",
+          "html": "En Suisse, on distingue deux grandes familles d’installations solaires:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "<strong>Installations avec consommation propre</strong>: une partie de l’électricité produite est consommée sur place.",
+            "<strong>Installations sans consommation propre</strong>: toute l’électricité est injectée dans le réseau."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour gérer ces situations, les SiL utilisent les interfaces<strong> IER</strong> (Interface Échange Réseau), qui définissent le type d’installation et les règles associées. <br> Sur cette page, nous présentons les principaux modèles utilisés. Les différents IPE sont catégorisés en 3 thématiques:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "IPE concernant le raccordement de producteur et prosommateurs",
+            "IPE concernant le raccordement de modèle d’autoconsommation collective",
+            "IPE concernant le raccordement divers."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Les SiL utilisent l’abréviation IER (Interface Echange Réseau) pour définir les différents types d’IPE. Pour chacun d’eux, les documents à produire et les tarifs sont différents. La validation de la demande de raccordement technique (DRT) par les SiL fait office de contrat, et permet à votre électricien de poursuivre les travaux."
+        },
+        {
+          "type": "paragraph",
+          "html": "Indépendamment du modèle de raccordement, nous attirons l’attention que dans le cadre d’une installation solaire, il est important d’être attentif au mécanisme de reprise de l’énergie solaire GRD qui est en constante évolution réglementaire. Nous vous invitons à prendre connaissance de notre FAQ sur ce sujet."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nos tarifs de reprise: <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=tarifs\">Electricité - tarifs – Ville de Lausanne</a><br> Notre FAQ: Electricité - <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=faq\">faq – Ville de Lausanne</a><br>"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Stabilité et la sécurité du réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Avec le développement des installations photovoltaïques, le réseau électrique est davantage sollicité, notamment lors des périodes de forte production.<br> Afin de garantir sa stabilité et sa sécurité, de nouvelles exigences s’appliquent aux installations photovoltaïques dès 2026."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Réglage automatique de la production P(U)"
+        },
+        {
+          "type": "paragraph",
+          "html": "Dès 2026, l’activation du réglage P(U) est requise pour toute nouvelle installation."
+        },
+        {
+          "type": "paragraph",
+          "html": "Ce réglage doit être activé par votre électricien directement sur l’onduleur de votre installation photovoltaïque. Il permet d’adapter le niveau de puissance produite par votre installation en fonction de la tension du réseau."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les frais de réglage sont à la charge du producteur."
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour en savoir plus nous vous invitons à consulter la <a href=\"https://www.lausanne.ch/dam/jcr:55ed291a-51e4-4357-ba2b-7356a1fae427/fiche-information-p-de-u-adapter-la-production.pdf\">fiche d’information</a>."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Limitation de la puissance d’injection"
+        },
+        {
+          "type": "paragraph",
+          "html": "Afin d’éviter les risques de surtension du réseau, la puissance d’injection doit être limitée à 70% de la puissance installée pour toute nouvelle installation."
+        },
+        {
+          "type": "paragraph",
+          "html": "Ce principe, appelé écrêtage, consiste à limiter la puissance injectée par une installation photovoltaïque (PV) afin de ne pas dépasser un seuil défini, indépendamment de la puissance réellement disponible. Il doit être effectué par votre électricien:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Soit directement à l’onduleur, avec une limitation d’injection fixe minimale à 70%",
+            "Soit au point de raccordement (via le système de mesure)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Les frais de réglage sont à la charge du producteur."
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "Impact limité sur la production"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les installations photovoltaïques ne dépassent que rarement 70% de leur puissance installée et seulement pendant quelques heures par an. La limitation ne s’applique donc pas en permanence, mais uniquement lors de pics de production."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les analyses réalisées par les Services industriels de Lausanne (SiL) montrent que la perte de production reste limitée et inférieure aux seuils définis par la réglementation (art. 19d OApEl), soit moins de 3 % par an."
+        },
+        {
+          "type": "paragraph",
+          "html": "Nous pouvons vous transmettre un rapport détaillé sur demande (<a href=\"https://www.lausanne.ch/dam/jcr:3f1de848-34d6-4ec6-8559-3687a31e048f/exemples-rapport-SiL-ecretage.pdf\">exemple ici</a>). Pour l’obtenir, veuillez remplir notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html\">formulaire de contact</a> en indiquant la puissance installée et votre tarif de reprise"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Pour en savoir plus, nous vous invitons à prendre connaissance de la <a href=\"https://www.lausanne.ch/dam/jcr:13269b2e-6a0a-4fdf-b432-f5c833e68830/ds-injection-solaire-dans-le-reseau.pdf\">fiche d’information</a> et de la <a href=\"https://www.youtube.com/watch?v=3p3OCV1TQ4k\">vidéo explicative</a>.",
+            "Pour toute question relative aux prescriptions des distributeurs (PDIE), nous mettons un document à votre disposition sur la <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\">page règlements, rubrique électricité</a>."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "D’autres questions sur ces mesures de sécurité et de flexibilité ? <a href=\"https://www.lausanne.ch#faq\"><strong>Consultez notre FAQ</strong></a>"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "IPE concernant le raccordement de producteur et prosommateurs"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "IER-P – Producteur",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "La production d'énergie est entièrement refoulée sur le réseau. Ce type de raccordement est soumis au tarif de reprise indiqué sans consommation propre. Pour ce type de raccordement, il est possible de vendre ou non les garanties d’origine aux SiL.<br> <br> <strong>Idéal pour:</strong>"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Hangars, parkings, bâtiments sans consommation locale",
+                    "Grands toits agricoles ou industriels destinés uniquement à l’injection"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Il est vivement conseillé d’étudier un modèle d’autoconsommation individuel ou collectif pour pouvoir autoconsommer l’énergie produite."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. DRT - Demande de Raccordement Technique pour les installations AC et DC par un installateur agréé via la plateforme \"Elektroform\"<br> 2. Schéma unifilaire de l’installation<br> 3. AI - Avis d’Installation AC + DC, après avoir reçu la DRT validée<br> 4. IAT - Intervention sur Appareil de Tarification, après avoir reçu la DRT validée"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Tarifs"
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Raccordement IPE:</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Puissance &lt; 30kVA",
+                      "260.-"
+                    ],
+                    [
+                      "- Puissance &gt; 30kVA",
+                      "430.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "IER-P production pure"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La production pure est par exemple adaptée sur un parking ou sur un couvert en extérieur où il n’y a pas de consommateurs."
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schemas-04.2024-12-17-11-38-21.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "IER-P Production sans autoconsommation"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La production sans autoconsommation est par exemple adaptée pour un toit d’une grange ou d’un entrepôt avec une faible consommation. Le consommateur ne bénéficie pas de l’énergie produite."
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schemas-05.2024-12-17-11-38-43.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                }
+              ]
+            },
+            {
+              "title": "IER-I – Autoconsommateur",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L'énergie produite est autoconsommée par le propriétaire de l’installation. Si elle n'est pas totalement consommée, le surplus est refoulé sur le réseau."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Ce type de raccordement est soumis au tarif de reprise indiqué avec consommation propre. Pour ce type de raccordement, il est possible de vendre ou non les garanties d’origine aux SiL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Idéal pour: maisons individuelles, PME, ateliers, bureaux"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. DRT – Demande de Raccordement Technique par un installateur agréé via la plateforme \"Elektroform\"<br> 2. Schéma unifilaire de l’installation<br> 3. AI – Avis d’Installation AC + DC, après avoir reçu la DRT validée<br> 4. IAT – Intervention sur Appareil de Tarification, après avoir reçu la DRT validée"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Tarifs"
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Raccordement IPE</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Puissance &lt; 30kVA",
+                      "260.-"
+                    ],
+                    [
+                      "- Puissance &gt; 30kVA",
+                      "430.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Schéma cible"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schema1.2023-03-15-16-22-19.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "IPE concernant le raccordement de modèle d’autoconsommation collective"
+        },
+        {
+          "type": "paragraph",
+          "html": "L’autoconsommation collective a passablement évolué ces dernières années. Ci-dessous un historique des modèles. Chaque modèle est détaillé sur cette page"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Dès 2014, Communauté d’Autoconsommateurs (CA), nouvelles conditions en 2023",
+            "Dès 2018, Regroupement dans le cadre de la consommation propre (RCP)",
+            "Dès 2025, Regroupement virtuel dans le cadre de la consommation propre (RCPv)",
+            "Dès 2026, Communauté électrique locale (CEL)",
+            "Dès 2026, Communauté d’Autoconsommateurs virtuelle (CAv)"
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "IER-C – Communauté d’Autoconsommateurs (CA)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les communautés d'autoconsommateurs (CA) sont un modèle de pratique développé par les gestionnaires de réseaux de distribution (GRD) pour permettre l’autoconsommation en commun. Chaque propriétaire d’une installation photovoltaïque peut consommer tout ou une partie de l’énergie produite par ses panneaux. S’il le désire, il peut également en faire bénéficier ses voisins directs qui profitent ainsi d’une énergie renouvelable et locale. Nous appelons une communauté d’autoconsommateurs un groupe de personnes, voisins et voisines, qui consomment une électricité produite par une centrale solaire installée sur le toit de leur immeuble. Ce type de raccordement est soumis au tarif de reprise indiqué avec consommation propre. Pour ce type de raccordement, il est possible de vendre ou non les garanties d’origine aux SiL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque plusieurs centrales solaires participent à la communauté, l’autoconsommation se fera en agrégant la production des différentes centrales."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La participation de chaque consommateur est volontaire. Chacun (locataire, propriétaire...) peut rejoindre ou quitter la communauté à tout moment. Le GRD reste responsable de l’approvisionnement des différents consommateurs finaux."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le Membre recevra une facture des SiL avec la part soutirée du réseau.<br> Le Producteur recevra une facture des SiL composée de la rémunération de l’énergie refoulée sur le réseau.<br> La répartition et facturation aux membres de la part autoconsommée est du ressort du Producteur. Certains GRD et prestataires tiers proposent une solution de décompte et facturation."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Idéal pour: Immeubles locatifs, PPE avec un seul bâtiment, sites où l’on veut faire profiter les locataires de l’énergie solaire produite sur leur bâtiment"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Avantages: Permet d’offrir une électricité solaire locale à plusieurs utilisateurs sans montage trop complexe et sans changement de compteur. Flexibilité d’adhésion des membres."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. DRT - Demande de Raccordement Technique par un installateur agréé via la plateforme «Elektroform»<br> 2. Schéma unifilaire de l’installation <br> 3. AI - Avis d’Installation AC + DC, après avoir reçu la DRT validée<br> 4. IAT – Intervention sur Appareil de Tarification, après avoir reçu la DRT validée<br> 5. <a href=\"https://www.lausanne.ch/dam/jcr:12085f94-78ea-472c-82b2-38e1e89b8c25/Formulaire-constitution-CA.pdf\">Formulaire de constitution d'une Communauté d'autoconsommation (CA)</a><br> 6. <a href=\"https://www.lausanne.ch/dam/jcr:3c50ce9c-84e7-4efc-a50e-54fdb8a06566/Formulaire-adhesion-CA.pdf\">Formulaire d'adhésion à une Communauté d'autoconsommation (CA)</a><br> 7. <a href=\"https://www.lausanne.ch/dam/jcr:86826544-3502-43f1-9091-0c71700104d4/formulaire-retrait-CA.pdf\">Formulaire de retrait d'une Communauté d'autoconsommation (CA)</a><br> 8. <a href=\"https://www.lausanne.ch/dam/jcr:d5c220b7-e5df-4082-a585-1f9fa6e98177/formulaire-suppression-CA.pdf\">Formulaire de suppression d'une Communauté d'autoconsommation (CA)</a>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Tarifs"
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Raccordement IPE</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Puissance &lt; 30kVA",
+                      "260.-"
+                    ],
+                    [
+                      "- Puissance &gt; 30kVA",
+                      "430.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Constitution d’une communauté d’autoconsommation (CA)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Bâtiment existant",
+                      "260.-"
+                    ],
+                    [
+                      "- Bâtiment nouveau",
+                      "210.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Suppression d’une communauté d’autoconsommateurs (CA)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Suppression CA",
+                      "310.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Pose, dépose ou échange de compteurs d'énergie électrique<br> si demande spécifique (hors constitution, suppression et fait de vie)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (1er compteur)",
+                      "80.-"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (par compteur supplémentaire)",
+                      "40.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Schéma cible"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schema2.2025-12-17-12-10-26.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                }
+              ]
+            },
+            {
+              "title": "IER-Cv – Communauté d’Autoconsommateurs virtuelle (CAv)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’unique différence avec le modèle CA (IER-C) est le périmètre géographique. Le périmètre pour une CAv est étendu aux immeubles se trouvant sur la même ligne de raccordement et point de raccordement."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les communautés d'autoconsommateurs virtuelles (CAv) sont un modèle de pratique développé par les gestionnaires de réseaux de distribution (GRD) pour permettre l’autoconsommation en commun. Chaque propriétaire d’une installation photovoltaïque peut consommer tout ou une partie de l’énergie produite par ses panneaux. S’il le désire, il peut également en faire bénéficier ses voisins de quartiers qui profitent ainsi d’une énergie renouvelable et locale. Nous appelons une communauté d’autoconsommateurs un groupe de personnes, voisins et voisines, qui consomment une électricité produite par une ou plusieurs centrales solaires installées sur les toits de leurs immeubles ou sur leurs immeubles voisins. Ce type de raccordement est soumis au tarif de reprise indiqué avec consommation propre. Pour ce type de raccordement, il est possible de vendre ou non les garanties d’origine aux SiL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque plusieurs centrales solaires participent à la communauté, l’autoconsommation se fera en agrégeant la production des différentes centrales."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La participation de chaque consommateur est volontaire. Chacun (locataire, propriétaire,...) peut rejoindre ou quitter la communauté à tout moment. Le GRD reste responsable de l’approvisionnement des différents consommateurs finaux."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Le Membre recevra une facture des SiL avec la part soutirée du réseau.<br> Le Producteur recevra une facture des SiL composée de la rémunération de l’énergie refoulée sur le réseau.<br> La répartition et facturation aux membres de la part autoconsommée est du ressort du Producteur. Certains GRD et prestataires tiers proposent une solution de décompte et facturation."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Régies, bailleurs, coopératives d’habitation"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Idéal pour: Immeubles locatifs, PPE avec plusieurs bâtiments, régies, bailleurs, coopératives d’habitation.<br> Avantages: Permet d’offrir un courant solaire local à plusieurs utilisateurs sans montage trop complexe et sans changement de compteur. Flexibilité d’adhésion des membres."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre (identique à une CA)"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. DRT - Demande de Raccordement Technique par un installateur agréé via la plateforme «Elektroform»<br> 2. Schéma unifilaire de l’installation <br> 3. AI - Avis d’Installation AC + DC, après avoir reçu la DRT validée<br> 4. IAT – Intervention sur Appareil de Tarification, après avoir reçu la DRT validée<br> 5. <a href=\"https://www.lausanne.ch/dam/jcr:12085f94-78ea-472c-82b2-38e1e89b8c25/Formulaire-constitution-CA.pdf\">Formulaire de constitution d'une Communauté d'autoconsommation (CA)</a><br> 6. <a href=\"https://www.lausanne.ch/dam/jcr:3c50ce9c-84e7-4efc-a50e-54fdb8a06566/Formulaire-adhesion-CA.pdf\">Formulaire d'adhésion à une Communauté d'autoconsommation (CA)</a><br> 7. <a href=\"https://www.lausanne.ch/dam/jcr:86826544-3502-43f1-9091-0c71700104d4/formulaire-retrait-CA.pdf\">Formulaire de retrait d'une Communauté d'autoconsommation (CA)</a><br> 8. <a href=\"https://www.lausanne.ch/dam/jcr:d5c220b7-e5df-4082-a585-1f9fa6e98177/formulaire-suppression-CA.pdf\">Formulaire de suppression d'une Communauté d'autoconsommation (CA)</a>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Tarifs"
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Raccordement IPE</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Puissance &lt; 30kVA",
+                      "260.-"
+                    ],
+                    [
+                      "- Puissance &gt; 30kVA",
+                      "430.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Constitution d’une communauté d’autoconsommation (CA)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Bâtiment existant",
+                      "260.-"
+                    ],
+                    [
+                      "- Bâtiment nouveau",
+                      "210.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Suppression d’une communauté d’autoconsommateurs (CA)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Suppression CA",
+                      "310.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Pose, dépose ou échange de compteurs d'énergie électrique<br> si demande spécifique (hors constitution, suppression et fait de vie)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (1er compteur)",
+                      "80.-"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (par compteur supplémentaire)",
+                      "40.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Schéma cible"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schema2.2025-12-17-12-17-36.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                }
+              ]
+            },
+            {
+              "title": "IER-R – Regroupement dans le cadre de la consommation propre (RCP)",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Si plusieurs propriétaires fonciers ayant qualité de consommateurs finaux se partagent un même lieu de production, ils peuvent se regrouper dans la perspective d’une consommation propre commune, pour autant que la puissance totale de production soit considérable par rapport à la puissance de raccordement au point de mesure (art.18, al. 1 LEne). Pour ce faire, ils concluent une convention entre eux ainsi qu’avec l’exploitant de l’installation. (art. 17 LEne)"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "L’objectif est de permettre à ses voisins de consommer sa propre production afin de maximiser la consommation sur place (c’est-à-dire de produire et consommer sur place au maximum)."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les propriétaires doivent se trouver sur des parcelles contiguës. Les terrains qui ne sont séparés que par une rue, une voie ferrée ou un cours d’eau sont également considérés comme contigus, moyennant l’accord du propriétaire concerné (art. 14 OEne). Généralement la Commune de Lausanne n’accorde pas le passage sur son Domaine Publique."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Seule l’électricité qui n’utilise pas le réseau du gestionnaire de réseau entre l’installation de production et la consommation est considérée comme faisant l’objet d’une consommation propre sur le lieu de production."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La puissance de production des IPE doit être au moins de 10% de la puissance totale du raccordement du RCP (art. 15 OEne)."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les propriétaires fonciers prennent eux-mêmes en charge les coûts liés à l’introduction de la consommation propre commune, dans la mesure où ils ne sont pas couverts par la rémunération pour l’utilisation du réseau (art. 14 LApEl). Ils ne peuvent pas les répercuter sur les locataires ou les fermiers."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. DRT – Demande de Raccordement Technique pour les installations AC et DC par un installateur électricien agréé via la plateforme \"Elektroform\"<br> 2. Schéma unifilaire de l’installation<br> 3. AI – Avis d’Installation AC + DC (après avoir reçu la DRT validée)<br> 4. IAT – Intervention sur Appareil de Tarification (après avoir reçu la DRT validée)<br> 5. <a href=\"https://www.lausanne.ch/dam/jcr:81f57bed-7c66-4efc-b7cb-8e66046d1528/RCP-demande-constitution-regroupement-consommation-propre.pdf\">Formulaire de demande de constitution</a><br> 6. <a href=\"https://www.lausanne.ch/dam/jcr:cc7dedac-67d1-49ae-a309-aca26fbcec0b/RCP-annonce-changement-composition-regroupement-consommation-propre.pdf\">Formulaire d’annonce de changement dans la composition</a><br> 7. <a href=\"https://www.lausanne.ch/dam/jcr:25e4a957-8b85-4945-bfac-e0e6193bf6fb/RCP-information-registre-OIBT-nouvelle-construction.pdf\">Formulaire pour le registre du contrôle OIBT (nouvelle construction)</a>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Tarifs"
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Raccordement IPE</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Puissance &lt; 30kVA",
+                      "260.-"
+                    ],
+                    [
+                      "- Puissance &gt; 30kVA",
+                      "430.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Constitution d’un regroupement pour la consommation propre (RCP)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Bâtiment existant",
+                      "310.-"
+                    ],
+                    [
+                      "- Bâtiment nouveau",
+                      "260.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Suppression d’un regroupement pour la consommation propre (RCP)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Suppression RCP",
+                      "310.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "table",
+                  "headers": [],
+                  "rows": [
+                    [
+                      "<strong>Pose, dépose ou échange de compteurs d'énergie électrique si demande spécifique (hors constitution, suppression et fait de vie)</strong>",
+                      "<strong>CHF HT</strong>"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (1er compteur)",
+                      "80.-"
+                    ],
+                    [
+                      "- Intervention compteur sur demande (par compteur supplémentaire)",
+                      "40.-"
+                    ]
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Schéma cible"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/schema3.2025-12-17-12-10-26.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                }
+              ]
+            },
+            {
+              "title": "IER-Rv – Regroupement virtuel dans le cadre de la consommation propre (RCPv)",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Regroupement virtuel"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Une RCPv (Regroupement pour la Consommation Propre virtuel) est une forme particulière de regroupement de consommateurs RCP partageant un même lieu de production, dans laquelle plusieurs propriétaires ou consommateurs finaux s’associent pour consommer ensemble l’électricité produite localement (par exemple via panneaux solaires), sans utiliser le réseau public des SiL pour cette consommation interne. La particularité du RCPv est que, contrairement à un regroupement RCP “physique”, il peut utiliser la ligne de raccordement et l’infrastructure locale au point de raccordement tout en étant considéré comme de la consommation propre, conformément au droit fédéral."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Des questions sur les démarches à suivre ? Contactez-nous à <strong><a href=\"mailto:Des questions sur les démarches à suivre ? Contactez-nous à raccordements@lausanne.ch?subject=Question(s)%20sur%20les%20d%C3%A9marches%20%C3%A0%20suivre%20pour%20un%20raccordement\">raccordements@lausanne.ch</a></strong>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. Schéma unifilaire de l’installation<br> 2. <a href=\"https://www.lausanne.ch/dam/jcr:800cdfa6-379e-436d-a824-c9e6577bc5ce/RCP-demande-constitution-regroupement-virtuel-consommation-propre.pdf\">Formulaire de demande de constitution RCPv</a><br>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Schéma cible"
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/modele1.2026-01-23-09-56-43.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/modele2.2026-01-23-09-57-32.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                },
+                {
+                  "type": "image",
+                  "src": "assets/images/modele3.2026-01-23-09-57-57.png",
+                  "alt": "© Ville de Lausanne",
+                  "caption": null
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à télécharger"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "1. <a href=\"https://www.lausanne.ch/dam/jcr:6f1cdeb0-b296-407d-850d-609ada142666/schema-principe-regroupement-virtuel-autoconsommateur-GRD.pdf\">Schéma cibles</a><br>"
+                }
+              ]
+            },
+            {
+              "title": "IER-CEL - Communauté électrique locale (CEL)",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Communauté électrique locale"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La CEL est une communauté énergétique à plus grande échelle.Les habitants d’une même commune peuvent échanger leur énergie via le réseau public, avec un tarif adapté."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour une CEL, la réduction du tarif réseau est de 40 % lorsque tous les participants sont raccordés au même niveau de réseau sans changement de tension, et de 20 % dès qu’une transformation de tension est nécessaire entre producteurs et consommateurs.<br> <br> La production solaire intégrée à la communauté électrique locale (CEL) doit représenter au moins 5 % de la puissance totale des consommateurs participants pour que la communauté soit valable.<br> Pour rejoindre une Communauté électrique locale, il suffit d’être un consommateur, un producteur d’énergie renouvelable ou un utilisateur de stockage situé dans la même commune et sur le même réseau local que les autres membres, sachant qu’un participant ne peut appartenir qu’à une seule CEL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Des questions sur les démarches à suivre pour l'éligibilité et la constitution d'une CEL ? Contactez-nous à <strong><a href=\"mailto:Des questions sur les démarches à suivre ? Contactez-nous à raccordements@lausanne.ch?subject=Question(s)%20sur%20les%20d%C3%A9marches%20%C3%A0%20suivre%20pour%20un%20raccordement\">raccordements@lausanne.ch</a></strong>"
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "items": [
+                    "<a href=\"https://www.lausanne.ch/dam/jcr:4833fb98-65f2-46e0-8768-6d42ce1cb6e4/formulaire-constitution-CEL.pdf\">Formulaire de demande de constitution CEL</a>",
+                    "<a href=\"https://www.lausanne.ch/dam/jcr:750416cc-8a40-4608-8027-6ce710da166f/formulaire-changement-compostion-CEL.pdf\">Formulaire d'annonce de changement de composition CEL</a>"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "IPE concernant les divers raccordements"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "IER-Y – Installation Photovoltaïque Plug & Play",
+              "blocks": [
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Installation Plug & Play"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Une installation photovoltaïque Plug &amp; Play est une installation qui peut être directement branchée sur une prise extérieure pour l’alimentation énergétique décentralisée dans le réseau électrique."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "En Suisse, les habitants sont en droit d'installer chez eux une petite installation solaire photovoltaïque, dite \"Plug &amp; Play\" (ou \"plug-and-play\"), d'une puissance maximale de 600 W et qui se connecte directement dans une prise électrique standard extérieure."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Une installation solaire Plug &amp; Play doit respecter <strong>les conditions suivantes</strong>*:"
+                },
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "items": [
+                    "Sa puissance de production électrique <strong>ne doit pas dépasser 600 W</strong>, afin d'éviter tout risque d'échauffement du câblage électrique du bâtiment lorsque des appareils soutirent déjà beaucoup d'électricité.<br>",
+                    "Elle doit être accompagnée <strong>d'une déclaration de conformité</strong>: tous ses composants doivent respecter les normes citées dans l'article 6 de l'OMBT (Ordonnance sur les matériels électriques à basse tension).<br>",
+                    "Matériel obligatoire : un dispositif de protection à courant différentiel-résiduel (PRCD, type B, 30 mA) dans le câble d’alimentation ou dans la fiche secteur du côté AC du matériel OU un dispositif de surveillance du courant différentiel-résiduel sensible à tous les types de courant (RCMU - intégré à l’interface micro-onduleur / installation électrique)."
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "La mise en place d’une installation PV Plug&Play doit être notifiée auprès des SiL."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "L’information doit nous parvenir avant la mise en service à l’adresse <a href=\"mailto:raccordements@lausanne.ch\">raccordements@lausanne.ch</a> avec les informations suivantes :"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "numéro de référence SiL (indiqué sur votre facture SiL)",
+                    "déclaration de conformité de l'installation"
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "html": "* les SiL se réservent le droit de refuser l’installation d’un système en cas de configuration électrique spéciale"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les Services industriels de Lausanne sont dans l’obligation de rétribuer l’énergie refoulée, issue des installations PV Plug&amp;Play, sur son réseau de distribution (selon <a href=\"https://cms.lausanne.ch/magnoliaAuthor/vie-pratique/energies-et-eau/services-industriels/particuliers/je-choisis-mon-offre/electricite.html?tab=tarifs\">les tarifs de reprise en vigueur</a>, sans garantie d’origine)."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "L’exploitation d’une installation photovoltaïque Plug &amp; Play n’entraîne pas, pour les SiL, l’obligation (anticipée) de poser un compteur intelligent."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les démarches concernant l’annonce et la configuration ne sont pas facturées."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "En cas de déménagement, votre installation PV Plug &amp; Play est automatiquement désactivée sauf annonce particulière de votre part."
+                }
+              ]
+            },
+            {
+              "title": "IER-N – Systèmes particuliers avec ou sans production d’énergie solaire",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Exemples d’installations électriques pour lesquelles cette directive s’applique (liste non exhaustive):"
+                },
+                {
+                  "type": "list",
+                  "ordered": false,
+                  "items": [
+                    "Stations de recharge <strong>(bornes)</strong> pour la mobilité électrique sans ou avec réinjection (stations de recharge bidirectionnelles)",
+                    "Installation de stockage d’énergie <strong>(batteries)</strong> avec ou sans réinjection dans le réseau de distribution à basse tension",
+                    "Pompe à chaleur <strong>(PAC)</strong>",
+                    "Installations chaleur-force",
+                    "Centrales à biomasse",
+                    "Centrales hydroélectriques",
+                    "Groupes électrogènes de secours<strong> (ASI)</strong> et installations auxiliaires d’alimentation, dans la mesure où ceux-ci sont exploités en parallèle avec le réseau de distribution à basse tension,"
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Documents à transmettre"
+                },
+                {
+                  "type": "list",
+                  "ordered": true,
+                  "items": [
+                    "DRT – Demande de Raccordement Technique pour les installations AC et DC par un installateur électricien agréé",
+                    "Schéma unifilaire de l’installation",
+                    "AI – Avis d’Installation (après avoir reçu la DRT validée)",
+                    "IAT – Intervention sur Appareil de Tarification (après avoir reçu la DRT validée) pour le cas où le compteur doit être changé / remplacé, etc."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Règlements"
+        },
+        {
+          "type": "paragraph",
+          "html": "Retrouvez les différents règlements propres à la livraison ou à la distribution des énergies ainsi que les prescriptions d'installation relatives aux branchements concernés sur notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/a-propos-sil/nos-activites/reglements.html\">page règlements</a>"
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "FAQ – Écrêtage à 70% de la puissance photovoltaïque"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Pourquoi parle-t-on de régulation des installations solaires?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque de nombreuses installations photovoltaïques produisent simultanément beaucoup d’électricité, une grande quantité d’énergie est injectée sur le réseau local. Cela peut entraîner une hausse locale de la tension électrique, particulièrement en bout de ligne. Une tension trop élevée peut provoquer le déclanchement d’installations photovoltaïques, le dysfonctionnement ou des dommages aux appareils électriques ou encore une surconsommation.<br> La régulation vise à maintenir la tension afin de garantir la stabilité et la sécurité du réseau."
+                }
+              ]
+            },
+            {
+              "title": "Quel est le défi technique lié à cette augmentation?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque la production solaire dépasse temporairement la consommation locale, la tension du réseau peut dépasser les valeurs admissibles. Avant chaque nouvelle installation, nous réalisons une simulation technique afin d’évaluer son impact sur le voisinage. Si nous identifions un risque de surtension ou de congestion, des mesures doivent être prises. La solution la plus directe consiste à renforcer le réseau électrique (fouilles, changement des câbles, …). Ces interventions sont, d’une part, très coûteuses, avec une participation financière à la charge du producteur, et d’autre part, elles peuvent entraîner de longs délais avant la mise en service. Pour limiter les besoins de renforcement, nous privilégions des solutions d’optimisation/flexibilité telles que l’écrêtage à 70%."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que l’écrêtage à 70%?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’écrêtage à 70% consiste à limiter la puissance maximale injectée sur le réseau à 70% de la puissance installée de l’installation photovoltaïque. L’électricien met en place ce réglage soit directement sur l’onduleur, soit au point de raccordement (via le système de mesure, gestion intelligente de l'énergie (SGE)). Cette mesure permet d’éviter des travaux de renforcement lourds (fouilles, changement des câbles), possiblement à charge des producteurs. Cela permet également de mettre en service davantage d’installations dans un même quartier avant de devoir prendre des mesures plus contraignantes."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi cette limitation est-elle bénéfique pour tous?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’écrêtage permet d’intégrer jusqu’à 30% d’installations photovoltaïques supplémentaires sans renforcer le réseau, toute en entraînant une perte d’énergie mineure pour le client. Réduire les besoins de renforcement contribue à limiter les coûts d’infrastructure et donc de maîtriser le prix final de l’électricité. Cette mesure permet aussi de réduire les délais de mise en service des installations. Il s’agit donc d’une solution qui permet de poursuivre l’essor du solaire sans que les contraintes du réseau électrique ne devienne un frein."
+                }
+              ]
+            },
+            {
+              "title": "Vais-je perdre beaucoup d’énergie avec l’écrêtage?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non. Les analyses montrent que la perte de production annuelle est très faible. Selon l’installation, elle est toujours inférieure à 3 %, presque toujours inférieure à 1 % et en moyenne autour des 0.05%."
+                }
+              ]
+            },
+            {
+              "title": "Quelles solutions pour réaliser l’écrêtage?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les clients ont le choix entre un écrêtage à 70% mesuré à l’onduleur (sans frais) ou au point de raccordement (avec potentiel surcoût d’installation à la charge du client). Mesurer au niveau du point de raccordement permet de prendre en compte l’autoconsommation et ainsi réduire la limitation de production PV. Cela ajoute néanmoins une complexité de technique et d’infrastructure à mettre en place à la charge du client."
+                }
+              ]
+            },
+            {
+              "title": "Ai-je le choix entre les deux solutions?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. Vous pouvez choisir la solution que vous voulez"
+                }
+              ]
+            },
+            {
+              "title": "Vais-je être indemnisé pour l’énergie non produite?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non. L’écrêtage à 70% est considéré comme une « flexibilité garantie» au sens de l’article 19d de l’ordonnance suisse sur l’approvisionnement en électricité (OApEl). Lorsqu’il entraîne une perte inférieure à 3 % de l’énergie produite annuellement, il ne donne pas droit à une rémunération."
+                }
+              ]
+            },
+            {
+              "title": "Comment serai-je informé de l’écrêtage?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Nous vous informons une fois par année de l’estimation de l’énergie non produite par votre installation lorsque celle-ci est soumise à l’écrêtage.<br> Vous pouvez également nous contacter à tout moment afin d’obtenir une estimation actualisée de l’énergie non produite depuis le début de l’année."
+                }
+              ]
+            },
+            {
+              "title": "Puis-je estimer moi-même la perte de production?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’estimation n’est pas évidente car on ne peut pas mesurer de l’énergie qui n’a pas été produite."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est l’ordre de grandeur de perte de production en kWh sur une année pour une centrale de production de 12 kW avec consommation propre sur une villa avec une orientation très bonne ? Et au niveau financier sur la diminution de rétribution avec le tarif de reprise 2026 avec GO?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’énergie perdue est estimée à 2 kWh ce qui correspondrait à un manque à gagner de 20 centimes."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est l’ordre de grandeur de perte de production en kWh sur une année pour une centrale de production de 30 kW avec consommation propre avec une orientation très bonne ? Et au niveau financier sur la diminution de rétribution avec le tarif de reprise 2026 avec GO?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’énergie perdue est estimée à 104 kWh ce qui correspondrait à un manque à gagner de 11 francs et 40 centimes."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est l’ordre de grandeur de perte de production en kWh sur une année pour une centrale de production de 130 kW avec consommation propre avec une orientation très bonne ? Et au niveau financier sur la diminution de rétribution avec le tarif de reprise 2026 avec GO?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’énergie perdue est estimée à 450 kWh ce qui correspondrait à un manque à gagner de 32 francs et 40 centimes."
+                }
+              ]
+            },
+            {
+              "title": "Quelle est l’ordre de grandeur de perte de production en kWh sur une année pour une centrale de production de 200 kW sans consommation propre avec une orientation très bonne ? Et au niveau financier sur la diminution de rétribution avec le tarif de reprise 2026 avec GO?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "L’énergie perdue est estimée à 30 kWh ce qui correspondrait à un manque à gagner de 1 franc 60 centimes."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que les SiL font des simulations pour les clients?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Sur demande uniquement, nous vous transmettrons un rapport détaillé (<a href=\"https://www.lausanne.ch/dam/jcr:3f1de848-34d6-4ec6-8559-3687a31e048f/exemples-rapport-SiL-ecretage.pdf\">exemple ici</a>). Pour l’obtenir, veuillez remplir notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html\">formulaire de contact</a> en indiquant la puissance installée et votre tarif de reprise."
+                }
+              ]
+            },
+            {
+              "title": "À qui puis-je m’adresser en cas de questions?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour toute question complémentaire, vous pouvez nous contacter via notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html\">formulaire de contact</a>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 5,
+          "text": "FAQ – P(U) : Adapter la production solaire au réseau"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Pourquoi parle-t-on de régulation des installations solaires?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque de nombreuses installations photovoltaïques produisent simultanément beaucoup d’électricité, une grande quantité d’énergie est injectée sur le réseau local. Cela peut entraîner une hausse locale de la tension électrique, particulièrement en bout de ligne. Une tension trop élevée peut provoquer le déclanchement d’installations photovoltaïques, le dysfonctionnement ou des dommages aux appareils électriques ou encore une surconsommation.<br> La régulation vise à maintenir la tension afin de garantir la stabilité et la sécurité du réseau."
+                }
+              ]
+            },
+            {
+              "title": "Quel est le défi technique lié à cette augmentation?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque la production solaire dépasse temporairement la consommation locale, la tension du réseau peut dépasser les valeurs admissibles. Avant chaque nouvelle installation, nous réalisons une simulation technique afin d’évaluer son impact sur le voisinage. Si nous identifions un risque de surtension ou de congestion, des mesures doivent être prises. La solution la plus directe consiste à renforcer le réseau électrique (fouilles, changement des câbles, …). Ces interventions sont, d’une part, très coûteuses, avec une participation financière à la charge du producteur, et d’autre part, elles peuvent entraîner de longs délais avant la mise en service. Pour limiter les besoins de renforcement, nous privilégions des solutions d’optimisation/flexibilité telles que l’écrêtage à 70%."
+                }
+              ]
+            },
+            {
+              "title": "Qu’est-ce que le P(U)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le P(U) — prononcé « P de U » — est une fonction de régulation intégrée à l’onduleur. Elle adapte automatiquement la puissance active produite (P) en fonction de la tension du réseau (U). Lorsque la tension augmente au-delà de certains seuils, l’onduleur réduit progressivement la puissance injectée afin de préserver la stabilité du réseau. Il s’agit d’un mécanisme de sécurité qui contribue à limiter les situations de surtension sur le réseau basse tension."
+                }
+              ]
+            },
+            {
+              "title": "Pourquoi le P(U) est-il nécessaire?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le réseau électrique est dimensionné pour une certaine puissance. Lors de fortes productions solaires — typiquement en été, par beau temps et avec une faible consommation locale — la tension peut augmenter et le réseau peut atteindre ses limites, en particulier s’il se trouve déjà dans une situation d’exploitation temporairement dégradée. Par exemple lors de travaux à proximité, lorsque le flux d’électricité est dévié vers un tronçon plus long du réseau, lorsqu’une installation injecte une puissance supérieure à celle annoncée. La fonction P(U) permet d’agir automatiquement dans ces situations en réduisant temporairement la puissance injectée, afin de préserver la stabilité et la sécurité du réseau."
+                }
+              ]
+            },
+            {
+              "title": "Comment fonctionne concrètement le P(U)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Lorsque la tension du réseau dépasse un seuil prédéfini, cela indique une situation locale de surcharge ou de surtension. La fonction P(U) réduit alors progressivement la puissance injectée par l’installation photovoltaïque afin de stabiliser la tension. Dès que la tension revient dans la plage admissible, l’onduleur rétablit automatiquement la production jusqu’à sa puissance maximale."
+                }
+              ]
+            },
+            {
+              "title": "Le P(U) réduit-il fortement ma production solaire?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non. Le P(U) constitue une mesure de sécurité et, pour la grande majorité des installations, il ne s’active jamais. La réduction de puissance intervient uniquement sur de courtes périodes, lorsque la tension du réseau dépasse les seuils admissibles, généralement dans des situations d’exploitation temporairement dégradées. Dans de rares cas, certaines installations peuvent être concernées de manière exceptionnelle. La perte d’énergie associée reste toutefois négligeable."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que le P(U) a un impact sur la rentabilité de mon installation?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Non, ou de manière négligeable. La rentabilité d’une installation photovoltaïque dépend de l’énergie produite sur l’année (kWh). La fonction P(U) ne concerne qu’une très faible part de cette production, et uniquement dans des situations exceptionnelles où le réseau se trouve temporairement dans une configuration d’exploitation dégradée. En pratique, cette régulation n’a pas d’influence notable sur la rentabilité de l’installation."
+                }
+              ]
+            },
+            {
+              "title": "Qui active le P(U)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Le P(U) est activé directement sur l’onduleur par votre électricien, selon les consignes transmises après l’analyse du réseau."
+                }
+              ]
+            },
+            {
+              "title": "Est-ce que tous les onduleurs sont compatibles avec le P(U)?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Oui. La technologie P(U) est déjà disponible sur tous les onduleurs solaires actuels, ce qui permet une mise en œuvre simple et rapide."
+                }
+              ]
+            },
+            {
+              "title": "Quelles sont les démarches à suivre?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Vous n’avez aucune démarche à entreprendre. L’électricien chargé de la mise en service de l’installation paramètre la fonction P(U) conformément aux exigences en vigueur. Ce réglage fait partie de ses obligations pour toute nouvelle installation photovoltaïque."
+                }
+              ]
+            },
+            {
+              "title": "À qui puis-je m’adresser en cas de questions?",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Pour toute question complémentaire, vous pouvez nous contacter via notre <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/particuliers/contact-sil.html\">formulaire de contact</a>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fibre-optique",
+      "label": "Fibre optique",
+      "icon": "assets/icons/picto-onglet-fibre.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Avec sa société fille LFO SA, les SiL disposent d'un réseau de fibre optique qui couvre l’ensemble de la commune de Lausanne."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1IQOvF5WWPQqnfN5fjDvKcHCL7JeYbT8&usp=sharing"
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les avantages d'un raccordement au réseau de fibre optique"
+        },
+        {
+          "type": "paragraph",
+          "html": "LFO utilise la fibre optique pour raccorder les bâtiments qui se construisent sur le territoire de la commune de Lausanne."
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour le grand public ou les professionnels, ce réseau FTTH (Fiber To The Home) permet aux habitants d’accéder aux offres multimédia incluant la télévision numérique, l’Internet à très haut débit et la téléphonie fixe. Pour les investisseurs et propriétaires, leurs bâtiments gagnent en attractivité grâce à un réseau hyper rapide, ouvert et à la pointe de la technologie. Entièrement passif, il transmet les signaux sans consommation d’énergie depuis les centraux jusqu’à la prise, ce qui contribue à diminuer l’empreinte carbone du numérique."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches de raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Tout raccordement doit faire l'objet d'une étude préalable. Que vous souhaitiez raccorder une nouvelle construction ou un bâtiment existant au réseau fibre optique, nos équipes vous accompagnent dans vos projets, depuis l’étude jusqu’à la mise à disposition de la fibre."
+        },
+        {
+          "type": "paragraph",
+          "html": "Merci de nous annoncer votre projet en remplissant le formulaire de <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements/etude-racc-fibre.html\">Demande d'étude de raccordement</a>"
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Tarifs",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Les coûts du génie civil nécessaires à la pose des canalisations de câbles sur le domaine privé ainsi que les frais liés à la mise en place du boîtier d’introduction optiques (BEP – Building Entry Point) sont à la charge du propriétaire, tout comme le câblage intérieur du bâtiment."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "La fourniture du câble optique, la pose, le raccordement et la mise en service sont réalisés à prix coutants pour les bâtiments existants, et gratuitement pour les nouveaux bâtiments."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Les travaux de raccordement débuteront après la signature du contrat."
+                }
+              ]
+            },
+            {
+              "title": "Extensions du réseau dans votre immeuble",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Il est possible d'ajouter de nouvelles prises optiques (extensions) dans des immeubles déjà raccordés à la fibre optique (FTTH). Les câblages du réseau sont alors complétés afin de raccorder plus de prises optiques OTO (par exemple lors d'agrandissements ou ajout de nouveaux appartements ou bureaux)."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Merci de remplir le formulaire de <a href=\"https://www.lausanne.ch/vie-pratique/energies-et-eau/services-industriels/partenaires/raccordements/demande-prise-optique-supp.html\">Demande de prises optiques supplémentaires</a>."
+                },
+                {
+                  "type": "heading",
+                  "level": 4,
+                  "text": "Prix"
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour autant qu’un renforcement du raccordement à la fibre optique n’est pas nécessaire, les frais relatifs aux extensions du réseau s’élèvent à CHF 500.- HTVA par prise de télécommunication fibre optique /OTO. Un devis sera établi en cas de besoin de renforcement du raccordement."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    },
+    {
+      "id": "eau",
+      "label": "Eau",
+      "icon": "assets/icons/picto-onglet-eau.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le Service de l’eau alimente en eau potable Lausanne et 19 autres communes dont il a obtenu la concession pour la distribution de l'eau potable ainsi que de l'eau nécessaire à la lutte contre l’incendie. On parle d’alimentation «au détail». En plus, le service fournit également de l’eau à une quarantaine de communes et associations intercommunales. On parle alors d’alimentation «en gros»."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1WNzG86cgM2qyciDQZvPFdM7ijx_AS1s&usp=sharing"
+        },
+        {
+          "type": "documents",
+          "title": null,
+          "items": [
+            {
+              "label": "Télécharger la carte",
+              "url": "https://www.lausanne.ch/.binaryData/website/path/lausanne/vie-pratique/energies-et-eau/eau/territoires/zones-alimentes-eau-potable/contentAutogenerated/autogeneratedContainer/col1/01/linkList/0/websitedownload/Carte-eau-potable-2022-avec-Bussigny.2022-01-04-11-13-57.pdf",
+              "format": "PDF",
+              "size": null,
+              "date": null
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "L'eau, source de vie"
+        },
+        {
+          "type": "paragraph",
+          "html": "Le laboratoire du Service de l’eau contrôle en permanence l’eau potable pour vous assurer une eau d’excellente qualité. Mais la qualité de l’eau jusqu’au robinet dépend aussi de la manière dont le propriétaire se branche sur le réseau."
+        },
+        {
+          "type": "paragraph",
+          "html": "Les installations doivent être effectuées et entretenues par des professionnels agréés afin qu’aucun dysfonctionnement ne mette en danger la santé des consommateurs."
+        },
+        {
+          "type": "paragraph",
+          "html": "Le Service de l’eau a un rôle de surveillance, afin de garantir que les installations répondent aux normes et fonctionnent de manière irréprochable."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches du raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous êtes propriétaire et souhaitez faire une demande de raccordement au réseau d’eau?<br> Il vous suffit de"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Envoyer un courriel à <a href=\"mailto:raccordements@lausanne.ch\">raccordements@lausanne.ch</a>.",
+            "Les documents nécessaires vous seront transmis après prise de contact.",
+            "En tant que propriétaire, vous devez confier l'exécution des travaux de raccordement des bâtiments au réseau d’eau potable à un installateur sanitaire au bénéfice d’une concession de la Ville de Lausanne. Celle-ci vous garantit des installations sanitaires réalisées dans le respect des règles en la matière, et constitue une assurance pour les consommateurs de disposer durablement d’une eau de qualité."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "html": "Pour plus de détails, le Service de l’eau a édité <a href=\"https://www.lausanne.ch/dam/jcr:36a640fd-2230-4339-b3a7-ff5d8c7728c1/Guide pour la r%C3%A9alisation d&#x27;une nouvelle construction-transformation.pdf\">un guide à l’attention des propriétaires</a> pour la réalisation d’une nouvelle construction ou une transformation."
+        },
+        {
+          "type": "paragraph",
+          "html": "Retrouvez <a href=\"https://www.lausanne.ch/dam/jcr:43831a6e-99a3-4628-810c-a84117d35d05/Liste appareilleurs concessionnaires.08.04.2022.pdf\">la liste des installateurs sanitaires agréés</a>."
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Taxes",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Tout nouveau bâtiment ou toute transformation fait l'objet d'une taxe calculée sur la base du volume SIA (Société suisse des Ingénieurs et des Architectes) indiqué sur la demande de permis de construire et du nombre de Points de Puisage (PP).<br> La taxe, hors TVA, est de CHF 1.50 par m3 SIA et de CHF 160.- par PP."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour information, un point de puisage correspond au nombre d’appareils sanitaires (robinets ou autres) utilisés pour soutirer de l’eau. L’appareil alimenté à la fois en eau froide et en eau chaude équivaut à deux points de puisage."
+                }
+              ]
+            },
+            {
+              "title": "Règlements",
+              "blocks": [
+                {
+                  "type": "documents",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Règlement sur la distribution de l’eau de la Commune de Lausanne",
+                      "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_recueil=288",
+                      "format": "LINK",
+                      "size": null,
+                      "date": null
+                    },
+                    {
+                      "label": "Loi sur la distribution de l'eau (LDE)",
+                      "url": "https://prestations.vd.ch/pub/blv-publication/actes/consolide/721.31?key=1549363442839&id=ee0b3756-6e72-4177-a5ca-927d20b8b6fe",
+                      "format": "LINK",
+                      "size": null,
+                      "date": null
+                    },
+                    {
+                      "label": "Prescriptions du Service de l'eau",
+                      "url": "https://www.lausanne.ch/dam/jcr:e544063f-96f8-4f90-8451-da34bd87fe8d/prescriptions-service-eau.pdf",
+                      "format": "PDF",
+                      "size": "2 MB",
+                      "date": "Édition 2013"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    },
+    {
+      "id": "assainissement",
+      "label": "Assainissement",
+      "icon": "assets/icons/picto-onglet-assainissement.svg",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Notre réseau"
+        },
+        {
+          "type": "paragraph",
+          "html": "La station d'épuration des eaux de Lausanne (STEP de Vidy) épure les eaux usées amenées par les 240’000 habitants raccordés provenant de Lausanne et 15 communes, et s’assure qu’il n’y ait pas d’atteinte portée au milieu naturel."
+        },
+        {
+          "type": "video",
+          "url": "https://www.google.com/maps/d/embed?mid=1lMH1iBdolyIe9x_wlWInFbL5M321csU&usp=sharing"
+        },
+        {
+          "type": "paragraph",
+          "html": "Les eaux que nous rejetons dans l'environnement suivent des filières d'évacuation et de traitement différentes selon leur nature et leur degré de pollution."
+        },
+        {
+          "type": "paragraph",
+          "html": "Alors que les eaux usées (WC, lave-linge, vaisselle, etc.) sont dirigées vers une station d'épuration (STEP), les eaux claires (eau de pluie ruisselant sur les toits, parkings, voies d'accès, etc.) sont en principe rejetées sans traitement dans le milieu naturel par infiltration ou évacuation dans un cours d'eau ou au lac par un réseau de canalisations séparé."
+        },
+        {
+          "type": "heading",
+          "level": 4,
+          "text": "Les démarches du raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vous êtes propriétaire et souhaitez faire une demande de raccordement au réseau d’assainissement?"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Dans le cadre d’un dossier soumis à un permis de construire, aucune démarche supplémentaire n’est à réaliser. Votre dossier sera traité en collaboration avec l’office des permis de construire.",
+            "Pour tous les autres travaux concernant les conduites d’assainissement d’un immeuble, il suffit d’envoyer un courriel à <a href=\"mailto:raccordements@lausanne.ch\">raccordements@lausanne.ch</a>."
+          ]
+        },
+        {
+          "type": "accordion",
+          "items": [
+            {
+              "title": "Informations à transmettre lors de votre demande",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Merci de joindre un plan des canalisations de la parcelle jusqu’au raccordement sur les collecteurs publics."
+                }
+              ]
+            },
+            {
+              "title": "Taxes",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "html": "Tout nouveau bâtiment ou toute transformation fait l'objet d'une taxe calculée sur la base du nombre de Points de Puisage (PP) et des surfaces imperméables raccordées au réseau d’évacuation des eaux claires, conformément au plan des aménagements extérieurs. Des rabais sont accordés pour les surfaces raccordées à un bassin de rétention (75%) ou à un bassin d’infiltration (85%).<br> La taxe, hors TVA est de CHF 200.- par PP et de CHF 25.- par m² de surface raccordée."
+                },
+                {
+                  "type": "paragraph",
+                  "html": "Pour information, un point de puisage correspond au nombre d’appareils sanitaires (robinets ou autres) utilisés pour soutirer de l’eau. L’appareil alimenté à la fois en eau froide et en eau chaude équivaut à deux points de puisage."
+                }
+              ]
+            },
+            {
+              "title": "Règlements",
+              "blocks": [
+                {
+                  "type": "links",
+                  "title": null,
+                  "items": [
+                    {
+                      "label": "Evacuation des eaux – Règlements",
+                      "url": "https://www.lausanne.ch/apps/actualites/index_recueil.php?id_sous_theme=53",
+                      "external": false
+                    },
+                    {
+                      "label": "Eaux usées et eaux claires",
+                      "url": "https://www.energie-environnement.ch/maison/salle-de-bains/eaux-usees-et-eaux-claires",
+                      "external": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": 2,
+          "text": "Obtenez rapidement vos plans de réseaux afin de planifier votre raccordement"
+        },
+        {
+          "type": "paragraph",
+          "html": "Vos commandes de plans directement sur <a href=\"http://www.plans-reseaux.ch\">www.plans-reseaux.ch</a>"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "contact",
+      "title": "Service Patrimoine",
+      "lines": [
+        "Service Patrimoine",
+        "Gestion multifluide des raccordements",
+        "Rue de Genève 32 Case postale 7416 1002 Lausanne",
+        "Ecrivez-nous Tél. 021 315 87 87",
+        "lun-ven 07h30 à 12h00"
+      ],
+      "logo": "assets/images/logo-sil2.svg",
+      "links": [
+        {
+          "label": "Ecrivez-nous",
+          "url": "mailto:raccordements@lausanne.ch",
+          "external": false
+        },
+        {
+          "label": "021 315 87 87",
+          "url": "tel:0213158787",
+          "external": false
+        },
+        {
+          "label": "Lien vers le site des TL",
+          "url": "https://www.t-l.ch/",
+          "external": true
+        },
+        {
+          "label": "Site officiel",
+          "url": "https://www.lausanne.ch/sil-organisation",
+          "external": false
+        }
+      ]
+    }
+  ]
+}
